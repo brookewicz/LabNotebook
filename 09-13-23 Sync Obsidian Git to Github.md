@@ -1,3 +1,4 @@
+https://github.com/git-guides/install-git 
 
 - on repo -> code -> clone using https 
 - `git clone <URL>`

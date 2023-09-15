@@ -21,26 +21,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiome Enrichment 09-05-23.md",
+                "file": "09-05-23 Microbiome (mm) Enrichment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a02e9bba7b4007f",
+            "id": "6506a24caf33ab68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sync Obsidian Git to Github 09-13-23.md",
+                "file": "09-14 DNA concentrations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72c99e6b7dc7f6b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sync Obsidian Git to Github 09-13-23.md",
+                "file": "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sync Obsidian Git to Github 09-13-23.md",
+                "file": "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sync Obsidian Git to Github 09-13-23.md"
+                "file": "09-14-23 Prepping beads for mm enrichment 09-14-23.md"
               }
             }
           }
@@ -167,9 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a02e9bba7b4007f",
+  "active": "72c99e6b7dc7f6b0",
   "lastOpenFiles": [
-    "Microbiome Enrichment 09-05-23.md",
-    "Sync Obsidian Git to Github 09-13-23.md"
+    "09-14 DNA concentrations.md",
+    "09-05-23 Microbiome (mm) Enrichment.md",
+    "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
+    "Protocols",
+    "09-13-23 Sync Obsidian Git to Github.md"
   ]
 }
