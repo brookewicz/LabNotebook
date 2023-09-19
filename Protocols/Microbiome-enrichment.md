@@ -63,6 +63,7 @@ Reagents expressed in **bold** need a calculation from this document.
 <br>
 
 ### Agencourt® AMPure® XP Cleanup
+- micro samples
 1. Vortex AMPure XP to resuspend.
 
 2. If your enriched sample volume x 2.8 from the previous step exceeds your tube volume, split into two tubes.
@@ -83,13 +84,13 @@ Reagents expressed in **bold** need a calculation from this document.
 
 *Caution: Do not over-dry the beads. This may result in lower recovery of DNA. Elute the samples when the beads are still dark brown and glossy looking, but when all visible liquid has evaporated. When the beads turn brown and start to crack, they are too dry.* 
 
-10. Remove the tube from the magnetic stand. Elute the DNA target from the beads by adding 50 μl of 1X TE (use 25 μl for each tube if sample was split in two).
+10. Remove the tube from the magnetic stand. Elute the DNA target from the beads by adding 50 μl of 1X TE (Elution buffer) (use 25 μl for each tube if sample was split in two).
 
-11. Mix well by pipetting up and down 10 times. Incubate for at least 2 minutes at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing back on the magnetic stand.
+11. Mix well by pipetting up and down 10 times. Incubate for at least 10 minutes at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing back on the magnetic stand.
 
 12. Place the tube/plate on the magnetic stand. After 5 minutes (or when the solution is clear), transfer eluate to a new microcentrifuge tube (combine the eluates if sample was split in two).
 
-<br>
+`This supernatant contains the target MICROBIAL DNA. Store this sample at –20°C
 
 ### Optional Protocol for Eluting Captured Host DNA
 *This step elutes the captured host DNA from the MBD2-Fc-bound magnetic beads.*
