@@ -50,7 +50,6 @@ Reagents expressed in **bold** need a calculation from this document.
 
 3. Agitate the tube on a rotating mixer for 15 minutes at room temperature with rotation.
  
- <br>
  
 ### Collect Enriched Microbial DNA
 4. Briefly spin the tube and place on the magnetic rack for 5 minutes until the beads have collected to the wall of the tube and the solution is clear.
