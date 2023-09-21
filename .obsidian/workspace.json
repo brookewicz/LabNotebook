@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3f598e7da959a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-14 DNA concentrations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6506a24caf33ab68",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,12 +161,12 @@
   },
   "active": "1ec00ba6e79d6266",
   "lastOpenFiles": [
+    "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
+    "Protocols/Microbiome-enrichment.md",
     "09-19 DNA CONCENTRATIONS.md",
     "README.md",
     "09-13-23 Sync Obsidian Git to Github.md",
-    "Protocols/Microbiome-enrichment.md",
     "09-14 DNA concentrations.md",
-    "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
     "09-05-23 Microbiome (mm) Enrichment.md",
     "Protocols"
   ]

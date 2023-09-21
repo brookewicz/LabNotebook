@@ -44,7 +44,7 @@ Reagents expressed in **bold** need a calculation from this document.
 <br>
 
 ### Capture Methylated Host DNA
-1. Add 20µl of input DNA to the tube containing the Z μl of **MBD2-Fc-bound magnetic beads**. For other DNA input amounts, add DNA to (Y) μl of **MBD2-Fc bound magnetic beads**.
+1. Add 20µl of input DNA to the tube containing the Z μl of **MBD2-Fc-bound magnetic beads**. For other DNA input amounts, add DNA to (Z) μl of **MBD2-Fc bound magnetic beads**.
 
 2. Add 5µl of **undiluted Bind/wash Buffer** (5X) for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
 
@@ -53,9 +53,9 @@ Reagents expressed in **bold** need a calculation from this document.
  <br>
  
 ### Collect Enriched Microbial DNA
-1. Briefly spin the tube and place on the magnetic rack for 5 minutes until the beads have collected to the wall of the tube and the solution is clear.
+4. Briefly spin the tube and place on the magnetic rack for 5 minutes until the beads have collected to the wall of the tube and the solution is clear.
 
-2. Carefully remove the supernatant with a pipette, without disturbing the beads and transfer it to a clean microcentrifuge tube. 
+5. Carefully remove the supernatant with a pipette, without disturbing the beads and transfer it to a clean microcentrifuge tube. 
 
 `This supernatant contains the target MICROBIAL DNA. Store this sample at –20°C or proceed directly to purification`
 
@@ -99,7 +99,7 @@ Reagents expressed in **bold** need a calculation from this document.
 1. Prepare 1X Bind/wash Buffer (kept on ice) if not already prepped - 1 mL per sample. 1 part NEBNext Bind/wash Buffer (5X) with 4 parts DNase-free water. 
 2. While the tube with the beads (section "Collect Enriched Microbial DNA", Step 2) is still in the magnetic rack, add 1 ml of 1X Bind/wash Buffer (kept on ice) to wash the beads.
 3. Carefully remove the wash buffer with a pipette without disturbing the beads.
-4. Add 150 μl of 1X TE and 15 μl of Proteinase K to the sample pellet. 
+4. Add 150 μl of 1X TE (elution buffer) and 15 μl of Proteinase K to the sample pellet. 
 5. Mix beads by gentle vortexing (1,200 rpm) or by flicking the tube. 
 
 *(Note: The pellet may be difficult to resuspend initially due to the high concentration of genomic DNA bound to the beads.)*
