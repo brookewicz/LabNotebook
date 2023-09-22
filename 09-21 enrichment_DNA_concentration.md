@@ -27,6 +27,7 @@
 - 102019_t1_26 has a blue speck in the tube. definitely appeared AFTER start of microbial ampure bead cleanup 
 	- speck was pipetted out in first round of ethanol - potentially small piece of blue plastic 
 - potentially over-dried the beads in microbial bead purification 
+- left extracted host dna in fridge overnight to complete purification tomorrow to prevent freeze-thaw
 
 ###### Concentrations
 
