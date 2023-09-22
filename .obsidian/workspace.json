@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76e82d6b60c185c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9-22-23 host dna concentrations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "9-22-23 host dna concentrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "9-22-23 host dna concentrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md"
+                "file": "9-22-23 host dna concentrations.md"
               }
             }
           },
@@ -168,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ec00ba6e79d6266",
+  "active": "76e82d6b60c185c3",
   "lastOpenFiles": [
     "09-21-23 enrichment_DNA_concentration.md",
+    "Protocols/Microbiome-enrichment.md",
     "DNA Concentrations Template.md",
     "9-22-23 host dna concentrations.md",
-    "Protocols/Microbiome-enrichment.md",
     "09-19-23 DNA CONCENTRATIONS.md",
     "09-14-23 DNA concentrations.md",
     "09-14-23 Prepping beads for mm enrichment 09-14-23.md",

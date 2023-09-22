@@ -22,4 +22,5 @@ A260/280 0.68
 
 
 **maybe an issue with the amount of ampure to put in each sample?? maybe try ethanol precipitation next time?? over-dried???**
+- check google sheet - corrected ampure bead amount calculation. used 63 uL but should've been 270uL (1.8x150uL of host dna from elution step)
 
