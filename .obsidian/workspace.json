@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6506a24caf33ab68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-14 DNA concentrations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1ec00ba6e79d6266",
             "type": "leaf",
             "state": {
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-21 enrichment_DNA_concentration.md",
+                "file": "09-21-23 enrichment_DNA_concentration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,8 +140,17 @@
                 "file": "Protocols/Microbiome-enrichment.md"
               }
             }
+          },
+          {
+            "id": "f1f5b4dc49139b5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,18 +164,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1ec00ba6e79d6266",
   "lastOpenFiles": [
-    "09-21 enrichment_DNA_concentration.md",
+    "09-21-23 enrichment_DNA_concentration.md",
+    "DNA Concentrations Template.md",
+    "9-22-23 host dna concentrations.md",
     "Protocols/Microbiome-enrichment.md",
-    "09-19 DNA CONCENTRATIONS.md",
+    "09-19-23 DNA CONCENTRATIONS.md",
+    "09-14-23 DNA concentrations.md",
     "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
     "README.md",
     "09-13-23 Sync Obsidian Git to Github.md",
-    "09-14 DNA concentrations.md",
     "09-05-23 Microbiome (mm) Enrichment.md",
     "Protocols"
   ]

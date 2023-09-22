@@ -63,7 +63,6 @@ Reagents expressed in **bold** need a calculation from this document.
 <br>
 
 ### Agencourt® AMPure® XP Cleanup
-- micro samples
 1. Vortex AMPure XP to resuspend.
 
 2. If your enriched sample volume x 2.8 from the previous step exceeds your tube volume, split into two tubes.
