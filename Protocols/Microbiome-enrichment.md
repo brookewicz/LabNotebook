@@ -16,28 +16,27 @@ Reagents expressed in **bold** need a calculation from this document.
 
 1. Resuspend NEBNext Protein A Magnetic Beads by gently pipetting the slurry up and down until the suspension is homogeneous. Alternatively, rotate the tube on a rotating mixer gently for 15 minutes at 4°C. Do not vortex.
 
-2. Prepare the 1X Bind/wash Buffer on ice by diluting 1 part NEBNext Bind/wash Buffer (5X) with 4 parts DNase-free water. Only 3 mL of buffer is needed to prepare the beads. If prepping the buffer for the rest of the protocol too, 1mL per sample is needed. 
-	- change formula on google sheet to make less at bead prep time and separate calculation for # of samples
+2. In a new microcentrifuge tube, add X μl of **MBD2-Fc protein** and **Y μl of Protein A Magnetic Beads**. Mix by pipetting up and down until the beads are completely homogeneous, at least 5-10 times.
 
-4. In a new microcentrifuge tube, add X μl of **MBD2-Fc protein** and **Y μl of Protein A Magnetic Beads**. Mix by pipetting up and down until the beads are completely homogeneous, at least 5-10 times.
+3. Mix the bead-protein mixture by placing the tube in a rotating mixer for 10 minutes at room temperature (~20 ºC).
+4. Prepare the 1X Bind/wash Buffer on ice by diluting 1 part NEBNext Bind/wash Buffer (5X) with 4 parts DNase-free water. Only 3 mL of buffer is needed to prepare the beads. 
+	-  If prepping the buffer for the rest of the protocol too, 1mL per sample is needed. 
 
-5. Mix the bead-protein mixture by placing the tube in a rotating mixer for 10 minutes at room temperature (~20 ºC).
+5. Briefly spin the tube and place on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
 
-6. Briefly spin the tube and place on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
+6. Carefully remove the supernatant with a pipette without disturbing the beads.
 
-7. Carefully remove the supernatant with a pipette without disturbing the beads.
+7. Add 1 ml of 1X Bind/wash Buffer (kept on ice) to the tube to wash the beads. Pipette up and down until the beads are completely homogeneous, at least 5-10 times.
 
-8. Add 1 ml of 1X Bind/wash Buffer (kept on ice) to the tube to wash the beads. Pipette up and down until the beads are completely homogeneous, at least 5-10 times.
+8. Mix the beads on a rotating mixer for 3 minutes at room temperature.
 
-9. Mix the beads on a rotating mixer for 3 minutes at room temperature.
+9. Briefly spin the tube and place on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
 
-10. Briefly spin the tube and place on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
+10. Carefully remove the supernatant with a pipette without disturbing the beads.
 
-11. Carefully remove the supernatant with a pipette without disturbing the beads.
+11. Repeat steps 7–10.
 
-12. Repeat steps 7–10.
-
-13. Remove the tube from the rack and add 160 μl of 1X Bind/wash Buffer (kept on ice) to resuspend the beads. For input amounts other than 1 μg, add (Y) μl of **1X Bind/wash Buffer** to resuspend the beads. Mix by pipetting up and down a few times.
+12. Remove the tube from the rack and add 160 μl of 1X Bind/wash Buffer (kept on ice) to resuspend the beads. For input amounts other than 1 μg, add (Y) μl of **1X Bind/wash Buffer** to resuspend the beads. Mix by pipetting up and down a few times.
 
 `The MBD2-Fc-bound magnetic beads are stable for up to 7 days at 4°C`
 
