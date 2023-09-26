@@ -43,11 +43,12 @@ Reagents expressed in **bold** need a calculation from this document.
 <br>
 
 ### Capture Methylated Host DNA
-1. Add 20µl of input DNA to the tube containing the Z μl of **MBD2-Fc-bound magnetic beads**. For other DNA input amounts, add DNA to (Z) μl of **MBD2-Fc bound magnetic beads**.
+1. Add 30µl of input DNA to the tube containing the Z μl of **MBD2-Fc-bound magnetic beads**. For other DNA input amounts, add DNA to (Z) μl of **MBD2-Fc bound magnetic beads**.
 
-2. Add 5µl of **undiluted Bind/wash Buffer** (5X) for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
+2. Add 7.5µl of **undiluted Bind/wash Buffer** (5X) for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
+	- amount of bind/wash buffer depends on sample volume (check excel sheet)
 
-3. Agitate the tube on a rotating mixer for 15 minutes at room temperature with rotation.
+4. Agitate the tube on a rotating mixer for 15 minutes at room temperature with rotation.
  
  
 ### Collect Enriched Microbial DNA
