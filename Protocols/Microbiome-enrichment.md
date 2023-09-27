@@ -5,22 +5,24 @@ https://www.neb.com/products/e2612-nebnext-microbiome-dna-enrichment-kit#Product
 
 Protocol:https://www.neb.com/protocols/2013/04/18/protocol-for-use-with-nebnext-microbiome-dna-enrichment-e2612
 
-Use the following spreadsheet to determine your DNA input and reagent input volumes:
+Reagents expressed in ==**bold**== need a calculation from this document. Use the following spreadsheet to determine your DNA input and reagent input volumes:
 
 https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=0
 
-Reagents expressed in **bold** need a calculation from this document.
 
 
-### Prepare beads
 
+### Prepare beads - Pt1
+
+`Begin thawing Bind/wash buffer at beginning of protocol.`
 1. Resuspend NEBNext Protein A Magnetic Beads by gently pipetting the slurry up and down until the suspension is homogeneous. Alternatively, rotate the tube on a rotating mixer gently for 15 minutes at 4°C. Do not vortex.
 
-2. In a new microcentrifuge tube, add X μl of **MBD2-Fc protein** and **Y μl of Protein A Magnetic Beads**. Mix by pipetting up and down until the beads are completely homogeneous, at least 5-10 times.
+2. In a new microcentrifuge tube, add ==X μl of **MBD2-Fc protein**== and ==**Y μl of Protein A Magnetic Beads**==. Mix by pipetting up and down until the beads are completely homogeneous, at least 5-10 times.
 
 3. Mix the bead-protein mixture by placing the tube in a rotating mixer for 10 minutes at room temperature (~20 ºC).
+
 4. Prepare the 1X Bind/wash Buffer on ice by diluting 1 part NEBNext Bind/wash Buffer (5X) with 4 parts DNase-free water. Only 3 mL of buffer is needed to prepare the beads. 
-	-  If prepping the buffer for the rest of the protocol too, 1mL per sample is needed. 
+	-  If prepping the buffer for the rest of the protocol too, 1mL per sample is needed. Only prep for the remainder of the protocol if completing on the same day.
 
 5. Briefly spin the tube and place on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
 
@@ -36,46 +38,66 @@ Reagents expressed in **bold** need a calculation from this document.
 
 11. Repeat steps 7–10.
 
-12. Remove the tube from the rack and add 160 μl of 1X Bind/wash Buffer (kept on ice) to resuspend the beads. For input amounts other than 1 μg, add (Y) μl of **1X Bind/wash Buffer** to resuspend the beads. Mix by pipetting up and down a few times.
+12. Remove the tube from the rack and add ==(Y) μl of **1X Bind/wash Buffer**== (kept on ice) to resuspend the beads. Mix by pipetting up and down a few times.
 
-`The MBD2-Fc-bound magnetic beads are stable for up to 7 days at 4°C`
+`The MBD2-Fc-bound magnetic beads are stable for up to 7 days at 4°C` 
 
-<br>
+### Capture Methylated Host DNA and Enriched Microbial DNA - Pt2
+1. Add 30 uL of input DNA and corresponding ==Z μl of **MBD2-Fc-bound magnetic beads**== to new tubes. 
+	- Beads from above "Prepare Beads-Pt1" section. Z uL of beads differs for each sample. If you change the amount of input DNA, Z changes. Check spreadsheet.
 
-### Capture Methylated Host DNA
-1. Add 30µl of input DNA to the tube containing the Z μl of **MBD2-Fc-bound magnetic beads**. For other DNA input amounts, add DNA to (Z) μl of **MBD2-Fc bound magnetic beads**.
-
-2. Add 7.5µl of **undiluted Bind/wash Buffer** (5X) for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
+3. Add 7.5µl of ==**undiluted Bind/wash Buffer** (5X)== for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
 	- amount of bind/wash buffer depends on sample volume (check excel sheet)
 
-4. Agitate the tube on a rotating mixer for 15 minutes at room temperature with rotation.
+4.  Agitate the tube on a rotating mixer for 15 minutes at room temperature with rotation.
  
- 
-### Collect Enriched Microbial DNA
 4. Briefly spin the tube and place on the magnetic rack for 5 minutes until the beads have collected to the wall of the tube and the solution is clear.
 
 5. Carefully remove the supernatant with a pipette, without disturbing the beads and transfer it to a clean microcentrifuge tube. 
 
-`This supernatant contains the target MICROBIAL DNA. Store this sample at –20°C or proceed directly to purification`
+`This supernatant contains the target MICROBIAL DNA. Store this sample at –20°C or proceed directly to purification.`
 
 `The HOST DNA is bound to the left over beads at this stage, save these if future processing is desired.`
 
-<br>
+`If cleaning samples within the next few days only, store in 4°C to prevent multiple freeze/thaw.` 
 
-### Agencourt® AMPure® XP Cleanup
+
+### Optional Protocol for Eluting Captured Host DNA - Pt3
+*This step elutes the captured host DNA from the MBD2-Fc-bound magnetic beads.*
+1. Prepare 1X Bind/wash Buffer (kept on ice) if not already prepped - 1 mL per sample. 1 part NEBNext Bind/wash Buffer (5X) with 4 parts DNase-free water. 
+2. While the tube with the beads is still in the magnetic rack  (Pt2 - step 4), add 1 ml of 1X Bind/wash Buffer (kept on ice) to wash the beads.
+3. Carefully remove the wash buffer with a pipette without disturbing the beads.
+4. Add 150 μl of 1X TE (elution buffer) and 15 μl of Proteinase K to the sample pellet. 
+5. Mix beads by gentle vortexing (1,200 rpm) or by flicking the tube. 
+
+*(Note: The pellet may be difficult to resuspend initially due to the high concentration of genomic DNA bound to the beads.)*
+
+6. Incubate the slurry in a heat block or thermomixer set at 65°C for 20 minutes, on 40-50 rpm.
+7. Briefly centrifuge the sample at 13,000 rpm in a microcentrifuge.
+8. Place the tube on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
+9. Carefully remove the supernatant and transfer to a fresh microcentrifuge tube.
+
+`This eluted sample contains the methylated host DNA. Store this sample at –20°C, or proceed directly to purification via using AMPure XP bead cleanup or ethanol precipitation.` 
+ 
+### Agencourt® AMPure® XP Cleanup - Pt4
+
+`Complete cleanup separately for host and microbial DNA.`
+
 1. Vortex AMPure XP to resuspend.
 
 2. If your enriched sample volume x 2.8 from the previous step exceeds your tube volume, split into two tubes.
 
-3. Add 1.8X volume of resuspended **AMPure XP** to the sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
+3. Add 1.8X total sample volume of ==**resuspended AMPure XP (W)**== to the sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
+	- Variable volumes of ampure for microbial dna
+	- If 150 uL of host DNA, 270 uL ampure
 
-4. Incubate samples for at least 5 minutes at room temperature.
+5. Incubate samples for at least 5 minutes at room temperature.
 
-5. Place the tube on the appropriate magnetic stand to separate the beads from the supernatant. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing on the magnetic stand.
+6. Place the tube on the appropriate magnetic stand to separate the beads from the supernatant. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing on the magnetic stand.
 
-6. After 5 minutes (or when the solution is clear), carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
+7. After 5 minutes (or when the solution is clear), carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
 
-7. Add 400 μl of freshly prepared 80% ethanol to the tube/plate while in the magnetic stand. Incubate at room temperature for 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
+8. Add 400 μl of freshly prepared 80% ethanol to the tube/plate while in the magnetic stand. Incubate at room temperature for 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
 	- prepare ethanol in biosafety hood too 
 
 9. Repeat Step 7 once for a total of two washes. Be sure to remove all visible liquid after the second wash. If necessary, briefly spin the tube/plate, place back on the magnetic stand and remove traces of ethanol with a p10 pipette tip.
@@ -90,22 +112,4 @@ Reagents expressed in **bold** need a calculation from this document.
 
 12. Place the tube/plate on the magnetic stand. After 5 minutes (or when the solution is clear), transfer eluate to a new microcentrifuge tube (combine the eluates if sample was split in two).
 
-`This supernatant contains the target MICROBIAL DNA. Store this sample at –20°C
-
-### Optional Protocol for Eluting Captured Host DNA
-*This step elutes the captured host DNA from the MBD2-Fc-bound magnetic beads.*
-1. Prepare 1X Bind/wash Buffer (kept on ice) if not already prepped - 1 mL per sample. 1 part NEBNext Bind/wash Buffer (5X) with 4 parts DNase-free water. 
-2. While the tube with the beads (section "Collect Enriched Microbial DNA", Step 2) is still in the magnetic rack, add 1 ml of 1X Bind/wash Buffer (kept on ice) to wash the beads.
-3. Carefully remove the wash buffer with a pipette without disturbing the beads.
-4. Add 150 μl of 1X TE (elution buffer) and 15 μl of Proteinase K to the sample pellet. 
-5. Mix beads by gentle vortexing (1,200 rpm) or by flicking the tube. 
-
-*(Note: The pellet may be difficult to resuspend initially due to the high concentration of genomic DNA bound to the beads.)*
-
-6. Incubate the slurry in a heat block or thermomixer set at 65°C for 20 minutes, on 40-50 rpm.
-7. Briefly centrifuge the sample at 13,000 rpm in a microcentrifuge.
-8. Place the tube on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
-9. Carefully remove the supernatant and transfer to a fresh microcentrifuge tube.
-
-`This eluted sample contains the methylated host DNA. Store this sample at –20°C, or proceed directly to purification via using AMPure XP bead cleanup or ethanol precipitation.`
- 
+`This supernatant contains the target DNA (Microbial or Host depending on your input sample). Measure concentration using Qubit or Nanodrop with Elution buffer as the blank. Store at –20°C` 

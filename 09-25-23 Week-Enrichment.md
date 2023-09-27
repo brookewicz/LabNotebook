@@ -1,4 +1,6 @@
-|                                      |        |     |
+#### 9-25 Bead Prep
+
+| ------------------------------------ | ------ | --- |
 | ------------------------------------ | ------ | --- |
 | Making beads                         |        |     |
 | ul of beads needed (Y)               | 687.84 | ul  |
@@ -19,6 +21,7 @@
 | Final volume bind/wash buffer needed | 8      | mL  |
 | vol buffer (undiluted 5x) needed     | 1.6    | mL  |
 | vol water needed                     | 6.4    | mL  |
+|                                      |        |     |
 
 
 
@@ -48,3 +51,8 @@
 Notes:
 - using expired 8/23 **MBD2-Fc protein** beads 
 - had to start over because a bunch of dust from the mixer got in the first tube -reduced speed
+
+#### 9-27 Separate Microbial and Host DNA 
+- my samples: 102019_T1_30_PSTR, 102019_T1_31_PSTR, 102019_T2_30_PSTR, 102019_T2_31_PSTR
+- realized in previous runs was adding 5 uL of undiluted wash buffer because it was written in the protocol that way.
+- possible contamination in T1_30 from shaker particles - will put tubes in secondary container next time 
