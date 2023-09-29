@@ -89,7 +89,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 3. Add 1.8X total sample volume of ==**resuspended AMPure XP (W)**== to the sample. Mix well by pipetting up and down at least 10 times. Be careful to expel all of the liquid out of the tip during the last mix.
 	- Variable volumes of ampure for microbial dna
-	- If 150 uL of host DNA, 270 uL ampure
+	- If 150 uL of host DNA, 297 uL ampure
 
 5. Incubate samples for at least 5 minutes at room temperature.
 

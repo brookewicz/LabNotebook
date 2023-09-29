@@ -14,8 +14,4 @@
 
 - T1_30 first nanodrop was: 0.2 ng/uL and -5.35
 - can redo host T1_31 but ran out of tips 
-
-find in tracker:
-- host samples: t1-11, t1-25, t1-41, t1-157 NOT cleaned. 
-- these host samples: F1, RACK 2, BOX 2
-- MICRO: F1, RACK 2, BOX 1
+- used 270 uL AMPURE cleanup beads on host - changing to 297 for future (150 Elution Buffer + 15 uL proteinase K)*1.8 
