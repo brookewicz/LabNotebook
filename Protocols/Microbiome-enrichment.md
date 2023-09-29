@@ -47,7 +47,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 	- Beads from above "Prepare Beads-Pt1" section. Z uL of beads differs for each sample. If you change the amount of input DNA, Z changes. Check spreadsheet.
 
 3. Add 7.5µl of ==**undiluted Bind/wash Buffer** (5X)== for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
-	- amount of bind/wash buffer depends on sample volume (check excel sheet)
+	- amount of bind/wash buffer depends on dna volume (check excel sheet)
 
 4.  Agitate the tube on a rotating mixer for 15 minutes at room temperature with rotation.
  
@@ -100,7 +100,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 8. Add 400 μl of freshly prepared 80% ethanol to the tube/plate while in the magnetic stand. Incubate at room temperature for 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
 	- prepare ethanol in biosafety hood too 
 
-9. Repeat Step 7 once for a total of two washes. Be sure to remove all visible liquid after the second wash. If necessary, briefly spin the tube/plate, place back on the magnetic stand and remove traces of ethanol with a p10 pipette tip.
+9. Repeat Step 8 once for a total of two washes. Be sure to remove all visible liquid after the second wash. If necessary, briefly spin the tube/plate, place back on the magnetic stand and remove traces of ethanol with a p10 pipette tip.
 
 10. Air dry the beads for up to 5 minutes while the tube/plate is on the magnetic stand with the lid open.
 
