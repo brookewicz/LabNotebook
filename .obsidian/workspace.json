@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "ae1dcd138e997d05",
+            "id": "7c49b0700a8ec2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-04-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "068f62fad6fc4b95",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58194793393fcac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-29-23 DNA concentrations_ampure_cleaning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c49b0700a8ec2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-29-23 Bead Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-29-23 DNA concentrations_ampure_cleaning.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09-29-23 DNA concentrations_ampure_cleaning.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-29-23 DNA concentrations_ampure_cleaning.md"
+                "file": "Protocols/Microbiome-enrichment.md"
               }
             }
           },
@@ -193,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58194793393fcac7",
+  "active": "1ec00ba6e79d6266",
   "lastOpenFiles": [
+    "10-04-23.md",
     "09-25-23 Week-Enrichment.md",
     "Protocols/Microbiome-enrichment.md",
     "09-29-23 DNA concentrations_ampure_cleaning.md",
-    "09-29-23 Bead Prep.md",
     "README.md",
     "09-22-23 host dna concentrations.md",
     "09-21-23 enrichment_DNA_concentration.md",
