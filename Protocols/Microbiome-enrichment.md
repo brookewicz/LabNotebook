@@ -43,7 +43,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 `The MBD2-Fc-bound magnetic beads are stable for up to 7 days at 4°C` 
 
 ### Capture Methylated Host DNA and Enriched Microbial DNA - Pt2
-1. Add 30 uL of input DNA and corresponding ==Z μl of **MBD2-Fc-bound magnetic beads**== to new tubes. 
+1. Add 30 uL of input DNA and corresponding ==Z μl of **MBD2-Fc-bound magnetic beads**== to new tubes. ==how to resuspend beads?==
 	- (Beads from above "Prepare Beads-Pt1" section.) Z uL of beads differs for each sample. If you change the amount of input DNA, Z changes. Check spreadsheet.
 
 3. Add 7.5µl of ==**undiluted Bind/wash Buffer** (5X)== for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times. 
@@ -72,7 +72,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 *(Note: The pellet may be difficult to resuspend initially due to the high concentration of genomic DNA bound to the beads.)*
 
-6. Incubate the slurry in a heat block or thermomixer set at 65°C for 20 minutes, on 40-50 rpm.
+6. Incubate the slurry in a heat block or thermomixer set at 65°C for 20 minutes, on 40-50 rpm. ==can flick instead??==
 7. Briefly centrifuge the sample at 13,000 rpm in a microcentrifuge.
 8. Place the tube on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
 9. Carefully remove the supernatant and transfer to a fresh microcentrifuge tube.
