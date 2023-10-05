@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-04-23 Enrichment and DNA concentrations.md",
+                "file": "09-29-23 DNA concentrations_ampure_cleaning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-04-23 Enrichment and DNA concentrations.md",
+                "file": "09-29-23 DNA concentrations_ampure_cleaning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-04-23 Enrichment and DNA concentrations.md"
+                "file": "09-29-23 DNA concentrations_ampure_cleaning.md"
               }
             }
           },
@@ -181,12 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c49b0700a8ec2d0",
+  "active": "1ec00ba6e79d6266",
   "lastOpenFiles": [
+    "10-04-23 Enrichment and DNA concentrations.md",
     "09-29-23 DNA concentrations_ampure_cleaning.md",
     "09-22-23 host dna concentrations.md",
     "09-19-23 DNA CONCENTRATIONS.md",
-    "10-04-23 Enrichment and DNA concentrations.md",
     "09-25-23 Week-Enrichment.md",
     "Protocols/Microbiome-enrichment.md",
     "README.md",
