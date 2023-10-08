@@ -22,7 +22,7 @@ sample 4 - 052022_T2_72_OFAV
 ng/uL - 47.6 
 A260/280 - 1.65
 
-neg 
+neg control
 ng/uL - 4.4 
 A260/280 - 1.11
 
