@@ -72,7 +72,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 *(Note: The pellet may be difficult to resuspend initially due to the high concentration of genomic DNA bound to the beads.)*
 
-6. Incubate the slurry in a heat block or thermomixer set at 65°C for 20 minutes, on 40-50 rpm. ==can flick instead??==
+6. Incubate the slurry in a heat block or thermomixer set at 65°C for 20 minutes, on 40-50 rpm or mix intermittently y flicking the tubes
 7. Briefly centrifuge the sample at 13,000 rpm in a microcentrifuge.
 8. Place the tube on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
 9. Carefully remove the supernatant and transfer to a fresh microcentrifuge tube.
