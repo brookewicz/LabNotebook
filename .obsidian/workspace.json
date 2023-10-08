@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -207,10 +208,10 @@
   },
   "active": "b861e2f8359b4216",
   "lastOpenFiles": [
-    "10-04-23 Enrichment and DNA concentrations.md",
-    "10-05-23 Bead Prep.md",
-    "10-6 Enrichment.md",
     "Protocols/Microbiome-enrichment.md",
+    "10-6 Enrichment.md",
+    "10-05-23 Bead Prep.md",
+    "10-04-23 Enrichment and DNA concentrations.md",
     "Protocols/Qubit.md",
     "09-14-23 DNA concentrations.md",
     "09-21-23 enrichment_DNA_concentration.md",
