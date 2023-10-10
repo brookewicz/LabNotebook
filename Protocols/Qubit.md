@@ -11,5 +11,11 @@
 	- do not hold in hands before putting into fluorometer - warms solution and results in low readings 
 	- after 2 mins, mixture is stable for 3 hours
 
+On qubit:
+- sign in 
+- select "dsDNA High Sensitivity"
+- reread standards before reading samples 
+	- will tell you if standards are bad 
+	- will tell you if samples are out of range 
 - remove tube from fluorometer after every reading. If you need to redo a measurement, take the tube out and equilibrate to room temp for 30s
 - 

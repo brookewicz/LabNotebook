@@ -22,3 +22,25 @@ Qubit Prep
 |# of Samples|# of standards|Amnt of Working Solution|Amnt of Reagent|Amnt of Buffer|
 |11|2|2600|13|2587|
 |||uL|uL|uL|
+
+Qubit concentrations 
+Qubit user notes:
+- dsDNA High Sensitivity 
+- read new standards - 1 & 2
+- 1 uL sample input to 199 uL working reagent 
+
+
+
+| sample            | type  | ng/uL |      
+| ----------------- | ----- | ----- | 
+| 102019_T3_39_PSTR | micro | 5.48  |  
+| 102019_T3_40_PSTR | micro | 5.3   |    
+| 052022_T1_4_PSTR  | micro | 7.26  |   
+| 052022_T1_55_PSTR | micro | 2.58  |   
+| 052022_T2_13_PSTR | micro | 9.16  |     
+| 052022_T2_14_PSTR | micro | 7.04  |   
+| 052022_T2_7_PSTR  | micro | 15.5  |    
+| 052022_T2_8_PSTR  | micro | 3.22  |    
+| 052022_T3_15_PSTR | micro | 3.16  |    
+| 052022_T3_23_PSTR | micro | 4.82  |    
+| 052022_T3_3_PSTR  | micro | 1.66  |    

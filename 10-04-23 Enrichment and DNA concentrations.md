@@ -40,4 +40,3 @@ Microbiome Enrichment
 | 102019_T3_36_PSTR | micro | 5.0   | 1.41     |
 | 102019_T3_37_PSTR | micro | 8.9   | 1.82     |
 | 102019_T3_38_PSTR | micro | 3.8   | 1.62     |
-
