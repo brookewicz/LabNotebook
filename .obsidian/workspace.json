@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Qubit.md",
+                "file": "10-10-23 Micro Cleanup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Qubit.md",
+                "file": "10-10-23 Micro Cleanup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/Qubit.md"
+                "file": "10-10-23 Micro Cleanup.md"
               }
             }
           },
@@ -168,14 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14e301cd761da9d2",
+  "active": "da75dd844319b8fd",
   "lastOpenFiles": [
+    "Protocols/Qubit.md",
     "Protocols/Microbiome-enrichment.md",
     "10-10-23 Micro Cleanup.md",
     "10-6 Enrichment.md",
     "10-05-23 Bead Prep.md",
     "10-04-23 Enrichment and DNA concentrations.md",
-    "Protocols/Qubit.md",
     "09-14-23 DNA concentrations.md",
     "09-21-23 enrichment_DNA_concentration.md",
     "09-19-23 DNA CONCENTRATIONS.md",

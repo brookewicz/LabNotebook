@@ -13,3 +13,12 @@
 | 052022_T3_23_PSTR | 20.6  | 30                    | 618           | 98.88                 | 7.5                        | 136.38            | 245.484                 |
 | 052022_T3_3_PSTR  | 7     | 30                    | 210           | 33.6                  | 7.5                        | 71.1              | 127.98                  |
 |                   |       |                       |               |                       |                            |                   |                         |
+| 
+
+Qubit Prep
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|# of Samples|# of standards|Amnt of Working Solution|Amnt of Reagent|Amnt of Buffer|
+|11|2|2600|13|2587|
+|||uL|uL|uL|
