@@ -13,62 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "Protocols/Qubit.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "424053e04e1473c4",
+            "id": "da75dd844319b8fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-04-23 Enrichment and DNA concentrations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "686e62fd274e5d5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-05-23 Bead Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b861e2f8359b4216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-6 Enrichment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b9e87775b583a5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-14-23 DNA concentrations.md",
+                "file": "10-10-23 Micro Cleanup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -135,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-6 Enrichment.md",
+                "file": "Protocols/Qubit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-6 Enrichment.md",
+                "file": "Protocols/Qubit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-6 Enrichment.md"
+                "file": "Protocols/Qubit.md"
               }
             }
           },
@@ -206,9 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b861e2f8359b4216",
+  "active": "14e301cd761da9d2",
   "lastOpenFiles": [
     "Protocols/Microbiome-enrichment.md",
+    "10-10-23 Micro Cleanup.md",
     "10-6 Enrichment.md",
     "10-05-23 Bead Prep.md",
     "10-04-23 Enrichment and DNA concentrations.md",
