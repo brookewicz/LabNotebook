@@ -14,6 +14,7 @@
 | amnt 1x buffer to add (step 12) (Y) | 1721.28  | uL  |
 
 
+
 |                            |       |
 | -------------------------- | ----- |
 | Sample information         |       |
@@ -28,3 +29,7 @@
 | 52022_BEL_CBC_T2_72_OFAV   | 47.6  |
 | 122022_BEL_CBC_T3_147_OFAV | 50.7  |
 | 122022_BEL_CBC_T2_87_OFAV  | 62.2  |
+
+
+notes
+- had to stop at host elution after adding 150 uL TE...put samples in the fridge. will be returning in a few hours to finish protocol. 
