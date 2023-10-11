@@ -36,7 +36,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 10. Carefully remove the supernatant with a pipette without disturbing the beads.
 
-11. Repeat steps 7–10.
+11. Repeat steps 7–10. (2 total washes with bind/wash buffer)
 
 12. Remove the tube from the rack and add ==(Y) μl of **1X Bind/wash Buffer**== (kept on ice) to resuspend the beads. Mix by pipetting up and down a few times.
 
@@ -72,7 +72,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 *(Note: The pellet may be difficult to resuspend initially due to the high concentration of genomic DNA bound to the beads.)*
 
-6. Incubate the slurry in a heat block or thermomixer set at 65°C for 20 minutes, on 40-50 rpm or mix intermittently y flicking the tubes
+6. Incubate the slurry in a heat block or thermomixer set at 65°C for 20 minutes, on 40-50 rpm or mix intermittently by flicking the tubes
 7. Briefly centrifuge the sample at 13,000 rpm in a microcentrifuge.
 8. Place the tube on the magnetic rack for 2–5 minutes or until the beads have collected to the wall of the tube and the solution is clear.
 9. Carefully remove the supernatant and transfer to a fresh microcentrifuge tube.
