@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-22-23 host dna concentrations.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-22-23 host dna concentrations.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09-22-23 host dna concentrations.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-22-23 host dna concentrations.md"
+                "file": "Protocols/Microbiome-enrichment.md"
               }
             }
           },
@@ -195,9 +196,9 @@
   },
   "active": "c47740eae6f86124",
   "lastOpenFiles": [
+    "09-22-23 host dna concentrations.md",
     "09-29-23 DNA concentrations_ampure_cleaning.md",
     "09-25-23 Week-Enrichment.md",
-    "09-22-23 host dna concentrations.md",
     "09-21-23 enrichment_DNA_concentration.md",
     "09-19-23 DNA CONCENTRATIONS.md",
     "09-05-23 Microbiome (mm) Enrichment.md",
