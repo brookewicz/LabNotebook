@@ -13,3 +13,17 @@
 | 52022_BEL_CBC_T2_72_OFAV   | 47.6  | 30                    | 1428          | 228.48                | 7.5                        | 265.98            | 478.764                   | 744.744      |
 | 122022_BEL_CBC_T3_147_OFAV | 50.7  | 30                    | 1521          | 243.36                | 7.5                        | 280.86            | 505.548                   | 786.408      |
 | 122022_BEL_CBC_T2_87_OFAV  | 62.2  | 30                    | 1866          | 298.56                | 7.5                        | 336.06            | 604.908                   | 940.968      |
+
+-stored in fridge 
+
+
+
+bead prep - caroline's enrichment 
+
+| MBD2-Fc-bound magnetic beads - Bead Prep |          |     |
+| ---------------------------------------- | -------- | --- |
+| Protein A magnetic beads (Y)             | 2307.84  | ul  |
+| MBD2-Fc protein (X)                      | 230.784  | ul  |
+|                                          | 2.538624 | mL  |
+|                                          |          |     |
+
