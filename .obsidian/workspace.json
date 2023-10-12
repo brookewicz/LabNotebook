@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "10-12-23 Cleaning.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8796800aaf849987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocols/Qubit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e5ad79a6ea28fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-10-23 Micro Cleanup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "10-11-23 Bead Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "10-11-23 Bead Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md"
+                "file": "10-11-23 Bead Prep.md"
               }
             }
           },
@@ -169,23 +193,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff8c7b436703e13a",
+  "active": "c47740eae6f86124",
   "lastOpenFiles": [
+    "10-12-23 Cleaning.md",
     "10-11-23 Bead Prep.md",
-    "Protocols/Microbiome-enrichment.md",
-    "10-04-23 Enrichment and DNA concentrations.md",
     "10-10-23 Micro Cleanup.md",
-    "Protocols/Qubit.md",
-    "10-6 Enrichment.md",
+    "10-6-23 Enrichment.md",
     "10-05-23 Bead Prep.md",
-    "09-14-23 DNA concentrations.md",
-    "09-21-23 enrichment_DNA_concentration.md",
-    "09-19-23 DNA CONCENTRATIONS.md",
-    "09-05-23 Microbiome (mm) Enrichment.md",
-    "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
+    "10-04-23 Enrichment and DNA concentrations.md",
     "09-29-23 DNA concentrations_ampure_cleaning.md",
     "09-25-23 Week-Enrichment.md",
     "09-22-23 host dna concentrations.md",
+    "09-21-23 enrichment_DNA_concentration.md",
+    "09-19-23 DNA CONCENTRATIONS.md",
+    "Protocols/Microbiome-enrichment.md",
+    "Protocols/Qubit.md",
+    "09-14-23 DNA concentrations.md",
+    "09-05-23 Microbiome (mm) Enrichment.md",
+    "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
     "README.md",
     "DNA Concentrations Template.md",
     "09-13-23 Sync Obsidian Git to Github.md",

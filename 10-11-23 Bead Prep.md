@@ -15,21 +15,25 @@
 
 
 
-|                            |       |
-| -------------------------- | ----- |
-| Sample information         |       |
-| sample                     | ng/ul |
-| 52022_BEL_CBC_T3_66_OFAV   | 17.8  |
-| 122022_BEL_CBC_T4_16_OFAV  | 20.6  |
-| 122022_BEL_CBC_T4_2_OFAV   | 21    |
-| 52022_BEL_CBC_T3_65_OFAV   | 26.8  |
-| 122022_BEL_CBC_T2_97_OFAV  | 29.5  |
-| 122022_BEL_CBC_T3_127_OFAV | 36.3  |
-| 122022_BEL_CBC_T2_93_OFAV  | 46.1  |
-| 52022_BEL_CBC_T2_72_OFAV   | 47.6  |
-| 122022_BEL_CBC_T3_147_OFAV | 50.7  |
-| 122022_BEL_CBC_T2_87_OFAV  | 62.2  |
-
 
 notes
+- micro samples stored in fridge 
 - had to stop at host elution after adding 150 uL TE...put samples in the fridge. will be returning in a few hours to finish protocol. 
+- measure host with qubit at end of elution
+
+
+
+| -------------------------- | ---- | -----              |
+| -------------------------- | ---- | ------------------ |
+| sample                     | type | ng/uL              |
+| 52022_BEL_CBC_T3_66_OFAV   | host | 0.568              |
+| 122022_BEL_CBC_T4_16_OFAV  | host | .2                 |
+| 122022_BEL_CBC_T4_2_OFAV   | host | out of range - low |
+| 52022_BEL_CBC_T3_65_OFAV   | host | 0.644              |
+| 122022_BEL_CBC_T2_97_OFAV  | host | 0.33               |
+| 122022_BEL_CBC_T3_127_OFAV | host | 1.10               |
+| 122022_BEL_CBC_T2_93_OFAV  | host | 0.782              |
+| 52022_BEL_CBC_T2_72_OFAV   | host | 0.522              |
+| 122022_BEL_CBC_T3_147_OFAV | host | 1.82               |
+| 122022_BEL_CBC_T2_87_OFAV  | host | 1.43               |
+|                            |      |                    |
