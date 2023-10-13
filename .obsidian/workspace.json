@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-04-23 Enrichment and DNA concentrations.md",
+                "file": "10-11-23 Bead Prep & Host Concentrations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-04-23 Enrichment and DNA concentrations.md",
+                "file": "10-11-23 Bead Prep & Host Concentrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-04-23 Enrichment and DNA concentrations.md",
+                "file": "10-11-23 Bead Prep & Host Concentrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-04-23 Enrichment and DNA concentrations.md"
+                "file": "10-11-23 Bead Prep & Host Concentrations.md"
               }
             }
           },
@@ -183,12 +183,12 @@
   },
   "active": "4ce7562846fa4a13",
   "lastOpenFiles": [
+    "10-04-23 Enrichment and DNA concentrations.md",
     "10-05-23 Bead Prep.md",
     "10-6-23 Enrichment.md",
     "10-10-23 Micro Cleanup.md",
     "10-11-23 Bead Prep & Host Concentrations.md",
     "10-12-23 Cleaning and Bead Prep.md",
-    "10-04-23 Enrichment and DNA concentrations.md",
     "Protocols/Microbiome-enrichment.md",
     "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
     "09-22-23 host dna concentrations.md",
