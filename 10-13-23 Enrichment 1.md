@@ -19,3 +19,37 @@
 |                            |       |                       |               |                       |                            |                   |                         |              |
 | 
 - potentially not enough beads in T1_11
+
+
+| -------------------------- | ----  | -----   |
+| -------------------------- | ----- | ------- |
+| sample                     | type  | ng/uL   |
+| 52022_BEL_CBC_T3_66_OFAV   | micro | too low |
+| 122022_BEL_CBC_T4_16_OFAV  | micro | 3.9     |
+| 122022_BEL_CBC_T4_2_OFAV   | micro | 4       |
+| 52022_BEL_CBC_T3_65_OFAV   | micro | 5.76    |
+| 122022_BEL_CBC_T2_97_OFAV  | micro | 5.96    |
+| 122022_BEL_CBC_T3_127_OFAV | micro | 8.02    |
+| 122022_BEL_CBC_T2_93_OFAV  | micro | 8.46    |
+| 52022_BEL_CBC_T2_72_OFAV   | micro | 3.96    |
+| 122022_BEL_CBC_T3_147_OFAV | micro | 12.9    |
+| 122022_BEL_CBC_T2_87_OFAV  | micro | 13.4    |
+
+
+questions:
+- what is qubit range? what is too low?
+- nanodrop shows high protein contamination on host samples that were reading too low on qubit. Is it contaminated with protein from the reagents/protocol?
+
+
+
+## Enrichment 2
+
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+|sample|ng/ul|volume of sample (ul)|ng* of sample|Volume beads (ul) (Z)|Volume wash buffer x5 (ul)|Total volume (ul)|Added beads cleanup (W)|Total volume|
+|102019_T1_25_PSTR|23.2|30|696|111.36|7.5|148.86|267.948|416.808|
+|102019_T1_26_PSTR|23.1|30|693|110.88|7.5|148.38|267.084|415.464|
+|102019_T1_27_PSTR|19.1|30|573|91.68|7.5|129.18|232.524|361.704|
+|102019_T1_28_PSTR|7.2|30|216|34.56|7.5|72.06|129.708|201.768|
+|102019_T1_29_PSTR|3.2|15|48|7.68|3.75|26.43|47.574|74.004|
+|122022_BEL_CBC_T1_157_OANN|9.8|15|147|23.52|3.75|42.27|76.086|118.356|
