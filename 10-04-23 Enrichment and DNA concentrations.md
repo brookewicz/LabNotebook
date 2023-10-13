@@ -32,6 +32,7 @@ Microbiome Enrichment
 
 
 - host NOT cleaned - placed in -20
+- forgot to measure host
 
 | sample            | type  | ng/uL | A260/280 |
 | ----------------- | ----- | ----- | -------- |
