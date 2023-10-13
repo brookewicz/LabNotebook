@@ -27,3 +27,40 @@ bead prep - caroline's enrichment
 |                                          | 2.538624 | mL  |
 |                                          |          |     |
 
+
+Beads for enrichment 1 
+
+| MBD2-Fc-bound magnetic beads - Bead Prep |          |     |
+| ---------------------------------------- | -------- | --- |
+| Protein A magnetic beads (Y)             | 1268.16  | ul  |
+| MBD2-Fc protein (X)                      | 126.816  | ul  |
+|                                          | 1.394976 | mL  |
+|                                          |          |     |
+
+|                                     |         |     |
+| ----------------------------------- | ------- | --- |
+| 1x Bind/Wash Buffer - Bead Prep     |         |     |
+| Final volume 1x bind/wash buffer    | 5       | mL  |
+| vol 5x undiluted buffer needed      | 1       | mL  |
+| vol water needed                    | 4       | mL  |
+| amnt 1x buffer to add (step 12) (Y) | 1268.16 | uL  |
+|                                     |         |     |
+
+Beads for enrichment 2
+
+| MBD2-Fc-bound magnetic beads - Bead Prep |          |     |
+| ---------------------------------------- | -------- | --- |
+| Protein A magnetic beads (Y)             | 379.68   | ul  |
+| MBD2-Fc protein (X)                      | 37.968   | ul  |
+|                                          | 0.417648 | mL  |
+|                                          |          |     |
+
+|   |   |   |
+|---|---|---|
+|1x Bind/Wash Buffer - Bead Prep|||
+|Final volume 1x bind/wash buffer|5|mL|
+|vol 5x undiluted buffer needed|1|mL|
+|vol water needed|4|mL|
+|amnt 1x buffer to add (step 12) (Y)|379.68|uL|
+
+
