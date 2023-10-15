@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-13-23 Enrichment 1.md",
+                "file": "10-12-23 Cleaning and Bead Prep.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-13-23 Enrichment 1.md",
+                "file": "10-13-23 Enrichment 1 & 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "10-13-23 Enrichment 1 & 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "10-13-23 Enrichment 1 & 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md"
+                "file": "10-13-23 Enrichment 1 & 2.md"
               }
             }
           },
@@ -180,10 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8796800aaf849987",
+  "active": "f5346c87b5965d6c",
   "lastOpenFiles": [
-    "10-13-23 Enrichment 1.md",
     "10-12-23 Cleaning and Bead Prep.md",
+    "10-13-23 Enrichment 1 & 2.md",
     "Protocols/Microbiome-enrichment.md",
     "10-11-23 Bead Prep & Host Concentrations.md",
     "Protocols/Qubit.md",

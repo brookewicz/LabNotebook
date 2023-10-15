@@ -14,8 +14,23 @@
 | 122022_BEL_CBC_T3_147_OFAV | 50.7  | 30                    | 1521          | 243.36                | 7.5                        | 280.86            | 505.548                   | 786.408      |
 | 122022_BEL_CBC_T2_87_OFAV  | 62.2  | 30                    | 1866          | 298.56                | 7.5                        | 336.06            | 604.908                   | 940.968      |
 
--stored in fridge 
+- stored in fridge 
+- measured 10-13 with qubit 
 
+| -------------------------- | ----- | ------- |
+| -------------------------- | ----- | ------- |
+| sample                     | type  | ng/uL   |
+| 52022_BEL_CBC_T3_66_OFAV   | micro | too low |
+| 122022_BEL_CBC_T4_16_OFAV  | micro | 3.9     |
+| 122022_BEL_CBC_T4_2_OFAV   | micro | 4       |
+| 52022_BEL_CBC_T3_65_OFAV   | micro | 5.76    |
+| 122022_BEL_CBC_T2_97_OFAV  | micro | 5.96    |
+| 122022_BEL_CBC_T3_127_OFAV | micro | 8.02    |
+| 122022_BEL_CBC_T2_93_OFAV  | micro | 8.46    |
+| 52022_BEL_CBC_T2_72_OFAV   | micro | 3.96    |
+| 122022_BEL_CBC_T3_147_OFAV | micro | 12.9    |
+| 122022_BEL_CBC_T2_87_OFAV  | micro | 13.4    |
+|                            |       |         |
 
 
 bead prep - caroline's enrichment 

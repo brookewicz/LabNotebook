@@ -17,24 +17,28 @@
 | # of samples               |       |                       | Total # DNA   |                       |                            |                   |                         |              |
 | 13                         |       |                       | 7926          | 1.26816               | mL                         |                   | 2963.034                |              |
 |                            |       |                       |               |                       |                            |                   |                         |              |
-| 
+|                            |       |                       |               |                       |                            |                   |                         |              |
 - potentially not enough beads in T1_11
 
 
-| -------------------------- | ----  | -----   |
-| -------------------------- | ----- | ------- |
-| sample                     | type  | ng/uL   |
-| 52022_BEL_CBC_T3_66_OFAV   | micro | too low |
-| 122022_BEL_CBC_T4_16_OFAV  | micro | 3.9     |
-| 122022_BEL_CBC_T4_2_OFAV   | micro | 4       |
-| 52022_BEL_CBC_T3_65_OFAV   | micro | 5.76    |
-| 122022_BEL_CBC_T2_97_OFAV  | micro | 5.96    |
-| 122022_BEL_CBC_T3_127_OFAV | micro | 8.02    |
-| 122022_BEL_CBC_T2_93_OFAV  | micro | 8.46    |
-| 52022_BEL_CBC_T2_72_OFAV   | micro | 3.96    |
-| 122022_BEL_CBC_T3_147_OFAV | micro | 12.9    |
-| 122022_BEL_CBC_T2_87_OFAV  | micro | 13.4    |
 
+|                            |      |         |
+| -------------------------- | ---- | ------- |
+| sample                     | type | ng/uL   |
+| 052022_T1_11_PSTR          | host | too low |
+| 052022_T2_45_PSTR          | host | 0.772   |
+| 052022_T2_46_PSTR          | host | too low |
+| 122022_BEL_CBC_T1_120_OANN | host | too low |
+| 122022_BEL_CBC_T1_136_OANN | host | too low |
+| 122022_BEL_CBC_T2_101_OFAV | host | 0.36    |
+| 122022_BEL_CBC_T2_102_OFAV | host | too low |
+| 122022_BEL_CBC_T2_107_OANN | host | 0.674   |
+| 122022_BEL_CBC_T2_118_OANN | host | too low |
+| 122022_BEL_CBC_T2_119_OANN | host | too low |
+| 122022_BEL_CBC_T4_10_OFAV  | host | too low |
+| 122022_BEL_CBC_T4_9_OFAV   | host | 0.18    |
+| 52022_BEL_CBC_T1_10_PSTR   | host | 0.182   |
+|                            |      |         |
 
 questions:
 - what is qubit range? what is too low?
@@ -57,3 +61,16 @@ questions:
 
 
 - think i figured out host issues - have been vortexing too hard durig elution??? tried gentle flicking and voertexing - 25 pipetted up and down
+	- NO host still very low 
+	- 
+
+|                            |      |         |
+| -------------------------- | ---- | ------- |
+| sample                     | type | ng/uL   |
+| 102019_T1_25_PSTR          | host | too low |
+| 102019_T1_26_PSTR          | host | 0.692   |
+| 102019_T1_27_PSTR          | host | 0.27    |
+| 102019_T1_28_PSTR          | host | 0.32    |
+| 102019_T1_29_PSTR          | host | too low |
+| 122022_BEL_CBC_T1_157_OANN | host | too low |
+|                            |      |         |
