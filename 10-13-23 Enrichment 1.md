@@ -53,3 +53,7 @@ questions:
 |102019_T1_28_PSTR|7.2|30|216|34.56|7.5|72.06|129.708|201.768|
 |102019_T1_29_PSTR|3.2|15|48|7.68|3.75|26.43|47.574|74.004|
 |122022_BEL_CBC_T1_157_OANN|9.8|15|147|23.52|3.75|42.27|76.086|118.356|
+
+
+
+- think i figured out host issues - have been vortexing too hard durig elution??? tried gentle flicking and voertexing - 25 pipetted up and down
