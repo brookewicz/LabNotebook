@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8796800aaf849987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1e2b234c1894a228",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -183,9 +172,9 @@
   },
   "active": "f5346c87b5965d6c",
   "lastOpenFiles": [
-    "10-13-23 Enrichment 1 & 2.md",
     "10-12-23 Cleaning and Bead Prep.md",
     "Protocols/Microbiome-enrichment.md",
+    "10-13-23 Enrichment 1 & 2.md",
     "10-11-23 Bead Prep & Host Concentrations.md",
     "Protocols/Qubit.md",
     "10-04-23 Enrichment and DNA concentrations.md",
