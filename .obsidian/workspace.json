@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-13-23 Enrichment 1 & 2.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-13-23 Enrichment 1 & 2.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-13-23 Enrichment 1 & 2.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-13-23 Enrichment 1 & 2.md"
+                "file": "Protocols/Microbiome-enrichment.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "f5346c87b5965d6c",
   "lastOpenFiles": [
-    "10-12-23 Cleaning and Bead Prep.md",
     "10-13-23 Enrichment 1 & 2.md",
+    "10-12-23 Cleaning and Bead Prep.md",
     "Protocols/Microbiome-enrichment.md",
     "10-11-23 Bead Prep & Host Concentrations.md",
     "Protocols/Qubit.md",
