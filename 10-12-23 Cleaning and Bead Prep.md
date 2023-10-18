@@ -32,6 +32,15 @@
 | 122022_BEL_CBC_T2_87_OFAV  | micro | 13.4    |
 |                            |       |         |
 
+Retested T3_66 on 10/18 with nanodrop :
+
+|                          |       |       |          |     |
+| ------------------------ | ----- | ----- | -------- | --- |
+| sample                   | type  | ng/uL | A260/280 |     |
+|                          |       |       |          |     |
+| ---                      | ---   | ---   | ---      |     |
+| 52022_BEL_CBC_T3_66_OFAV | micro | 5.7   | 1.89     |     |
+|                          |       |       |          |     |
 
 bead prep - caroline's enrichment 
 
