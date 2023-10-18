@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-19-23 DNA CONCENTRATIONS.md",
+                "file": "09-25-23 Week-Enrichment.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-25-23 Week-Enrichment.md",
+                "file": "10-12-23 Cleaning and Bead Prep.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "t1_30",
+                "query": "t3_66",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-25-23 Week-Enrichment.md",
+                "file": "10-12-23 Cleaning and Bead Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09-25-23 Week-Enrichment.md",
+                "file": "10-12-23 Cleaning and Bead Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-25-23 Week-Enrichment.md"
+                "file": "10-12-23 Cleaning and Bead Prep.md"
               }
             }
           },
@@ -184,27 +185,27 @@
   },
   "active": "4a812825e5c451f0",
   "lastOpenFiles": [
-    "09-29-23 DNA concentrations_ampure_cleaning.md",
+    "10-11-23 Bead Prep & Host Concentrations.md",
+    "10-12-23 Cleaning and Bead Prep.md",
+    "09-19-23 DNA CONCENTRATIONS.md",
     "09-25-23 Week-Enrichment.md",
+    "09-22-23 host dna concentrations.md",
+    "09-21-23 enrichment_DNA_concentration.md",
+    "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
+    "09-14-23 DNA concentrations.md",
+    "09-05-23 Microbiome (mm) Enrichment.md",
+    "09-29-23 DNA concentrations_ampure_cleaning.md",
+    "10-05-23 Bead Prep.md",
+    "10-10-23 Micro Cleanup.md",
+    "09-13-23 Sync Obsidian Git to Github.md",
     "10-13-23 Enrichment 1 & 2.md",
     "10-17-23 Micro cleaning.md",
-    "09-19-23 DNA CONCENTRATIONS.md",
-    "09-21-23 enrichment_DNA_concentration.md",
     "Protocols/Microbiome-enrichment.md",
-    "10-12-23 Cleaning and Bead Prep.md",
-    "10-11-23 Bead Prep & Host Concentrations.md",
     "Protocols/Qubit.md",
     "10-04-23 Enrichment and DNA concentrations.md",
-    "10-05-23 Bead Prep.md",
     "10-6-23 Enrichment.md",
-    "10-10-23 Micro Cleanup.md",
-    "09-14-23 Prepping beads for mm enrichment 09-14-23.md",
-    "09-22-23 host dna concentrations.md",
-    "09-05-23 Microbiome (mm) Enrichment.md",
-    "09-14-23 DNA concentrations.md",
     "README.md",
     "DNA Concentrations Template.md",
-    "09-13-23 Sync Obsidian Git to Github.md",
     "Protocols"
   ]
 }
