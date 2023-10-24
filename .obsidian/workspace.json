@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-13-23 Enrichment 1 & 2.md",
+                "file": "10-11-23 Bead Prep & Host Concentrations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-13-23 Enrichment 1 & 2.md",
+                "file": "10-11-23 Bead Prep & Host Concentrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-13-23 Enrichment 1 & 2.md",
+                "file": "10-11-23 Bead Prep & Host Concentrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-13-23 Enrichment 1 & 2.md"
+                "file": "10-11-23 Bead Prep & Host Concentrations.md"
               }
             }
           },
@@ -183,9 +183,9 @@
   },
   "active": "4a812825e5c451f0",
   "lastOpenFiles": [
-    "10-17-23 Micro cleaning.md",
-    "10-13-23 Enrichment 1 & 2.md",
     "10-12-23 Cleaning and Bead Prep.md",
+    "10-13-23 Enrichment 1 & 2.md",
+    "10-17-23 Micro cleaning.md",
     "10-11-23 Bead Prep & Host Concentrations.md",
     "09-19-23 DNA CONCENTRATIONS.md",
     "09-25-23 Week-Enrichment.md",
