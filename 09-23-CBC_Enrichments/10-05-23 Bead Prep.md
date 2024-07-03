@@ -1,15 +1,15 @@
-|   |   |   |
-|---|---|---|
-|MBD2-Fc-bound magnetic beads - Bead Prep|||
-|Protein A magnetic beads (Y)|1129.44|ul|
-|MBD2-Fc protein (X)|112.944|ul|
-||1.242384||
-|1x Bind/Wash Buffer - Bead Prep|||
-|Final volume 1x bind/wash buffer|3|mL|
-|vol 5x undiluted buffer needed|0.6|mL|
-|vol water needed|2.4|mL|
-|amnt 1x buffer to add (step 12) (Y)|1129.44|uL|
-||||
+|                                          |          |     |
+| ---------------------------------------- | -------- | --- |
+| MBD2-Fc-bound magnetic beads - Bead Prep |          |     |
+| Protein A magnetic beads (Y)             | 1129.44  | ul  |
+| MBD2-Fc protein (X)                      | 112.944  | ul  |
+|                                          | 1.242384 |     |
+| 1x Bind/Wash Buffer - Bead Prep          |          |     |
+| Final volume 1x bind/wash buffer         | 3        | mL  |
+| vol 5x undiluted buffer needed           | 0.6      | mL  |
+| vol water needed                         | 2.4      | mL  |
+| amnt 1x buffer to add (step 12) (Y)      | 1129.44  | uL  |
+|                                          |          |     |
 Might have been a little short on buffer amount at the end..keep in mind when enriching
 
 
