@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "ace381cbf3ee38ae",
+            "id": "d9278d973a75a5cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNA Extractions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64fa8e58bf37baf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DNA Extraction Tracker.md",
+                "file": "Protocols/DNA Extraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNA Extractions.md",
+                "file": "Protocols/DNA Extraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNA Extractions.md",
+                "file": "Protocols/DNA Extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNA Extractions.md"
+                "file": "Protocols/DNA Extraction.md"
               }
             }
           },
@@ -182,11 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ace381cbf3ee38ae",
+  "active": "d9278d973a75a5cd",
   "lastOpenFiles": [
-    "DNA Extraction Tracker.md",
-    "DNA Extractions.md",
+    "DNA Extraction Tracker (2024).md",
     "Protocols/Qubit.md",
+    "Protocols/DNA Extraction.md",
     "Protocols/Microbiome-enrichment.md",
     "09-23-CBC_Enrichments/10-6-23 Enrichment.md",
     "09-23-CBC_Enrichments/10-05-23 Bead Prep.md",
