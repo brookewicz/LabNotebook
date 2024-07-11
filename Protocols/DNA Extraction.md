@@ -44,16 +44,15 @@ Consumables
 - PPE: gloves, lab coat, mask (while weighing out coral sample or handling open tubes outside of the hood)
 
 **Tissue lysis**
-
-1.  Weigh approximately 150 – 250 mg of coral sample in an Eppendorf tube or directly into the disruptor tube. Weigh your sample and note down how much sample you’ve processed. 
-
-(The disruptor tube is faster, but you cannot put the sample back if you get too much sample.)
-
 *Aseptic technique for weighing out sample,*
 - wear a mask 
 - keep tweezers and scissors in UV-sterilized beaker
 - dip tweezers and scissors in ethanol, then pass them through a flame in between each sample
 - handle open tubes around the open flame if possible 
+
+1.  Weigh approximately 150 – 250 mg of coral sample in an Eppendorf tube or directly into the disruptor tube. Weigh your sample and note down how much sample you’ve processed. 
+
+(The disruptor tube is faster, but you cannot put the sample back if you get too much sample.)
 
 2.  Add 725 µL of SLX-Mlus buffer to the disruptor tube. Vortex until the coral skeleton is virtually bare (usually 5-10 minutes).
     
