@@ -1,4 +1,5 @@
 **Prepare for Assay** 
+- Use qubit ass
 - Label tube lids not sides of tube
 - Prepare working solution by dilution HS Reagent 1:200 in HS Buffer
 	- https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=701799736
