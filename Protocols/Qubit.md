@@ -1,6 +1,10 @@
 **Prepare for Assay** 
-- Use qubit ass
+- Use qubit assay tubes
 - Label tube lids not sides of tube
+- UV sterilize tubes 
+	- qubit assay tubes: 1x sample + 2 standards
+	- larger eppendorf/sterile tube for working solution (see total mL below)
+	- pipette tips 
 - Prepare working solution by dilution HS Reagent 1:200 in HS Buffer
 	- https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=701799736
 - Add 190 µL of Qubit® working solution to each of the tubes **used for standards**.
@@ -15,7 +19,7 @@
 On qubit:
 - sign in 
 - select "dsDNA High Sensitivity"
-- reread standards before reading samples 
+- reread standards before reading samples - follow prompts on 
 	- will tell you if standards are bad 
 	- will tell you if samples are out of range 
 - remove tube from fluorometer after every reading. If you need to redo a measurement, take the tube out and equilibrate to room temp for 30s
