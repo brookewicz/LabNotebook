@@ -88,12 +88,13 @@ Consumables
 **Washing**
 
  14. Add 500 µL of HBC buffer to the column. Centrifuge at 10000 rpm/g for 1 minute at room temperature. Discard filtrate.
+ 15. Transfer the HiBind® DNA Mini Column into a new 2 mL Collection Tube.
     
- 15. Add 700 µL DNA wash buffer to the column. Centrifuge at 10000 rpm/g for 1 minute at room temperature. Discard filtrate.
+ 16. Add 700 µL DNA wash buffer to the column. Centrifuge at 10000 rpm/g for 1 minute at room temperature. Discard filtrate.
     
- 16. Repeat step 14.
+ 17. Repeat step 16. (DNA wash)
     
- 17. Centrifuge the column without loading it with anything for 2 minutes at maximum speed at room temperature.
+ 18. Centrifuge the column without loading it with anything for 2 minutes at maximum speed at room temperature.
     
 
 **Elution**
