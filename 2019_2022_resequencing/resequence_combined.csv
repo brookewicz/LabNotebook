@@ -78,7 +78,7 @@ Tubelabel_species,Species,Year,Health_status,Starting_Weight,Date_Extracted,Raw_
 122022_BEL_CBC_T3_155_MCAV,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B5,,
 122022_BEL_CBC_T2_116_PSTR,PSTR,2022,Diseased_Margin,188.7,7_11_2024,7.87,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T4_13_PSTR,PSTR,2022,Diseased_Tissue,178.7,7_3_2024,6.21,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B5,,
-122022_BEL_CBC_T4_1_OFAV,OFAV,2022,Healthy,,,,,,,,,,,,,,,,,,extract,Is one of these T4_1?,UML_NARWHAL_R1_B5,,Is one of these T4_1?
+122022_BEL_CBC_T1_123_OANN,OANN,2022,Healthy,160.2,7_16_2024,9.51,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T4_11_MCAV,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B5,,
 122022_BEL_CBC_T2_87_OFAV,OFAV,2022,Healthy,176,6_27_2023,62.2,10_11_23,13.4,UML_NARWHAL_R2_B1,10_12_23,1.43,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,extract,,UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,
 122022_BEL_CBC_T4_36_PSTR,PSTR,2022,Diseased_Tissue,177.3,7_3_2024,34.8,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B5,,
@@ -95,7 +95,7 @@ Tubelabel_species,Species,Year,Health_status,Starting_Weight,Date_Extracted,Raw_
 122022_BEL_CBC_T4_6_MCAV,MCAV,2022,Diseased_Tissue,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B5,,
 122022_BEL_CBC_T3_158_PSTR,PSTR,2022,Healthy,283.9,7_12_2024,8.87,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T3_163_PSTR,PSTR,2022,Healthy,172.3,7_12_2024,12,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
-122022_BEL_CBC_T1_123_OANN,OANN,2022,Healthy,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B4,,
+052022_BEL_CBC_T1_63_OFAV,OFAV,2022,Healthy,174.4,7_16_2024,9.86,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B3,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T4_34_PSTR,PSTR,2022,Healthy,270.4,7_12_2024,3.99,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T4_4_PSTR,PSTR,2022,Healthy,163.1,7_12_2024,7.07,,,,,,,,,,,,,,n,enrich,Is one of these T4_1?,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,Is one of these T4_1?
 122022_BEL_CBC_T1_134_PAST,PAST,2022,Diseased_Margin,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B4,,
@@ -208,4 +208,4 @@ Tubelabel_species,Species,Year,Health_status,Starting_Weight,Date_Extracted,Raw_
 062019_BEL_CBC_T3_26_PAST,PAST,2019,Healthy,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B1,,
 062019_BEL_CBC_T3_11_MCAV,MCAV,2019,Healthy,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B1,,
 052022_BEL_CBC_T1_1_PAST,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B3,DNA_extracted,
-052022_BEL_CBC_T1_63_OFAV,OFAV,2022,Healthy,,,,,,,,,,,,,,,,,,extract,,UML_NARWHAL_R1_B3,,
+122022_BEL_CBC_T4_1_OFAV,OFAV,2022,Healthy,183.5,7_16_2024,44.7,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
