@@ -71,18 +71,18 @@ Consumables
 
 **Inhibitor Removal**
 
-9.  Transfer 400 µL supernatant into a 1.5 mL Eppendorf tube. Add 135 µL chilled P2 buffer and 200 µL of resuspended cHTR reagent. (Do not shake the cHTR reagent bottle: this foams it up and barely does anything for the resuspension. Its better to just pipette up and down.)
+9.  Transfer 400 µL supernatant into a 1.5 mL Eppendorf tube. Add 135 µL chilled P2 buffer and 200 µL of resuspended cHTR reagent. (Do not shake the cHTR reagent bottle: this foams it up and barely does anything for the resuspension. Its better to just pipette up and down.) Vortex samples to mix. 
     
 10.  Centrifuge at 10000 g/rpm for 1 minute at room temperature.
 
 
 **Binding**
 
-11.  Transfer supernatant to a new centrifuge tube, make sure not to disturb the pellet. Add an equal volume of XP1 buffer (about 735 µL)
+11.  Transfer supernatant to a new centrifuge tube, make sure not to disturb the pellet. Add an equal volume of XP1 buffer (about 735 µL). Vortex to mix. 
     
 12.  Insert a HiBind column into a 2 mL collection tube. Transfer 700 µL of the sample into the column (mix buffer in as you're doing this by pipetting up and down). Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard the filtrate and reuse the collection tube.
     
-13.  Repeat step 11 until all filtrate has passed through. (should be twice)
+13.  Repeat step 12 until all filtrate has passed through. (should be twice)
     
 
 **Washing**
