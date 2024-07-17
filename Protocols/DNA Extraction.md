@@ -80,7 +80,7 @@ Consumables
 
 11.  Transfer supernatant to a new centrifuge tube, make sure not to disturb the pellet. Add an equal volume of XP1 buffer (about 735 µL). Vortex to mix. 
     
-12.  Insert a HiBind column into a 2 mL collection tube. Transfer 700 µL of the sample into the column (mix buffer in as you're doing this by pipetting up and down). Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard the filtrate and reuse the collection tube.
+12.  Insert a HiBind column into a 2 mL collection tube. Transfer 700 µL of the sample into the column. Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard the filtrate and reuse the collection tube.
     
 13.  Repeat step 12 until all filtrate has passed through. (should be twice)
     

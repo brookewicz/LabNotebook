@@ -61,3 +61,4 @@
 ###### 7-17-24
 - disease margin mcav 
 	- couldn't get enough t4-14
+- spilled some t1-39 while adding chtr - added 150mL more of sample 
