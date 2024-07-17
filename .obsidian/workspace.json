@@ -20,31 +20,18 @@
             }
           },
           {
-            "id": "10e95b6c55106e41",
+            "id": "56bae2bd1d39a8ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Qubit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45251320dd81093f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "Protocols/DNA Extraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "Protocols/DNA Extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md"
+                "file": "Protocols/DNA Extraction.md"
               }
             }
           },
@@ -182,12 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45251320dd81093f",
+  "active": "c3de68fa4779edab",
   "lastOpenFiles": [
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Protocols/DNA Extraction.md",
-    "Protocols/Qubit.md",
+    "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+    "Protocols/Qubit.md",
     "2019_2022_resequencing/resequence_plan.ipynb",
     "2019_2022_resequencing/resequence_combined.csv",
     "2019_2022_resequencing/inventory.ipynb",
@@ -195,7 +184,6 @@
     "2019_2022_resequencing/Notebook_TS_Coral_Metagenomics.pdf",
     "2019_2022_resequencing",
     "DNA Extraction Tracker (2024).md",
-    "Protocols/Microbiome-enrichment.md",
     "09-23-CBC_Enrichments/10-6-23 Enrichment.md",
     "09-23-CBC_Enrichments/10-05-23 Bead Prep.md",
     "09-23-CBC_Enrichments/10-12-23 Cleaning and Bead Prep.md",

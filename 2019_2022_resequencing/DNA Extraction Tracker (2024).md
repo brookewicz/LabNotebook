@@ -29,8 +29,12 @@
 | 052022_BEL_CBC_T1_63_OFAV  | OFAV    | 2022 | Healthy         | 174.4           | 7/16/2024      | 9.86      | UML_R2_B26         |
 | 122022_BEL_CBC_T4_1_OFAV   | OFAV    | 2022 | Healthy         | 183.5           | 7/16/2024      | 44.7      | UML_R2_B26         |
 | negative control           |         |      |                 |                 | 7/16/2024      | too low   | UML_R2_B26         |
+| 122022_BEL_CBC_T3_133_MCAV | MCAV    | 2022 | Diseased_Margin | 205.6           |                |           |                    |
+| 122022_BEL_CBC_T4_14_MCAV  | MCAV    | 2022 | Diseased_Margin | 118.5           |                |           |                    |
+| 122022_BEL_CBC_T4_5_MCAV   | MCAV    | 2022 | Diseased_Margin | 171.3           |                |           |                    |
+| 052022_BEL_CBC_T1_39_MCAV  | MCAV    | 2022 | Diseased_Margin | 269.3           |                |           |                    |
+| negative control           |         |      |                 |                 |                |           |                    |
 
- 
 ##### Protocol Notes: 
 ###### 7-3-24
 - for weighing, kept tissue samples on ice while not using, but did not keep on ice while actively pulling tissue out. handled open tubes around the flame. tried to cut pieces in tissue tube but used weigh paper underneath to catch anything. How should we be doing this? how can we standardize this better? 
@@ -51,4 +55,9 @@
 
 ###### 7-16-24
 - 3 healthy orbi (last orb)
-- 
+
+**just realized i haven't used lo-bind tubes up until now- switching over now **
+
+###### 7-17-24
+- disease margin mcav 
+	- couldn't get enough t4-14

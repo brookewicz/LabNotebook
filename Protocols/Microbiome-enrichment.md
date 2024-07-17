@@ -9,6 +9,17 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 
 https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=0
 
+#### Materials/Prep
+- Get ice 
+- UV sterilize pipette tips, 1x 1.5 eppendorf, 3x lo bind eppendorf (for samples), 1x 15mL falcon tube (for bind/wash buffer)
+- Thaw Bind/wash buffer
+- NEB Protein A Magnetic Beads 
+- MBD2-Fc protein
+- DNase free water 
+- 30 uL sample dna (don't take out of fridge until needed)
+- magnetic rack 
+- 1X TE (elution buffer)
+- Proteinase K 
 
 
 
