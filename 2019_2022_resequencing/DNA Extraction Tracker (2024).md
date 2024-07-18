@@ -29,11 +29,11 @@
 | 052022_BEL_CBC_T1_63_OFAV  | OFAV    | 2022 | Healthy         | 174.4           | 7/16/2024      | 9.86      | UML_R2_B26         |
 | 122022_BEL_CBC_T4_1_OFAV   | OFAV    | 2022 | Healthy         | 183.5           | 7/16/2024      | 44.7      | UML_R2_B26         |
 | negative control           |         |      |                 |                 | 7/16/2024      | too low   | UML_R2_B26         |
-| 122022_BEL_CBC_T3_133_MCAV | MCAV    | 2022 | Diseased_Margin | 205.6           |                |           |                    |
-| 122022_BEL_CBC_T4_14_MCAV  | MCAV    | 2022 | Diseased_Margin | 118.5           |                |           |                    |
-| 122022_BEL_CBC_T4_5_MCAV   | MCAV    | 2022 | Diseased_Margin | 171.3           |                |           |                    |
-| 052022_BEL_CBC_T1_39_MCAV  | MCAV    | 2022 | Diseased_Margin | 269.3           |                |           |                    |
-| negative control           |         |      |                 |                 |                |           |                    |
+| 122022_BEL_CBC_T3_133_MCAV | MCAV    | 2022 | Diseased_Margin | 205.6           | 7/17/2024      | 3.5       | UML_R2_B26         |
+| 122022_BEL_CBC_T4_14_MCAV  | MCAV    | 2022 | Diseased_Margin | 118.5           | 7/17/2024      | 5.99      | UML_R2_B26         |
+| 122022_BEL_CBC_T4_5_MCAV   | MCAV    | 2022 | Diseased_Margin | 171.3           | 7/17/2024      | 14.5      | UML_R2_B26         |
+| 052022_BEL_CBC_T1_39_MCAV  | MCAV    | 2022 | Diseased_Margin | 269.3           | 7/17/2024      | 7.32      | UML_R2_B26         |
+| negative control           |         |      |                 |                 | 7/17/2024      | too low   | UML_R2_B26         |
 
 ##### Protocol Notes: 
 ###### 7-3-24
@@ -62,3 +62,4 @@
 - disease margin mcav 
 	- couldn't get enough t4-14
 - spilled some t1-39 while adding chtr - added 150mL more of sample 
+- t4-5 used 25 uL elution buffer aliquot from 6-26 (CDE)
