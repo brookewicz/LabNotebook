@@ -2,6 +2,7 @@
 ## remeasuring dna concentrations of previously extracted (2022) samples. 
 - some have already been enriched, but just using extracted dna since the enriched labelling system is very hard to decipher
 - trying to decide - but i think if the concentration is lower now than before and has been degraded, i will not use. if extracting from depleted doesn't go well, i will use. 
+- Branae is measuring with qubit 
 
 | Tubelabel_species         | Health_status   | Date_Extracted | Original_Raw_ng_ul | Date_Enriched | Microbe_ng_ul | qubit_check_date | Extracted_ng_ul_2024 | Status_notes |
 | ------------------------- | --------------- | -------------- | ------------------ | ------------- | ------------- | ---------------- | -------------------- | ------------ |
