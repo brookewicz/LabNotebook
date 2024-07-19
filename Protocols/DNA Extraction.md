@@ -23,7 +23,7 @@ Chemicals/reagents
 - [ ] DNA wash buffer
 Consumables
 - [ ] Disruptor tubes (1 per sample??)
-- [ ] 1.5 mL eppendorf tubes (3x # samples)
+- [ ] 1.5 mL eppendorf tubes (3x # samples - 2 lobind, 1 regular )
 - [ ] HiBind column
 - [ ] collection tube
 
