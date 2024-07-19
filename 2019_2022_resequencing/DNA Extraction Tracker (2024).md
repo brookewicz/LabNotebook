@@ -70,3 +70,7 @@
 	- couldn't get enough t4-14
 - spilled some t1-39 while adding chtr - added 150mL more of sample 
 - t4-5 used 25 uL elution buffer aliquot from 6-26 (CDE)
+
+###### 7-17-24
+- diseased tissue mcav 
+- t4-6 column came out of collection tube on second dna wash cycle..didn't touch anything except gloved hand (and avoided touching lower than the cap)

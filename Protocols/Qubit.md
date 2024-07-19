@@ -6,7 +6,7 @@
 	- larger eppendorf/sterile tube for working solution (see total mL below)
 	- pipette tips 
 - Prepare working solution by dilution HS Reagent 1:200 in HS Buffer
-	- https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=701799736
+	- https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=701799736 
 - Add 190 µL of Qubit® working solution to each of the tubes **used for standards**.
 - Add 10 µL of each Qubit® standard to the appropriate tube, then mix by vortexing 2–3 seconds. Be careful not to create bubbles.
 - Add Qubit® working solution to individual assay tubes so that the final volume in each tube after adding sample is 200 µL.
