@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "09-23-CBC_Enrichments/10-11-23 Bead Prep & Host Concentrations.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "t2_19",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +90,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "Protocols/DNA Extraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "Protocols/DNA Extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md"
+                "file": "Protocols/DNA Extraction.md"
               }
             }
           },
@@ -182,10 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "230bde8ef2741a87",
+  "active": "de13544f7ce4366e",
   "lastOpenFiles": [
-    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
+    "2019_2022_resequencing/~$ThijsNB.xlsx",
+    "09-23-CBC_Enrichments/10-6-23 Enrichment.md",
+    "09-23-CBC_Enrichments/10-05-23 Bead Prep.md",
+    "09-23-CBC_Enrichments/10-17-23 Micro cleaning.md",
     "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Protocols/Qubit.md",
     "Protocols/DNA Extraction.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
@@ -197,11 +201,8 @@
     "2019_2022_resequencing/Notebook_TS_Coral_Metagenomics.pdf",
     "2019_2022_resequencing",
     "DNA Extraction Tracker (2024).md",
-    "09-23-CBC_Enrichments/10-6-23 Enrichment.md",
-    "09-23-CBC_Enrichments/10-05-23 Bead Prep.md",
     "09-23-CBC_Enrichments/10-12-23 Cleaning and Bead Prep.md",
     "09-23-CBC_Enrichments/10-13-23 Enrichment 1 & 2.md",
-    "09-23-CBC_Enrichments/10-17-23 Micro cleaning.md",
     "09-23-CBC_Enrichments/10-11-23 Bead Prep & Host Concentrations.md",
     "09-23-CBC_Enrichments/10-10-23 Micro Cleanup.md",
     "09-23-CBC_Enrichments/10-04-23 Enrichment and DNA concentrations.md",
@@ -216,7 +217,6 @@
     "09-23-CBC_Enrichments/09-05-23 Microbiome (mm) Enrichment.md",
     "README.md",
     "09-23-CBC_Enrichments",
-    "DNA Concentrations Template.md",
     "Protocols"
   ]
 }
