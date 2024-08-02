@@ -12,17 +12,15 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 #### Materials/Prep
 - Get ice 
-- UV sterilize pipette tips, 1x 1.5 eppendorf, 3x lo bind eppendorf (for samples), 1x 15mL falcon tube (for bind/wash buffer)
+- UV sterilize pipette tips: 4x samples -lo bind eppendorf , 1x falcon tube (for bind/wash buffer), - DNase free water, falcon tube for ethanol 
 - Thaw Bind/wash buffer
 - NEB Protein A Magnetic Beads 
 - MBD2-Fc protein
-- DNase free water 
+- 80% ethanol 
 - 30 uL sample dna (don't take out of fridge until needed)
 - magnetic rack 
 - 1X TE (elution buffer)
 - Proteinase K 
-
-
 
 ### Prepare beads - Pt1
 
