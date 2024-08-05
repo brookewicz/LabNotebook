@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md"
+                "file": "Protocols/Microbiome-enrichment.md"
               }
             }
           },
@@ -180,11 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3de68fa4779edab",
+  "active": "d528e9a54c5c447d",
   "lastOpenFiles": [
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
-    "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
+    "Protocols/Microbiome-enrichment.md",
     "09-23-CBC_Enrichments/09-05-23 Microbiome (mm) Enrichment.md",
     "2019_2022_resequencing/Notebook_TS_Coral_Metagenomics.pdf",
     "Protocols/DNA Extraction.md",
