@@ -74,7 +74,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 `If cleaning samples within the next few days only, store in 4°C to prevent multiple freeze/thaw.` 
 
-
+ 
 ### Optional Protocol for Eluting Captured Host DNA - Pt3
 *This step elutes the captured host DNA from the MBD2-Fc-bound magnetic beads.*
 1. Prepare 1X Bind/wash Buffer (kept on ice) if not already prepped - 1 mL per sample. 1 part NEBNext Bind/wash Buffer (5X) with 4 parts DNase-free water. 
