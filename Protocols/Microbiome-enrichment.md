@@ -53,6 +53,9 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 `The MBD2-Fc-bound magnetic beads are stable for up to 7 days at 4°C` 
 
 ### Capture Methylated Host DNA and Enriched Microbial DNA - Pt2
+
+`Thaw Bind/wash buffer before starting`
+
 1. Add 30 uL of input DNA and corresponding ==Z μl of **MBD2-Fc-bound magnetic beads**== to new tubes. Resuspend by pipetting up and down.
 	- (Beads from above "Prepare Beads-Pt1" section.) Z uL of beads differs for each sample. If you change the amount of input DNA, Z changes. Check spreadsheet.
 
