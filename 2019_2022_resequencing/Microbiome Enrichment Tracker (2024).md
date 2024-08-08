@@ -1,5 +1,6 @@
 - tracking samples and protocol notes (sorted by date) of all enriched samples for 2024 sequencing (of 2019-2022 samples)
 - follows [[DNA Extraction Tracker (2024)]] and may include samples that have previously been extracted (denoted in excel sheet)
+- narwhal box #27
 
 ##### Protocol Notes and Dates: 
 ###### 8-2-24
@@ -58,6 +59,7 @@
 - NOT yet cleaned, micro and host left in 4C until cleaning  
 - cleaned 8-8 (took ~2.5 hrs)
 	- redo t4 34 micro qubit, then may have to redo enrichment 
+	- cleaned, but have not measured host 
 
 | Sample information                           |                 | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | -------------------------------------------- | --------------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
