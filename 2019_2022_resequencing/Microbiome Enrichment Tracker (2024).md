@@ -56,6 +56,7 @@
 - during pt2 - dna+beads were left sitting for ~20 mins until bw buffer thawed (forgot to thaw it before starting)
 - host beads left in fridge for ~4 hours before eluting them 
 - NOT yet cleaned, micro and host left in 4C until cleaning  
+- cleaned 8-8 (took ~2.5 hrs)
 
 | Sample information                           |           | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | -------------------------------------------- | --------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
