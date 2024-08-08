@@ -1,4 +1,4 @@
-
+ 
 ## Microbiome enrichment protocol
 This is the adapted protocol for the New England Biolabs Microbiome Enrichment kit, specifically for Coral DNA:
 
@@ -7,8 +7,8 @@ https://www.neb.com/products/e2612-nebnext-microbiome-dna-enrichment-kit#Product
 Protocol:https://www.neb.com/protocols/2013/04/18/protocol-for-use-with-nebnext-microbiome-dna-enrichment-e2612
 
 Reagents expressed in ==**bold**== need a calculation from this document. Use the following spreadsheet to determine your DNA input and reagent input volumes:
-
-https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=0
+[[
+]]https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=0
 
 #### Materials/Prep
 - Get ice 
