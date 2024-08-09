@@ -74,3 +74,6 @@
 ###### 7-17-24
 - diseased tissue mcav 
 - t4-6 column came out of collection tube on second dna wash cycle..didn't touch anything except gloved hand (and avoided touching lower than the cap)
+
+###### 8-9-24
+- diseased past 
