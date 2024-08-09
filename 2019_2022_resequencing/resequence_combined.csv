@@ -1,4 +1,4 @@
-Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA"") extracted or host separated?","pink box - (""EXTRACTED CORAL DNA"")",orange box - enriched ('ENRICHED MICROBIAL DNA'),Species,Year,Health_status,Starting_Weight,Date_Extracted,Raw_ng_ul,Extracted_check_ng_ul_2024,Date_Enriched,Microbe_ng_ul,Microbe_Location,Microbe_clean_date/n,Host_ng_ul,Host_Location,Host_clean_y/n,Date_Libprep,Status ,Notes ,Seq_date,Host_Seq_date,Status_notes,Ready_resequence,ToDo_Resequence,Notes_x,Sample_physical_location_y,Extraction_physical_location_y,Notes_y
+Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA"") extracted or host separated?","pink box - (""EXTRACTED CORAL DNA"")",orange box - enriched ('ENRICHED MICROBIAL DNA'),Species,Year,Health_status,Starting_Weight,Date_Extracted,Raw_ng_ul,Extracted_check_ng_ul_2024,Date_Enriched,Microbe_ng_ul,Microbe_Location,Microbe_clean_date/n,Host_ng_ul,Host_Location,Host_clean_y/n,Date_Libprep,Status ,Notes ,Seq_date,Host_Seq_date,Status_notes,Ready_resequence,ToDo_Resequence,Notes_x,Sample_physical_location,Extraction_physical_location,Notes_y
 052022_BEL_CBC_T1_12_MCAV,T1_12 2022 LOW ,,T1_12 LOW,T1_12 2022 EMPTY ,MCAV,2022,Diseased_Margin,_,6_10_2022,6.2,3.95,7_6_2022,0.1,,,_,,,7_29_2022,sequenced,(Library Prep) Used 3¬µl of water to reach initial volume of  16¬µl,sequenced,,"DEPLETED, empty enriched tube - orange box, small amnt extracted dna - pink box ",n,enrich,enrich using old extracted dna (if there's enough),Depleted_ UML_NARWHAL_R1_B3,DNA_extracted,Only sand in tissue sample 
 052022_BEL_CBC_T1_13_MCAV,T1_13 2022 LOW,,T1_13 2022 EMPTY ,T1_13 2022 EMPTY ,MCAV,2022,Diseased_Tissue,133,6_14_2022,5.8,,7_6_2022,1.7,,,_,,,7_29_2022,sequenced,Processed following protocol as written ,sequenced,,"DEPLETED, empty enriched tube - orange box, empty extracted - pink box,  ",n,enrich,enrich using old extracted dna (if there's enough),Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand in tissue sample 
 052022_BEL_CBC_T1_39_MCAV,,,,,MCAV,2022,Diseased_Margin,269.3,7_17_2024,7.32,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B3,UML_NARWHAL_R2_B26,
@@ -18,20 +18,20 @@ Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA""
 052022_BEL_CBC_T2_8_PSTR,,,,,PSTR,2022,Healthy,144,9_12_2023,13.2,,10_6_2023,3.22,UML_NARWHAL_R2_B1,10_10_23,42,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B8,UML_NARWHAL_R2_B3,
 052022_BEL_CBC_T1_60_MCAV,,,,T1_60 2022 EMPTY ,MCAV,2022,Diseased_Tissue,306,7_19_2024,4.47,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B3,UML_NARWHAL_R2_B26,
 052022_BEL_CBC_T1_62_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B3,,
-052022_BEL_CBC_T1_70_MCAV,T1_70 2022 LOW ,,T1_70 2022,T1_70 2022 EMPTY ,MCAV,2022,Diseased_Tissue,117,6_14_2022,95,,7_6_2022,5.6,,,_,,,7_29_2022,sequenced,Processed following protocol as written ,sequenced,,"DEPLETED, empty enriched tube - orange box ",n,check extracted dna,enrich using old extracted dna (if there's enough),Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
+052022_BEL_CBC_T1_70_MCAV,T1_70 2022 LOW ,,T1_70 2022,T1_70 2022 EMPTY ,MCAV,2022,Diseased_Tissue,117,6_14_2022,95.0,,7_6_2022,5.6,,,_,,,7_29_2022,sequenced,Processed following protocol as written ,sequenced,,"DEPLETED, empty enriched tube - orange box ",n,check extracted dna,enrich using old extracted dna (if there's enough),Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
 052022_BEL_CBC_T2_10_MCAV,T2_10 2022 LOW ,,T2_10 2022,T2_10,MCAV,2022,Healthy,_,6_15_2022,22.4,,6_22_2022,0.3,,,0.5,,,6_27_2022,sequenced,Processed following protocol as written ,sequenced,,"DEPLETED, empty enriched tube - orange box, empty extracted - pink box ",n,check extracted dna,enrich using old extracted dna (if there's enough),Depleted_UML_NARWHAL_R1_B8,DNA_extracted,Only sand left in tissue sample
 052022_BEL_CBC_T2_12_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B8,,
 122022_BEL_CBC_T3_121_OFAV,,,,,OFAV,2022,Healthy,158,6_22_2023,103.2,,10_16_2023,39.9,UML_NARWHAL_R2_B1,,,,,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B3,
 052022_BEL_CBC_T2_4_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B8,,
 052022_BEL_CBC_T2_56_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B8,,
-052022_BEL_CBC_T3_1_MCAV,T3_1 2022 LOW,T3_1 (DUP),T3_1 2022 LOW,"T3_1 (DUP?, 2 IN BOX)",MCAV,2022,Healthy,_,6_15_2022,37,,6_22_2022,3.6,,,1.8,,,6_27_2022,sequenced,Processed following protocol as written ,sequenced,,"enriched - orange box (small amnt left), extracted dna - pink box",n,check extracted dna,enrich using old extracted dna (if there's enough),Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
+052022_BEL_CBC_T3_1_MCAV,T3_1 2022 LOW,T3_1 (DUP),T3_1 2022 LOW,"T3_1 (DUP?, 2 IN BOX)",MCAV,2022,Healthy,_,6_15_2022,37.0,,6_22_2022,3.6,,,1.8,,,6_27_2022,sequenced,Processed following protocol as written ,sequenced,,"enriched - orange box (small amnt left), extracted dna - pink box",n,check extracted dna,enrich using old extracted dna (if there's enough),Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
 122022_BEL_CBC_T3_127_OFAV,,,,,OFAV,2022,Healthy,126,6_22_2023,36.3,,10_11_23,8.02,UML_NARWHAL_R2_B1,10_12_23,1.1,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B3,
 052022_BEL_CBC_T3_13_MCAV,T3_13 2022 LOW,,T3_13 2022,T3_13,MCAV,2022,Healthy,_,6_15_2022,13.2,,6_22_2022,1,,,0.5,,,6_27_2022,sequenced,Processed following protocol as written ,sequenced,,enriched - orange box,n,check extracted dna,enrich using old extracted dna (if there's enough),UML_NARWHAL_R1_B3,DNA_extracted,
 052022_BEL_CBC_T3_19_MCAV,T3_19 2022 LOW (2 IN BOX),,,T3_19 (2 IN BOX),MCAV,2022,Healthy,_,6_15_2022,38.2,,6_22_2022,6.3,,,0,,,6_27_2022,sequenced,Processed following protocol as written ,sequenced,,enriched - orange box,n,extract_from_depleted,2 tubes of everything so I don't trust it,Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
 052022_BEL_CBC_T3_40_MCAV,T3_40 2022 LOW,,T3_40 2022,T3_40 2022 EMPTY ,MCAV,2022,Diseased_Margin,139,6_14_2022,24.7,13.3,7_6_2022,7.5,,,_,,,7_29_2022,sequenced,Used 3¬µl of water to reach initial volume of  16¬µl,sequenced,,"empty enriched tube - orange box, extracted dna - pink box  ",n,enrich,"checked concentrations, using old extraction ",UML_NARWHAL_R1_B3,DNA_extracted,
 052022_BEL_CBC_T3_48_MCAV,T3_48 2022 LOW ,,T3_48 2022,T3_48 (2 IN BOX - 1 EMPTY),MCAV,2022,Diseased_Margin,155,6_14_2022,38.3,15.7,7_6_2022,6.4,,,_,,,7_29_2022,sequenced,Duplicate seqs; (Library Prep) Used 3¬µl of water to reach initial volume of  16¬µl; ,sequenced,,"empty enriched tube & no date enriched tube - orange box, extracted dna - pink box ",n,enrich,"checked concentrations, using old extraction ",UML_NARWHAL_R1_B3,DNA_extracted,
 052022_BEL_CBC_T3_49_MCAV,T3_49 2022 LOW ,,T3_49 2022,T3_49 2022 EMPTY ,MCAV,2022,Diseased_Tissue,142,6_14_2022,41.9,23.7,7_6_2022,5.8,,,_,,,7_29_2022,sequenced,Processed following protocol as written ,sequenced,,extracted dna - pink box ,n,enrich,"checked concentrations, using old extraction ",Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
-052022_BEL_CBC_T3_50_MCAV,T3_50 2022 LOW ,,T3_50 2022,,MCAV,2022,Diseased_Margin,56,6_14_2022,0,1.9,_,_,_,_,_,_,_,_,_,_,_,_,extracted dna - pink box ,n,check extracted dna,enrich using old extracted dna (if there's enough),Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
+052022_BEL_CBC_T3_50_MCAV,T3_50 2022 LOW ,,T3_50 2022,,MCAV,2022,Diseased_Margin,56,6_14_2022,0.0,1.9,_,_,_,_,_,_,_,_,_,_,_,_,extracted dna - pink box ,n,check extracted dna,enrich using old extracted dna (if there's enough),Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
 052022_BEL_CBC_T3_51_MCAV,T3_51 2022 LOW,,T3_51 2022,T3_51 2022 EMPTY ,MCAV,2022,Diseased_Tissue,104,6_14_2022,30.8,20.3,7_6_2022,1.5,,,_,,,7_29_2022,sequenced,Processed following protocol as written ,sequenced,,extracted dna - pink box ,n,enrich,"checked concentrations, using old extraction ",Depleted_UML_NARWHAL_R1_B3,DNA_extracted,Only sand left in tissue sample
 052022_BEL_CBC_T3_60_MCAV,T3_60 2022 LOW ,,T3_60 2022 ,T3_60 2022 (2 IN BOX),MCAV,2022,Diseased_Tissue,187,6_14_2022,4.4,,8_8_2022,2.72,,,_,,,8_30_2022,sequenced,Processed following protocol as written ,sequenced,,enriched - orange box,n,enrich,,UML_NARWHAL_R1_B3,DNA_extracted,
 062019_BEL_CBC_T1_8_PAST,"T1_8 2019 (2 IN BOX - 1EMPTY, 1 LOW) ",,,T1_8 2019 ,PAST,2019,Healthy,_,6_17_2022,13.8,,8_8_2022,2.35,,,_,,,8_30_2022,sequenced,Processed following protocol as written ,sequenced,,enriched - orange box,n,extract,redo extraction - unclear what the enriched tube is ,UML_NARWHAL_R1_B1,DNA_extracted,
@@ -72,12 +72,12 @@ Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA""
 122022_BEL_CBC_T1_151_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B4,,
 122022_BEL_CBC_T2_102_OFAV,,,,,OFAV,2022,Diseased_Tissue,127,6_28_2023,56.1,,10_17_2023,16.8,UML_NARWHAL_R2_B1,y,too low,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,
 122022_BEL_CBC_T1_153_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B4,,
-102019_BEL_CBC_T2_35_PSTR,,,,,PSTR,2019,Healthy,219.4,7_12_2024,19,,,,,,,,,,,,,,coral tissue - B2,n,enrich,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B26,
+102019_BEL_CBC_T2_35_PSTR,,,,,PSTR,2019,Healthy,219.4,7_12_2024,19.0,,,,,,,,,,,,,,coral tissue - B2,n,enrich,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T2_119_OANN,,,,,OANN,2022,Diseased_Tissue,160,6_28_2023,6.7,,10_17_2023,3.6,UML_NARWHAL_R2_B1,y,too low,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,
 122022_BEL_CBC_T2_85_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B4,,
 122022_BEL_CBC_T4_12_PSTR,,,,,PSTR,2022,Diseased_Margin,179.5,7_11_2024,3.49,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T4_13_PSTR,,,,,PSTR,2022,Diseased_Tissue,178.7,7_3_2024,6.21,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,,
-122022_BEL_CBC_T4_35_PSTR,,,,,PSTR,2022,Diseased_Margin,207.7,7_11_2024,13,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
+122022_BEL_CBC_T4_35_PSTR,,,,,PSTR,2022,Diseased_Margin,207.7,7_11_2024,13.0,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T2_86_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B4,,
 122022_BEL_CBC_T2_87_OFAV,,,,,OFAV,2022,Healthy,176,6_27_2023,62.2,,10_11_23,13.4,UML_NARWHAL_R2_B1,10_12_23,1.43,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,
 122022_BEL_CBC_T4_36_PSTR,,,,,PSTR,2022,Diseased_Tissue,177.3,7_3_2024,34.8,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,,
@@ -95,7 +95,7 @@ Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA""
 122022_BEL_CBC_T3_141_PSTR,,,,,PSTR,2022,Healthy,219.4,7_12_2024,6.21,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T3_151_PSTR,,,,,PSTR,2022,Healthy,171.6,7_12_2024,10.8,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T3_158_PSTR,,,,,PSTR,2022,Healthy,283.9,7_12_2024,8.87,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
-122022_BEL_CBC_T3_163_PSTR,,,,,PSTR,2022,Healthy,172.3,7_12_2024,12,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
+122022_BEL_CBC_T3_163_PSTR,,,,,PSTR,2022,Healthy,172.3,7_12_2024,12.0,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T4_34_PSTR,,,,,PSTR,2022,Healthy,270.4,7_12_2024,3.99,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T3_133_MCAV,,,,,MCAV,2022,Diseased_Margin,205.6,7_17_2024,3.5,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B26,
 122022_BEL_CBC_T3_142_MCAV,,,,,MCAV,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B5,,
@@ -119,7 +119,7 @@ Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA""
 052022_BEL_CBC_T3_15_PSTR,,,,,PSTR,2022,Healthy,88,6_8_2023,13.3,,10_6_2023,3.16,UML_NARWHAL_R2_B1,10_10_23,39.6,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,Depleted_UML_NARWHAL_R1_B3,UML_NARWHAL_R2_B3,Only sand left in tissue sample
 052022_BEL_CBC_T3_23_PSTR,,,,,PSTR,2022,Healthy,148,6_8_2023,20.6,,10_6_2023,4.82,UML_NARWHAL_R2_B1,10_10_23,38.5,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B3,UML_NARWHAL_R2_B3,
 122022_BEL_CBC_T2_120_PSTR,,,,,PSTR,2022,Healthy,176.1,7_12_2024,14.7,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B26,
-052022_BEL_CBC_T3_3_PSTR,,,,,PSTR,2022,Healthy,121,6_8_2023,7,,10_6_2023,1.66,UML_NARWHAL_R2_B1,10_10_23,41.8,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,Depleted_UML_NARWHAL_R1_B3,UML_NARWHAL_R2_B3,Only sand left in tissue sample
+052022_BEL_CBC_T3_3_PSTR,,,,,PSTR,2022,Healthy,121,6_8_2023,7.0,,10_6_2023,1.66,UML_NARWHAL_R2_B1,10_10_23,41.8,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,Depleted_UML_NARWHAL_R1_B3,UML_NARWHAL_R2_B3,Only sand left in tissue sample
 052022_BEL_CBC_T2_5_PAST,,,,,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B8,,
 052022_BEL_CBC_T2_60_PAST,,,,,PAST,2022,Diseased_Margin,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B8,,
 052022_BEL_CBC_T3_65_OFAV,,,,,OFAV,2022,Healthy,167,6_21_2023,26.8,,10_11_23,5.76,UML_NARWHAL_R2_B1,10_12_23,0.644,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B3,UML_NARWHAL_R2_B3,
@@ -134,7 +134,7 @@ Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA""
 102019_BEL_CBC_T2_30_PSTR,,,,,PSTR,2019,Healthy,129,6_1_2023,32.6,,9_27_2023,9.5,UML_NARWHAL_R2_B1,9_29_23,2.2,UML_F1_R2_B2,9_29_23,,sequenced,,10_19_23,10_19_23,,y,done,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B3,
 102019_BEL_CBC_T2_31_PSTR,,,,,PSTR,2019,Healthy,152,6_1_2023,26.3,,9_27_2023,8.5,UML_NARWHAL_R2_B1,9_29_23,1.5,UML_F1_R2_B2,9_29_23,,sequenced,,10_19_23,10_19_23,,y,done,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B3,
 102019_BEL_CBC_T2_32_PSTR,,,,,PSTR,2019,Healthy,122,6_6_2023,9.8,,9_28_2023,2.6,UML_NARWHAL_R2_B1,9_28_2023,1.3,UML_F1_R2_B2,9_29_2023,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B3,
-102019_BEL_CBC_T2_33_PSTR,,,,,PSTR,2019,Healthy,125,6_6_2023,19,,9_28_2023,6.1,UML_NARWHAL_R2_B1,9_28_2023,2.4,UML_F1_R2_B2,9_29_2023,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B3,
+102019_BEL_CBC_T2_33_PSTR,,,,,PSTR,2019,Healthy,125,6_6_2023,19.0,,9_28_2023,6.1,UML_NARWHAL_R2_B1,9_28_2023,2.4,UML_F1_R2_B2,9_29_2023,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B3,
 102019_BEL_CBC_T2_34_PSTR,,,,,PSTR,2019,Healthy,138,6_6_2023,7.1,,9_28_2023,2.4,UML_NARWHAL_R2_B1,9_28_2023,1.7,UML_F1_R2_B2,9_29_2023,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B3,
 102019_BEL_CBC_T2_36_PSTR,,,,,PSTR,2019,Healthy,123,6_6_2023,26.7,,9_28_2023,3.5,UML_NARWHAL_R2_B1,9_28_2023,1.8,UML_F1_R2_B2,9_29_2023,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B3,
 102019_BEL_CBC_T3_34_PSTR,,,,,PSTR,2019,Healthy,128,6_6_2023,7.5,,10_4_2023,3.2,UML_NARWHAL_R2_B1,10_4_2023,,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,UML_NARWHAL_R1_B2,UML_NARWHAL_R2_B3,
@@ -185,14 +185,14 @@ Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA""
 122022_BEL_CBC_T2_89_PAST,,,,,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B4,,
 122022_BEL_CBC_T2_94_PAST,,,,,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B4,,
 122022_BEL_CBC_T2_101_OFAV,,,,,OFAV,2022,Diseased_Margin,119,6_28_2023,13.3,,10_17_2023,5.5,UML_NARWHAL_R2_B1,y,0.36,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,Only sand left in tissue sample,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,Only sand left in tissue sample
-122022_BEL_CBC_T2_118_OANN,,,,,OANN,2022,Diseased_Margin,126,6_28_2023,16,,10_17_2023,6.1,UML_NARWHAL_R2_B1,y,too low,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,Only sand left in tissue sample,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,Only sand left in tissue sample
+122022_BEL_CBC_T2_118_OANN,,,,,OANN,2022,Diseased_Margin,126,6_28_2023,16.0,,10_17_2023,6.1,UML_NARWHAL_R2_B1,y,too low,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,Only sand left in tissue sample,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,Only sand left in tissue sample
 122022_BEL_CBC_T2_91_OANN,,,,,OANN,2022,Healthy,183,6_27_2023,41.8,,10_16_2023,18.9,UML_NARWHAL_R2_B1,,,,,,sequenced,,10_19_23,,,y,done,Only sand left in tissue sample,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,Only sand left in tissue sample
 122022_BEL_CBC_T2_93_OFAV,,,,,OFAV,2022,Healthy,160,6_27_2023,46.1,,10_11_23,8.46,UML_NARWHAL_R2_B1,10_12_23,0.782,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,Only sand left in tissue sample,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,Only sand left in tissue sample
 122022_BEL_CBC_T2_97_OFAV,,,,,OFAV,2022,Healthy,180,6_27_2023,29.5,,10_11_23,5.96,UML_NARWHAL_R2_B1,10_12_23,0.33,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,Only sand left in tissue sample,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,Only sand left in tissue sample
 122022_BEL_CBC_T3_161_OANN,,,,,OANN,2022,Healthy,146,6_22_2023,19.3,,10_16_2023,11.8,UML_NARWHAL_R2_B1,,,,,,sequenced,,10_19_23,,,y,done,Only sand in tissue sample ,Depleted_UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B3,Only sand in tissue sample 
 122022_BEL_CBC_T4_10_OFAV,,,,,OFAV,2022,Diseased_Tissue,159,6_28_2023,6.4,,10_17_2023,3.8,UML_NARWHAL_R2_B1,y,too low,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,Only sand in tissue sample ,Depleted_UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B3,Only sand in tissue sample 
-122022_BEL_CBC_T4_2_OFAV,,,,,OFAV,2022,Healthy,128,6_27_2023,21,,10_11_23,4,UML_NARWHAL_R2_B1,10_12_23,too low,UML_F1_R2_B2,n,,sequenced,host concentration reading: out of range - too low,10_19_23,,,y,done,Only sand in tissue sample ,Depleted_UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B3,Only sand in tissue sample 
-122022_BEL_CBC_T4_9_OFAV,,,,,OFAV,2022,Diseased_Margin,41,6_28_2023,9,,10_17_2023,4.1,UML_NARWHAL_R2_B1,y,0.18,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,Depleted_UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B3,
+122022_BEL_CBC_T4_2_OFAV,,,,,OFAV,2022,Healthy,128,6_27_2023,21.0,,10_11_23,4,UML_NARWHAL_R2_B1,10_12_23,too low,UML_F1_R2_B2,n,,sequenced,host concentration reading: out of range - too low,10_19_23,,,y,done,Only sand in tissue sample ,Depleted_UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B3,Only sand in tissue sample 
+122022_BEL_CBC_T4_9_OFAV,,,,,OFAV,2022,Diseased_Margin,41,6_28_2023,9.0,,10_17_2023,4.1,UML_NARWHAL_R2_B1,y,0.18,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,Depleted_UML_NARWHAL_R1_B5,UML_NARWHAL_R2_B3,
 122022_BEL_CBC_T3_115_PAST,,,,,PAST,2022,Diseased_Tissue,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B5,,
 122022_BEL_CBC_T3_116_PAST,,,,,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B5,,
 122022_BEL_CBC_T3_122_PAST,,,,,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B5,,
@@ -201,11 +201,22 @@ Tubelabel_species,"green box - ""Coral DNA STOCK""","orange box - (""Coral DNA""
 122022_BEL_CBC_T1_120_OANN,,,,,OANN,2022,Diseased_Margin,74,6_28_2023,15.2,,10_17_2023,4.7,UML_NARWHAL_R2_B1,y,too low,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,
 122022_BEL_CBC_T1_136_OANN,,,,,OANN,2022,Diseased_Tissue,76,6_28_2023,12.1,,10_17_2023,5,UML_NARWHAL_R2_B1,y,too low,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,
 122022_BEL_CBC_T1_157_OANN,,,,,OANN,2022,Healthy,163,6_27_2023,9.8,,10_17_2023,2.3,UML_NARWHAL_R2_B1,y,too low,UML_F1_R2_B2,n,,sequenced,host cleaning needs to be redone,10_19_23,,,y,done,Only sand left in tissue sample,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,Only sand left in tissue sample
-122022_BEL_CBC_T2_107_OANN,,,,,OANN,2022,Diseased_Tissue,104,6_28_2023,30,,10_17_2023,11.2,UML_NARWHAL_R2_B1,y,0.674,UML_F1_R2_B2,n,,sequenced,,10_19_23,,,y,done,Only sand left in tissue sample,Depleted_UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B3,Only sand left in tissue sample
 122022_BEL_CBC_T3_124_PAST,,,,,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B5,,
 122022_BEL_CBC_T3_129_PAST,,,,,PAST,2022,Diseased_Margin,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B5,,
 122022_BEL_CBC_T3_143_PAST,,,,,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B5,,
 122022_BEL_CBC_T3_144_PAST,,,,,PAST,2022,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B5,,
-052022_BEL_CBC_T1_1_PAST,T1_1 2022 LOW ,(t1-past dup),,T1_1 2022 (DUP),PAST,2022,Healthy,_,6_17_2022,72,,7_14_2022,0.3,,,_,,,7_20_2022,sequenced,Processed following protocol as written ,sequenced,,"2019 enriched, 2022 empty - orange box, 2022 extracted - pink box",n,check extracted dna,don't know if its 2019 or 2022 - redo completely ,Depleted_UML_NARWHAL_R1_B1,DNA_extracted,Only sand left in tissue sample
+052022_BEL_CBC_T1_1_PAST,T1_1 2022 LOW ,(t1-past dup),,T1_1 2022 (DUP),PAST,2022,Healthy,_,6_17_2022,72.0,,7_14_2022,0.3,,,_,,,7_20_2022,sequenced,Processed following protocol as written ,sequenced,,"2019 enriched, 2022 empty - orange box, 2022 extracted - pink box",n,check extracted dna,don't know if its 2019 or 2022 - redo completely ,Depleted_UML_NARWHAL_R1_B1,DNA_extracted,Only sand left in tissue sample
 122022_BEL_CBC_T2_99_PSTR,,,,,PSTR,2022,Healthy,243.2,7_12_2024,34.2,,,,,,,,,,,,,,,n,enrich,,UML_NARWHAL_R1_B4,UML_NARWHAL_R2_B26,
-062019_BEL_CBC_T1_10_MMEA,,T1_10 MMEA ,,,,,,,,,,,,,,,,,,,,,,,n,check extracted dna,,,,
+062019_BEL_CBC_T1_10_MMEA,,T1_10 MMEA ,,,,nan,,,,,,,,,,,,,,,,,,,n,check extracted dna,,,,
+062019_BEL_CBC_T1_14_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T3_20_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T3_22_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T3_3_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T3_32_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,Missing,,
+062019_BEL_CBC_T2_12_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,Depleted_UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T2_13_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T2_14_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T2_15_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T1_10_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T2_6_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
+062019_BEL_CBC_T2_7_MMEA,,,,,MMEA,2019,Healthy,,,,,,,,,,,,,,,,,,n,extract,,UML_NARWHAL_R1_B1,,
