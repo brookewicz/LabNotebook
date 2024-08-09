@@ -41,6 +41,16 @@
 | 122022_BEL_CBC_T4_15_MCAV  | MCAV    | 2022 | Diseased_Tissue | 215.0           | 7/19/2024      | 2.03      | UML_R2_B26         |     |
 | 122022_BEL_CBC_T4_6_MCAV   | MCAV    | 2022 | Diseased_Tissue | 228.2           | 7/19/2024      | 37.3      | UML_R2_B26         |     |
 | negative control           |         |      |                 |                 | 7/19/2024      | too low   | UML_R2_B26         |     |
+| 052022_BEL_CBC_T2_60_PAST  | PAST    | 2022 | Diseased_Margin | 356.6           | 8/9/2024       | 2.44      |                    |     |
+| 052022_BEL_CBC_T3_54_PAST  | PAST    | 2022 | Diseased_Margin | 232.7           | 8/9/2024       | 1.41      |                    |     |
+| 052022_BEL_CBC_T3_55_PAST  | PAST    | 2022 | Diseased_Tissue | 227.2           | 8/9/2024       | 0.933     |                    |     |
+| 122022_BEL_CBC_T1_134_PAST | PAST    | 2022 | Diseased_Margin | 191.1           | 8/9/2024       | 1.21      |                    |     |
+| 122022_BEL_CBC_T1_139_PAST | PAST    | 2022 | Diseased_Tissue | 224.2           | 8/9/2024       | 1.25      |                    |     |
+| 122022_BEL_CBC_T3_115_PAST | PAST    | 2022 | Diseased_Tissue | 191.5           | 8/9/2024       | 1.21      |                    |     |
+| 122022_BEL_CBC_T3_129_PAST | PAST    | 2022 | Diseased_Margin | 213.3           | 8/9/2024       | 0.976     |                    |     |
+| negative control           |         |      |                 |                 |                | too low   |                    |     |
+   
+
 
 ##### Protocol Notes: 
 ###### 7-3-24
