@@ -49,8 +49,26 @@
 | 122022_BEL_CBC_T3_115_PAST | PAST    | 2022 | Diseased_Tissue | 191.5           | 8/9/2024       | 1.21      | UML_R2_B26         |     |
 | 122022_BEL_CBC_T3_129_PAST | PAST    | 2022 | Diseased_Margin | 213.3           | 8/9/2024       | 0.976     | UML_R2_B26         |     |
 | negative control           |         |      |                 |                 |                | too low   | UML_R2_B26         |     |
-   
-
+| 052022_BEL_CBC_T1_54_MCAV  | MCAV    | 2022 | Healthy         | 199.9           |                |           |                    |     |
+| 052022_BEL_CBC_T1_62_MCAV  | MCAV    | 2022 | Healthy         | 264.5           |                |           |                    |     |
+| 052022_BEL_CBC_T2_12_MCAV  | MCAV    | 2022 | Healthy         | 219.3           |                |           |                    |     |
+| 052022_BEL_CBC_T2_4_MCAV   | MCAV    | 2022 | Healthy         | 335.5           |                |           |                    |     |
+| 052022_BEL_CBC_T2_56_MCAV  | MCAV    | 2022 | Healthy         | 226.0           |                |           |                    |     |
+| 122022_BEL_CBC_T1_151_MCAV | MCAV    | 2022 | Healthy         | 335.7           |                |           |                    |     |
+| 122022_BEL_CBC_T1_153_MCAV | MCAV    | 2022 | Healthy         | 180.4           |                |           |                    |     |
+| 122022_BEL_CBC_T2_85_MCAV  | MCAV    | 2022 | Healthy         | 169.8           |                |           |                    |     |
+| 122022_BEL_CBC_T2_86_MCAV  | MCAV    | 2022 | Healthy         | 414.0           |                |           |                    |     |
+| 122022_BEL_CBC_T2_88_MCAV  | MCAV    | 2022 | Healthy         | 226.0           |                |           |                    |     |
+| 122022_BEL_CBC_T2_92_MCAV  | MCAV    | 2022 | Healthy         | 144.3           |                |           |                    |     |
+| 122022_BEL_CBC_T2_95_MCAV  | MCAV    | 2022 | Healthy         | 224.8           |                |           |                    |     |
+| 122022_BEL_CBC_T3_119_MCAV | MCAV    | 2022 | Healthy         | 116.8           |                |           |                    |     |
+| 122022_BEL_CBC_T3_128_MCAV | MCAV    | 2022 | Healthy         | 208.0           |                |           |                    |     |
+| 122022_BEL_CBC_T3_142_MCAV | MCAV    | 2022 | Healthy         | 220.6           |                |           |                    |     |
+| 122022_BEL_CBC_T3_155_MCAV | MCAV    | 2022 | Healthy         | 272.6           |                |           |                    |     |
+| 122022_BEL_CBC_T4_11_MCAV  | MCAV    | 2022 | Healthy         | 144.3           |                |           |                    |     |
+| 122022_BEL_CBC_T4_3_MCAV   | MCAV    | 2022 | Healthy         | 185.6           |                |           |                    |     |
+| 122022_BEL_CBC_T4_38_MCAV  | MCAV    | 2022 | Healthy         | 340.1           |                |           |                    |     |
+| negative control           |         |      |                 |                 |                |           |                    |     |
 
 ##### Protocol Notes: 
 ###### 7-3-24
@@ -87,3 +105,7 @@
 
 ###### 8-9-24
 - diseased past 
+###### 8-12-24
+- healthy mcav (19 samples - start time (incl prep): 12:40pm     )
+- 119 weighing - as high as i could get it, there wasnt even sand to add 
+- t4-11 weighing - very little left in tube 

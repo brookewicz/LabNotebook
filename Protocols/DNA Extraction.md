@@ -35,7 +35,7 @@ Consumables
 -   Aliquot elution buffer in 1.5mL eppendorf tube and place in 70C heating block
 -   Make sure your P2 buffer is chilled
 -   UV Sterilize 1.5 mL Eppendorf tubes (3x # of samples), bag of collection tubes and hibind columns 
--  UV sterilize tweezers, scissors, 2 beakers
+-  UV sterilize tweezers, scissors, 2 beakers 
 -   Make sure HBC buffer and wash buffer are correctly diluted with appropriate chemicals
 -   Get ice, keep tissue samples on ice while weighing 
 
