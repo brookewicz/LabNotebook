@@ -109,3 +109,4 @@
 - healthy mcav (19 samples - start time (incl prep): 12:40pm     )
 - 119 weighing - as high as i could get it, there wasnt even sand to add 
 - t4-11 weighing - very little left in tube 
+- not enough qubit tubes to measure concentrations, leaving in penguin fridge until end of the week 
