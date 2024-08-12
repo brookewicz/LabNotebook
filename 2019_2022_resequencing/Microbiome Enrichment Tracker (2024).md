@@ -1,10 +1,11 @@
 - tracking samples and protocol notes (sorted by date) of all enriched samples for 2024 sequencing (of 2019-2022 samples)
 - follows [[DNA Extraction Tracker (2024)]] and may include samples that have previously been extracted (denoted in excel sheet)
-- narwhal box #27
+- micro enriched (& cleaned) narwhal box #27
+- host enriched (& cleaned) narwhal box #28 
 
 ##### Protocol Notes and Dates: 
 ###### 8-2-24
-- forgot to use low-bind tubes in extractions [[DNA Extraction Tracker (2024)]]
+	- forgot to use low-bind tubes in extractions [[DNA Extraction Tracker (2024)]], but switching to them now 
 - spilled micro T4 21 micro )): 
 - host and micro cleaned; qubit measurements taken after cleaning
 
