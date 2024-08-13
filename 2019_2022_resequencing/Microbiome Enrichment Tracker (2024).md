@@ -2,11 +2,9 @@
 - follows [[DNA Extraction Tracker (2024)]] and may include samples that have previously been extracted (denoted in excel sheet)
 - micro enriched (& cleaned) narwhal box #27
 - host enriched (& cleaned) narwhal box #28 
-
-<<<<<<< HEAD
 ##### Protocol Notes and Dates: 
 ###### 8-2-24
-	- forgot to use low-bind tubes in extractions [[DNA Extraction Tracker (2024)]], but switching to them now 
+- forgot to use low-bind tubes in extractions [[DNA Extraction Tracker (2024)]], but switching to them now
 - spilled micro T4 21 micro )): 
 - host and micro cleaned; qubit measurements taken after cleaning
 
@@ -117,8 +115,4 @@
 | \| 122022_BEL_CBC_T4_1_OFAV \|               | 28.0            | 3.00                  |               |                       |                            |                   |                           |              |
 - added to qubit measurement: t1 52 past (extracted dna from green stock box)5.26 ug/uL
 - need to redo t4 34...did it get messed up during extraction or enrichment?? probably enrichment?
-=======
-##### Protocol Notes: 
-###### 7-17-24
-- forgot to use low-bind tubes in extractions [[DNA Extraction Tracker (2024)]]
->>>>>>> origin/main
+

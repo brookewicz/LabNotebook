@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md"
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md"
               }
             }
           },
@@ -182,13 +181,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56bae2bd1d39a8ae",
+  "active": "c3de68fa4779edab",
   "lastOpenFiles": [
+    "Protocols/DNA Extraction.md",
+    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+    "2019_2022_resequencing/resequence_combined2.csv",
+    "2019_2022_resequencing/resequence_combined.xls",
     "conflict-files-obsidian-git.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "2019_2022_resequencing/SummaryStats.ipynb",
-    "Protocols/DNA Extraction.md",
-    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "Protocols/Microbiome-enrichment.md",
     "09-23-CBC_Enrichments/09-05-23 Microbiome (mm) Enrichment.md",
     "2019_2022_resequencing/Notebook_TS_Coral_Metagenomics.pdf",
@@ -216,9 +217,6 @@
     "09-23-CBC_Enrichments/09-19-23 DNA CONCENTRATIONS.md",
     "09-23-CBC_Enrichments/09-14-23 Prepping beads for mm enrichment 09-14-23.md",
     "09-23-CBC_Enrichments/09-14-23 DNA concentrations.md",
-    "09-23-CBC_Enrichments/09-13-23 Sync Obsidian Git to Github.md",
-    "README.md",
-    "09-23-CBC_Enrichments",
-    "Protocols"
+    "09-23-CBC_Enrichments/09-13-23 Sync Obsidian Git to Github.md"
   ]
 }
