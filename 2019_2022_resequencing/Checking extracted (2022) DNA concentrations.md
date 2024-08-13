@@ -13,14 +13,6 @@
 | 052022_BEL_CBC_T3_49_MCAV | Diseased_Tissue | 6_14_2022      | 41.9               | 7_6_2022      | 5.8           | 7/11/24          | 23.7                 |              |
 | 052022_BEL_CBC_T3_51_MCAV | Diseased_Tissue | 6_14_2022      | 30.8               | 7_6_2022      | 1.5           | 7/11/24          | 20.3                 |              |
 |                           |                 |                |                    |               |               |                  |                      |              |
-##### To dos:
+To dos:
 - using 48, 40, 49, and 51 extracted dna for enrichments 
 - going to try to extract from depleted 50 and 12, and if that doesn't work, will use this extracted dna 
-
-
-##### 7-23
-- going back thru 2 orange boxes and pink box of old (2019-2022) extracted and enriched samples to cehck for duplicates and confirm which extracted/enriched samples to use going forward 
-- ###### status update:
-	- orange box - extracted (2019?) - checked mcav only 
-	- pink box - enriched - checked mcav only 
-	- enriched microbial orange box - checked all 
