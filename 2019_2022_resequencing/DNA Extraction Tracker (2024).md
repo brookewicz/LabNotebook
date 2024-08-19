@@ -70,28 +70,28 @@
 | 122022_BEL_CBC_T4_38_MCAV  | MCAV    | 2022 | Healthy         | 340.1           | 8/12/2024      |           | UML_R2_B26         |     |
 | negative control           |         |      |                 |                 |                |           |                    |     |
 | 062019_BEL_CBC_T3_31_PAST  | PAST    | 2019 | Healthy         | 294.4           |                |           |                    |     |
-| 062019_BEL_CBC_T1_12_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T1_18_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T1_21_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T2_2_PAST   | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T2_20_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T2_22_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T2_25_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T3_10_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T3_23_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T3_24_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T3_25_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 062019_BEL_CBC_T3_26_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
-| 052022_BEL_CBC_T1_34_PAST  | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 052022_BEL_CBC_T1_53_PAST  | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 052022_BEL_CBC_T1_61_PAST  | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 052022_BEL_CBC_T3_11_PAST  | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 122022_BEL_CBC_T1_150_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 122022_BEL_CBC_T1_152_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 122022_BEL_CBC_T1_155_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 122022_BEL_CBC_T1_158_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 122022_BEL_CBC_T2_100_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
-| 042024_BEL_CBC_T1_925_PAST | PAST    | 2024 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T1_12_PAST  | PAST    | 2019 | Healthy         | 240.5           |                |           |                    |     |
+| 062019_BEL_CBC_T1_18_PAST  | PAST    | 2019 | Healthy         | 468.2           |                |           |                    |     |
+| 062019_BEL_CBC_T1_21_PAST  | PAST    | 2019 | Healthy         | 313.4           |                |           |                    |     |
+| 062019_BEL_CBC_T2_2_PAST   | PAST    | 2019 | Healthy         | 257.8           |                |           |                    |     |
+| 062019_BEL_CBC_T2_20_PAST  | PAST    | 2019 | Healthy         | 241.2           |                |           |                    |     |
+| 062019_BEL_CBC_T2_22_PAST  | PAST    | 2019 | Healthy         | 251.7           |                |           |                    |     |
+| 062019_BEL_CBC_T2_25_PAST  | PAST    | 2019 | Healthy         | 239.1           |                |           |                    |     |
+| 062019_BEL_CBC_T3_10_PAST  | PAST    | 2019 | Healthy         | 395.2           |                |           |                    |     |
+| 062019_BEL_CBC_T3_23_PAST  | PAST    | 2019 | Healthy         | 154.0           |                |           |                    |     |
+| 062019_BEL_CBC_T3_24_PAST  | PAST    | 2019 | Healthy         | 267.3           |                |           |                    |     |
+| 062019_BEL_CBC_T3_25_PAST  | PAST    | 2019 | Healthy         | 481.3           |                |           |                    |     |
+| 062019_BEL_CBC_T3_26_PAST  | PAST    | 2019 | Healthy         | 176.6           |                |           |                    |     |
+| 052022_BEL_CBC_T1_34_PAST  | PAST    | 2022 | Healthy         | 217.2           |                |           |                    |     |
+| 052022_BEL_CBC_T1_53_PAST  | PAST    | 2022 | Healthy         | 243.5           |                |           |                    |     |
+| 052022_BEL_CBC_T1_61_PAST  | PAST    | 2022 | Healthy         | 290.3           |                |           |                    |     |
+| 052022_BEL_CBC_T3_11_PAST  | PAST    | 2022 | Healthy         | 233.4           |                |           |                    |     |
+| 122022_BEL_CBC_T1_150_PAST | PAST    | 2022 | Healthy         | 242.7           |                |           |                    |     |
+| 122022_BEL_CBC_T1_152_PAST | PAST    | 2022 | Healthy         | 151.6           |                |           |                    |     |
+| 122022_BEL_CBC_T1_155_PAST | PAST    | 2022 | Healthy         | 201.6           |                |           |                    |     |
+| 122022_BEL_CBC_T1_158_PAST | PAST    | 2022 | Healthy         | 192.0           |                |           |                    |     |
+| 122022_BEL_CBC_T2_100_PAST | PAST    | 2022 | Healthy         | 185.5           |                |           |                    |     |
+| 042024_BEL_CBC_T1_925_PAST | PAST    | 2024 | Healthy         | 352.5           |                |           |                    |     |
 | negative control           |         |      |                 |                 |                |           |                    |     |
 
 
@@ -137,4 +137,5 @@
 - not enough qubit tubes to measure concentrations, leaving in penguin fridge until end of the week 
 
 ###### 8-19-24 
+- t1 18 & t1 21, t3 25 large chunks that I couldn't break 
 
