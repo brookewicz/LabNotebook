@@ -138,4 +138,5 @@
 
 ###### 8-19-24 
 - t1 18 & t1 21, t3 25 large chunks that I couldn't break 
+- t3 11 turned yellow when xp1 buffer was added 
 
