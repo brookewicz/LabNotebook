@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/DNA Extraction.md"
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md"
               }
             }
           },
@@ -182,16 +180,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d528e9a54c5c447d",
+  "active": "c3de68fa4779edab",
   "lastOpenFiles": [
+    "Protocols/Microbiome-enrichment.md",
+    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Protocols/DNA Extraction.md",
-    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "2019_2022_resequencing/resequence_combined2.csv",
     "2019_2022_resequencing/resequence_combined.xls",
     "conflict-files-obsidian-git.md",
     "2019_2022_resequencing/SummaryStats.ipynb",
-    "Protocols/Microbiome-enrichment.md",
     "09-23-CBC_Enrichments/09-05-23 Microbiome (mm) Enrichment.md",
     "2019_2022_resequencing/Notebook_TS_Coral_Metagenomics.pdf",
     "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
