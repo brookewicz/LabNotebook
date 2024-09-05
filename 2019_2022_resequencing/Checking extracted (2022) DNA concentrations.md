@@ -16,3 +16,26 @@
 To dos:
 - using 48, 40, 49, and 51 extracted dna for enrichments 
 - going to try to extract from depleted 50 and 12, and if that doesn't work, will use this extracted dna 
+
+
+### 9-5 qubit measurements of previously extracted dna 
+
+| Tubelabel_species         | green box - "Coral DNA STOCK"        | green_ng_2024 | pink_ng_2024 |
+| ------------------------- | ------------------------------------ | ------------- | ------------ |
+| 052022_BEL_CBC_T3_13_MCAV | T3_13 2022 LOW                       | 3             |              |
+| 052022_BEL_CBC_T3_50_MCAV | T3_50 2022 LOW                       | 4.26          |              |
+| 052022_BEL_CBC_T3_60_MCAV | T3_60 2022 EMPTY                     |               | 18           |
+| 062019_BEL_CBC_T1_16_MCAV | T1_16 2019                           | 15.5          |              |
+| 062019_BEL_CBC_T2_28_MCAV | T2_28 2019 LOW                       | 3.3           |              |
+| 062019_BEL_CBC_T3_14_MCAV | T3_14 2019 LOW                       | 12.6          |              |
+| 062019_BEL_CBC_T3_15_MCAV | T3_15 2019 LOW (2 IN BOX)            | 10.2          |              |
+| 062019_BEL_CBC_T3_16_MCAV | T3_16 2019 LOW                       | 13.6          |              |
+| 062019_BEL_CBC_T3_8_MCAV  | T3_8 2019 LOW                        | 0.89          |              |
+| 062019_BEL_CBC_T3_9_MCAV  | T3_9 2019 LOW                        | 5.2           |              |
+| 062019_BEL_CBC_T1_8_PAST  | T1_8 2019 (2 IN BOX - 1EMPTY, 1 LOW) | 1.53          |              |
+| 052022_BEL_CBC_T3_25_PAST | T3_25 2022 LOW                       | 8.52          |              |
+| 062019_BEL_CBC_T1_1_PAST  | T1_1 2019 (2 IN BOX - LOW)           | 2.38          |              |
+| 062019_BEL_CBC_T2_29_PAST | T2_29 2019 LOW                       | 1.09          |              |
+| 062019_BEL_CBC_T3_7_PAST  | T3_7 2019 LOW                        | 7.28          |              |
+| 052022_BEL_CBC_T1_1_PAST  | T1_1 2022 LOW                        | 39.8          |              |
+|                           |                                      |               |              |
