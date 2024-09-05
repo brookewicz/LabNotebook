@@ -1,7 +1,4 @@
-<<<<<<< HEAD
- 
-=======
->>>>>>> origin/main
+
 ## Microbiome enrichment protocol
 This is the adapted protocol for the New England Biolabs Microbiome Enrichment kit, specifically for Coral DNA:
 
