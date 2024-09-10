@@ -93,8 +93,32 @@
 | 122022_BEL_CBC_T2_100_PAST | PAST    | 2022 | Healthy         | 185.5           |                |           |                    |     |
 | 042024_BEL_CBC_T1_925_PAST | PAST    | 2024 | Healthy         | 352.5           |                |           |                    |     |
 | negative control           |         |      |                 |                 |                |           |                    |     |
-
-
+| 062019_BEL_CBC_T3_4_PAST   | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T3_31_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T1_12_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T1_18_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T1_21_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T2_2_PAST   | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T2_20_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T2_22_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T2_25_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T3_10_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T3_23_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T3_24_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T3_25_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 062019_BEL_CBC_T3_26_PAST  | PAST    | 2019 | Healthy         |                 |                |           |                    |     |
+| 052022_BEL_CBC_T1_34_PAST  | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| 052022_BEL_CBC_T1_53_PAST  | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| 052022_BEL_CBC_T1_61_PAST  | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| 052022_BEL_CBC_T3_11_PAST  | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| 122022_BEL_CBC_T1_150_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| 122022_BEL_CBC_T1_152_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| 122022_BEL_CBC_T1_155_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| 122022_BEL_CBC_T1_158_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| 122022_BEL_CBC_T2_100_PAST | PAST    | 2022 | Healthy         |                 |                |           |                    |     |
+| negative control           |         |      |                 |                 |                |           |                    |     |
+|                            |         |      |                 |                 |                |           |                    |     |
+ 
 ##### Protocol Notes: 
 ###### 7-3-24
 - for weighing, kept tissue samples on ice while not using, but did not keep on ice while actively pulling tissue out. handled open tubes around the flame. tried to cut pieces in tissue tube but used weigh paper underneath to catch anything. How should we be doing this? how can we standardize this better? 
@@ -139,4 +163,6 @@
 ###### 8-19-24 
 - t1 18 & t1 21, t3 25 large chunks that I couldn't break 
 - t3 11 turned yellow when xp1 buffer was added 
+###### 9-11-24 
+- healthy past extractions 
 
