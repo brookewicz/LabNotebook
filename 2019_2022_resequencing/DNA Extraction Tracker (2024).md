@@ -100,7 +100,7 @@
 | 062019_BEL_CBC_T2_2_PAST   | PAST    | 2019 | Healthy         | 268.9           |                |           |                    |     |
 | 062019_BEL_CBC_T2_20_PAST  | PAST    | 2019 | Healthy         | 203.9           |                |           |                    |     |
 | 062019_BEL_CBC_T2_22_PAST  | PAST    | 2019 | Healthy         | 268.2           |                |           |                    |     |
-| 062019_BEL_CBC_T3_26_PAST  |         |      |                 | 320.8           |                |           |                    |     |
+| 062019_BEL_CBC_T3_26_PAST  | PAST    | 2019 | Healthy         | 320.8           |                |           |                    |     |
 | 052022_BEL_CBC_T1_61_PAST  | PAST    | 2019 | Healthy         | 211.7           |                |           |                    |     |
 | 122022_BEL_CBC_T1_155_PAST | PAST    | 2019 | Healthy         | 205.6           |                |           |                    |     |
 | 122022_BEL_CBC_T2_83_PAST  | PAST    | 2019 | Healthy         | 410.3           |                |           |                    |     |
