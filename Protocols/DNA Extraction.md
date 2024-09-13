@@ -48,7 +48,7 @@ Consumables
 - wear a mask 
 - keep tweezers and scissors in UV-sterilized beaker
 - dip tweezers and scissors in ethanol, then pass them through a flame in between each sample
-- handle open tubes around the open flame if possible 
+- handle open tubes around the open flame 
 
 1.  Weigh approximately 150 – 250 mg of coral sample in an Eppendorf tube or directly into the disruptor tube. Weigh your sample and note down how much sample you’ve processed. 
 
