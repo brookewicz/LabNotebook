@@ -227,5 +227,8 @@
 	- all remaining liquid in sample tubes were filtered (~2mL each), and rinsed once more with ethanol to gather any remaining particles and put thru filtration\ 
 	- filters were cut up and placed in bead tubes and the rest of [[DNA Extraction]] protocol was followed as normal 
 	- bleach, di rinsed filter rig between samples 
+- some of 14 spilled while adding xp1 buffer, added more xp1 buff but mightve lost some supernatant 
+- could not get 400uL supernatant from MOST disruption tubes - 6, 11, and 23 were 400 for sure. 
+- (threw away empty sample tubes)
 
 
