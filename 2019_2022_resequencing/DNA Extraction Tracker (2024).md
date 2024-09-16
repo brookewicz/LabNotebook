@@ -116,28 +116,28 @@
 | 052022_BEL_CBC_T2_9_PAST   | PAST        | 2022     | Healthy           | 191.9                                                                                                         | 9_11_2024          | 4.32          |                    |
 | negative control           |             |          |                   |                                                                                                               | 9_11_2024          | too low       |                    |
 | **Sample**                 | **Species** | **Year** | **Health_status** | **Starting_Weight**                                                                                           | **Date_Extracted** | **Raw_ng_ul** | Extracted_Location |
-| 062019_BEL_CBC_T1_20_MCAV  | MCAV        | 2019     | Healthy           | 217.9 small pieces, crumbly                                                                                   | 9_13_2024          |               |                    |
-| 062019_BEL_CBC_T1_3_MCAV   | MCAV        | 2019     | Healthy           | 177.9 med piece, mostly skeleton                                                                              |                    |               |                    |
-| 062019_BEL_CBC_T2_5_MCAV   | MCAV        | 2019     | Healthy           | 353.2 one large piece - mostly skeleton. didnt want to break since there was such little tissue on both sides |                    |               |                    |
-| 062019_BEL_CBC_T2_9_MCAV   | MCAV        | 2019     | Healthy           | 347.8 two med pieces with skeelton                                                                            |                    |               |                    |
-| 062019_BEL_CBC_T3_11_MCAV  | MCAV        | 2019     | Healthy           | 188.1 one med piece w/ skeleton                                                                               |                    |               |                    |
-| 062019_BEL_CBC_T3_6_MCAV   | MCAV        | 2019     | Healthy           | 206.1 large piece with decent amnt of tissue                                                                  |                    |               |                    |
-| 062019_BEL_CBC_T3_8_MCAV   | MCAV        | 2019     | Healthy           | 287.6 tiny pieces, 'sand' & etoh                                                                              |                    |               |                    |
-| 062019_BEL_CBC_T3_21_MMEA  | MMEA        | 2019     | Healthy           | 240.7 tiny pieces mostly skeleton                                                                             |                    |               |                    |
-| 062019_BEL_CBC_T1_10_MMEA  | MMEA        | 2019     | Healthy           | 324.5 med piece mostly skeleton                                                                               |                    |               |                    |
-| 062019_BEL_CBC_T1_14_MMEA  | MMEA        | 2019     | Healthy           | 407.9 large piece mostly skeleton                                                                             |                    |               |                    |
-| 062019_BEL_CBC_T3_20_MMEA  | MMEA        | 2019     | Healthy           | 319.4 one med, one small decent amnt tissue                                                                   |                    |               |                    |
-| 062019_BEL_CBC_T3_22_MMEA  | MMEA        | 2019     | Healthy           | 346.4 one med, one small decent amnt tissue                                                                   |                    |               |                    |
-| 062019_BEL_CBC_T3_3_MMEA   | MMEA        | 2019     | Healthy           | 552.3 large piece - a lot of tissue                                                                           |                    |               |                    |
-| 062019_BEL_CBC_T3_33_MMEA  | MMEA        | 2019     | Healthy           | 281.9 large piece decent amnt tissue                                                                          |                    |               |                    |
-| 062019_BEL_CBC_T2_12_MMEA  | MMEA        | 2019     | Healthy           | 327.9 large thick piece mostly skeleton                                                                       |                    |               |                    |
-| 062019_BEL_CBC_T2_13_MMEA  | MMEA        | 2019     | Healthy           | 336.2 med piece decent amnt tissue                                                                            |                    |               |                    |
-| 062019_BEL_CBC_T2_14_MMEA  | MMEA        | 2019     | Healthy           | 181.2 small pieces little tissue                                                                              |                    |               |                    |
-| 062019_BEL_CBC_T2_15_MMEA  | MMEA        | 2019     | Healthy           | 476.0 small and med piece broken off from large one                                                           |                    |               |                    |
-| 062019_BEL_CBC_T2_6_MMEA   | MMEA        | 2019     | Healthy           | 540.2 large skeleton, some tissue                                                                             |                    |               |                    |
-| 062019_BEL_CBC_T2_7_MMEA   | MMEA        | 2019     | Healthy           | 190.9 crumbly med piece, some tissue                                                                          |                    |               |                    |
+| 062019_BEL_CBC_T1_20_MCAV  | MCAV        | 2019     | Healthy           | 217.9 small pieces, crumbly                                                                                   | 9_13_2024          | 24.5          |                    |
+| 062019_BEL_CBC_T1_3_MCAV   | MCAV        | 2019     | Healthy           | 177.9 med piece, mostly skeleton                                                                              |                    | 29.6          |                    |
+| 062019_BEL_CBC_T2_5_MCAV   | MCAV        | 2019     | Healthy           | 353.2 one large piece - mostly skeleton. didnt want to break since there was such little tissue on both sides |                    | 9.48          |                    |
+| 062019_BEL_CBC_T2_9_MCAV   | MCAV        | 2019     | Healthy           | 347.8 two med pieces with skeelton                                                                            |                    | 22.9          |                    |
+| 062019_BEL_CBC_T3_11_MCAV  | MCAV        | 2019     | Healthy           | 188.1 one med piece w/ skeleton                                                                               |                    | 12.0          |                    |
+| 062019_BEL_CBC_T3_6_MCAV   | MCAV        | 2019     | Healthy           | 206.1 large piece with decent amnt of tissue                                                                  |                    | 14.3          |                    |
+| 062019_BEL_CBC_T3_8_MCAV   | MCAV        | 2019     | Healthy           | 287.6 tiny pieces, 'sand' & etoh                                                                              |                    | 0.788         |                    |
+| 062019_BEL_CBC_T3_21_MMEA  | MMEA        | 2019     | Healthy           | 240.7 tiny pieces mostly skeleton                                                                             |                    | 6.52          |                    |
+| 062019_BEL_CBC_T1_10_MMEA  | MMEA        | 2019     | Healthy           | 324.5 med piece mostly skeleton                                                                               |                    | 23.8          |                    |
+| 062019_BEL_CBC_T1_14_MMEA  | MMEA        | 2019     | Healthy           | 407.9 large piece mostly skeleton                                                                             |                    | 34.5          |                    |
+| 062019_BEL_CBC_T3_20_MMEA  | MMEA        | 2019     | Healthy           | 319.4 one med, one small decent amnt tissue                                                                   |                    | 37.4          |                    |
+| 062019_BEL_CBC_T3_22_MMEA  | MMEA        | 2019     | Healthy           | 346.4 one med, one small decent amnt tissue                                                                   |                    | 35.2          |                    |
+| 062019_BEL_CBC_T3_3_MMEA   | MMEA        | 2019     | Healthy           | 552.3 large piece - a lot of tissue                                                                           |                    | 44.0          |                    |
+| 062019_BEL_CBC_T3_33_MMEA  | MMEA        | 2019     | Healthy           | 281.9 large piece decent amnt tissue                                                                          |                    | 41.6          |                    |
+| 062019_BEL_CBC_T2_12_MMEA  | MMEA        | 2019     | Healthy           | 327.9 large thick piece mostly skeleton                                                                       |                    | 41.6          |                    |
+| 062019_BEL_CBC_T2_13_MMEA  | MMEA        | 2019     | Healthy           | 336.2 med piece decent amnt tissue                                                                            |                    | 40.3          |                    |
+| 062019_BEL_CBC_T2_14_MMEA  | MMEA        | 2019     | Healthy           | 181.2 small pieces little tissue                                                                              |                    | 39.7          |                    |
+| 062019_BEL_CBC_T2_15_MMEA  | MMEA        | 2019     | Healthy           | 476.0 small and med piece broken off from large one                                                           |                    | 42.0          |                    |
+| 062019_BEL_CBC_T2_6_MMEA   | MMEA        | 2019     | Healthy           | 540.2 large skeleton, some tissue                                                                             |                    | 31.3          |                    |
+| 062019_BEL_CBC_T2_7_MMEA   | MMEA        | 2019     | Healthy           | 190.9 crumbly med piece, some tissue                                                                          |                    | 35.0          |                    |
+| negative control           |             |          |                   |                                                                                                               |                    | too low       |                    |
 |                            |             |          |                   |                                                                                                               |                    |               |                    |
-| negative control           |             |          |                   |                                                                                                               |                    |               |                    |
 
 
 ##### Protocol Notes: 
@@ -190,7 +190,10 @@
 ###### 9-13-24 
 - final tissue extractions - healthy mcav and mmea
 - t3 33 mmea was recorded in sample data as 32 but note said '33 sticker' was used. so tissue sample useed for extraction is '2019 t3 33 mmea'
-- forgot mask for first one 
-	- 185 ul neg control qubit buffer
+- forgot mask for weighing first one 
+- 062019_BEL_CBC_T1_3_MCAV - chunk and some beads spilled out in hood prior to adding SLX-Mlus buffer. put chunk back into tube but obviously lost some beads. surface was recently bleached  
+- 185 ul working soln for neg control; put 15 uL neg control in...don't know how i ran out of working solution 
+	- stds - 32.84, 18965.95
+- did not save neg control because cap came off in centrifuge and qubit measured 0 ng
 
 

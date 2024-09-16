@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/DNA Extraction.md"
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md"
               }
             }
           },
@@ -194,10 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d528e9a54c5c447d",
+  "active": "c3de68fa4779edab",
   "lastOpenFiles": [
-    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Protocols/DNA Extraction.md",
+    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
