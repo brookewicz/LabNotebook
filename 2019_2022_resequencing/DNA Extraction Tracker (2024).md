@@ -137,7 +137,30 @@
 | 062019_BEL_CBC_T2_6_MMEA   | MMEA        | 2019     | Healthy           | 540.2 large skeleton, some tissue                                                                             | 9_13_2024          | 31.3          | UML_NARWHAL_R2_B29 |
 | 062019_BEL_CBC_T2_7_MMEA   | MMEA        | 2019     | Healthy           | 190.9 crumbly med piece, some tissue                                                                          | 9_13_2024          | 35.0          | UML_NARWHAL_R2_B29 |
 | negative control           |             |          |                   |                                                                                                               | 9_13_2024          | too low       | not saved          |
-|                            |             |          |                   |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T1_21_PAST  | PAST        | 2019     | Healthy           |                                                                                                               | 9_16_2024          |               |                    |
+| 062019_BEL_CBC_T2_25_PAST  | PAST        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T3_10_PAST  | PAST        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T3_23_PAST  | PAST        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T3_24_PAST  | PAST        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T3_25_PAST  | PAST        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T1_34_PAST  | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T1_53_PAST  | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T3_11_PAST  | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 122022_BEL_CBC_T1_150_PAST | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 122022_BEL_CBC_T1_152_PAST | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 122022_BEL_CBC_T1_158_PAST | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 122022_BEL_CBC_T2_100_PAST | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T1_57_MCAV  | MCAV        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T2_10_MCAV  | MCAV        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T3_19_MCAV  | MCAV        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T2_16_MCAV  | MCAV        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T1_1_PAST   | PAST        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T2_21_PAST  | PAST        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 062019_BEL_CBC_T3_12_PAST  | PAST        | 2019     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T3_8_PAST   | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T2_11_PAST  | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| 052022_BEL_CBC_T3_10_PAST  | PAST        | 2022     | Healthy           |                                                                                                               |                    |               |                    |
+| negative control           |             |          |                   |                                                                                                               |                    |               |                    |
 
 
 ##### Protocol Notes: 
@@ -195,5 +218,13 @@
 - 185 ul working soln for neg control; put 15 uL neg control in...don't know how i ran out of working solution 
 	- stds - 32.84, 18965.95
 - did not save neg control because cap came off in centrifuge and qubit measured 0 ng
+###### 9-16-24 
+- extracting from depleted (except for 1 sample - t3 10)
+- protocol: 
+	- filter remaining ethanol from sample tubes through 0.22um GS nitrocellulose membrane filter (merck millipore, ref (# SA1J789H5), LOT # 0000260075)
+	- filters attached to vac filter rig, all aspects of filter set up were rinsed with bleach and UVed prior to filtration.
+	- scissors/forceps were flame sterilized in between samples 
+	- all remaining liquid in sample tubes were filtered (~2mL each), and rinsed once more with ethanol to gather any remaining particles and put thru filtration
+	- filters were cut up and placed in bead tubes and the rest of [[DNA Extraction]] protocol was followed as normal 
 
 
