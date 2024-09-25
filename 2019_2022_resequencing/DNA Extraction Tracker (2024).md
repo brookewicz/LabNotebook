@@ -232,4 +232,10 @@
 - (threw away empty sample tubes)
 - qubit standards - 32.34, 15001.97
 
+###### 9-25-24 
+- measured 8/19 & 8/12 extracted dna - 2 uL per sample 
+	- may need to remeasure 150 &152
+- realized i re-extracted some of these...
+- 
+
 
