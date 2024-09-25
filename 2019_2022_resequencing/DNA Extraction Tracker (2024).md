@@ -55,7 +55,7 @@
 | 052022_BEL_CBC_T2_4_MCAV   | MCAV        | 2022     | Healthy           | 335.5                                                                                                         | 8/12/2024          | 0.094         | UML_R2_B26         |              |
 | 052022_BEL_CBC_T2_56_MCAV  | MCAV        | 2022     | Healthy           | 226.0                                                                                                         | 8/12/2024          | 0.119         | UML_R2_B26         |              |
 | 122022_BEL_CBC_T1_151_MCAV | MCAV        | 2022     | Healthy           | 335.7                                                                                                         | 8/12/2024          | 0.218         | UML_R2_B26         |              |
-| 122022_BEL_CBC_T1_153_MCAV | MCAV        | 2022     | Healthy           | 180.4                                                                                                         | 8/12/2024          | too low       | UML_R2_B26         |              |
+| 122022_BEL_CBC_T1_153_MCAV | MCAV        | 2022     | Healthy           | 180.4                                                                                                         | 8/12/2024          | 0.078         | UML_R2_B26         |              |
 | 122022_BEL_CBC_T2_85_MCAV  | MCAV        | 2022     | Healthy           | 169.8                                                                                                         | 8/12/2024          | too low       | UML_R2_B26         |              |
 | 122022_BEL_CBC_T2_86_MCAV  | MCAV        | 2022     | Healthy           | 414.0                                                                                                         | 8/12/2024          | 0.093         | UML_R2_B26         |              |
 | 122022_BEL_CBC_T2_88_MCAV  | MCAV        | 2022     | Healthy           | 226.0                                                                                                         | 8/12/2024          | 0.884         | UML_R2_B26         |              |
@@ -238,5 +238,6 @@
 - realized i re-extracted some of these...noted which date to use (had higher concentration)
 - 8/12 extractions look terrible - check if there is any tissue left to re-extract 
 	- t4_11 mcav, t1 153 mcav, t2 85 mcav 
+	- remeasure t1 153 (using same stnds and ws) - .078 (original too low)
 
 

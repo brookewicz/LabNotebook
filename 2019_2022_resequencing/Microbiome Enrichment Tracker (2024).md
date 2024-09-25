@@ -116,3 +116,6 @@
 - added to qubit measurement: t1 52 past (extracted dna from green stock box)5.26 ug/uL
 - need to redo t4 34...did it get messed up during extraction or enrichment?? probably enrichment?
 
+###### 9-25 
+- Beads prepped 9-25 
+
