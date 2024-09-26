@@ -240,4 +240,12 @@
 	- t4_11 mcav, t1 153 mcav, t2 85 mcav 
 	- remeasure t1 153 (using same stnds and ws) - .078 (original too low)
 
+**remeasure using qubit**:
+- 8/12 extractions: 
+	- t4 11 mcav, t2 85 mcav ...or just all 8/12??
+- pink box:
+	- t3 8 mcav
+- orange box:
+	- t1 57 mcav, t2 10 mcav, t3 19 (both), t1 19, t2 11 past  
+
 
