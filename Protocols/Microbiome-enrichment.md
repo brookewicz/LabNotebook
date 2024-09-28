@@ -104,24 +104,27 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 	- If 150 uL of host DNA, 297 uL ampure
 
 5. Incubate samples for at least 5 minutes at room temperature.
+*If your recovery is really low, or your sample has a super low concentration to begin with the increasing the bind step and elution step (before the sample goes onto the magnet each time) can help. I would mix, wait 2-5 min, then mix again and wait 2-5 min. This is only necessary for problem samples.
 
-6. Place the tube on the appropriate magnetic stand to separate the beads from the supernatant. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing on the magnetic stand.
+7. Place the tube on the appropriate magnetic stand to separate the beads from the supernatant. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing on the magnetic stand.
 
-7. After 5 minutes (or when the solution is clear), carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
+8. After 5 minutes (or when the solution is clear), carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
 
-8. Add 400 μl of freshly prepared 80% ethanol to the tube/plate while in the magnetic stand. Incubate at room temperature for 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
+9. Add 400 μl of freshly prepared 80% ethanol to the tube/plate while in the magnetic stand. Incubate at room temperature for 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
 	- prepare ethanol in biosafety hood too 
+	- use ethanol on ice 
 
-9. Repeat Step 8 once for a total of two washes. Be sure to remove all visible liquid after the second wash. If necessary, briefly spin the tube/plate, place back on the magnetic stand and remove traces of ethanol with a p10 pipette tip.
+10. Repeat Step 8 once for a total of two washes. Be sure to remove all visible liquid after the second wash. If necessary, briefly spin the tube/plate, place back on the magnetic stand and remove traces of ethanol with a p10 pipette tip.
 
-10. Air dry the beads for up to 5 minutes while the tube/plate is on the magnetic stand with the lid open.
+11. Air dry the beads for up to 5 minutes while the tube/plate is on the magnetic stand with the lid open.
 
 *Caution: Do not over-dry the beads. This may result in lower recovery of DNA. Elute the samples when the beads are still dark brown and glossy looking, but when all visible liquid has evaporated. When the beads turn brown and start to crack, they are too dry.* 
 
 10. Remove the tube from the magnetic stand. Elute the DNA target from the beads by adding 50 μl of 1X TE (Elution buffer) (use 25 μl for each tube if sample was split in two).
+- heat TE buffer to ~60 degree C 
 
-11. Mix well by pipetting up and down 10 times. Incubate for at least 10 minutes at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing back on the magnetic stand.
+12. Mix well by pipetting up and down 10 times. Incubate for at least 10 minutes at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing back on the magnetic stand.
 
-12. Place the tube/plate on the magnetic stand. After 5 minutes (or when the solution is clear), transfer eluate to a new microcentrifuge tube (combine the eluates if sample was split in two).
+13. Place the tube/plate on the magnetic stand. After 5 minutes (or when the solution is clear), transfer eluate to a new microcentrifuge tube (combine the eluates if sample was split in two).
 
 `This supernatant contains the target DNA (Microbial or Host depending on your input sample). Measure concentration using Qubit or Nanodrop with Elution buffer as the blank. Store at –20°C` 
