@@ -121,6 +121,9 @@
 - 9-28 microbiome enrichment of the following samples: 
 	- 925 used to test elution buffer vs te buffer on single sample
 	- stop all at bead cleanup - complete 925 alone first to determine which buffer to use on the rest of the samples?
+- prep ~1 hr, separation and elution ~2.5 hours (while prepping beads), 
+	- (ran out of beads...didnt include all cells in sum so total vol was off) 
+	- cleanup - host and micro at same time - 22 total samples. start time 2:40
 
 
 | Sample information         |       | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
