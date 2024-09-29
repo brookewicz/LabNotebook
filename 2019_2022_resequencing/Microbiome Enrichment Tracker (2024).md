@@ -123,7 +123,10 @@
 	- stop all at bead cleanup - complete 925 alone first to determine which buffer to use on the rest of the samples?
 - prep ~1 hr, separation and elution ~2.5 hours (while prepping beads), 
 	- (ran out of beads...didnt include all cells in sum so total vol was off) 
-	- cleanup - host and micro at same time - 22 total samples. start time 2:40
+	- cleanup - host and micro at same time - 22 total samples. start time 2:40, end 5:20 (incl qubit)
+- host eluted with elution buffer
+- micro eluted with TE buffer 
+	- forgot to split 925 b/w elution and te buffer, so will include in next enrichment to do so 
 
 
 | Sample information         |       | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
@@ -137,11 +140,21 @@
 | 122022_BEL_CBC_T1_158_PAST | 2.53  | 30                    | 75.9          | 12.144                | 7.5                        | 49.644            | 89.3592                   | 139.0032     |
 | 122022_BEL_CBC_T2_100_PAST | 15.6  | 30                    | 468           | 74.88                 | 7.5                        | 112.38            | 202.284                   | 314.664      |
 | 122022_BEL_CBC_T2_83_PAST  | 21.8  | 30                    | 654           | 104.64                | 7.5                        | 142.14            | 255.852                   | 397.992      |
-| 122022_BEL_CBC_T2_89_PAST  | 42.6  | 15                    | 639           | 102.24                | 3.75                       | 120.99            | 217.782                   | 338.772      |
-| 122022_BEL_CBC_T2_94_PAST  | 27.6  | 30                    | 828           | 132.48                | 7.5                        | 169.98            | 305.964                   | 475.944      |
-| 122022_BEL_CBC_T3_116_PAST | 30.9  | 30                    | 927           | 148.32                | 7.5                        | 185.82            | 334.476                   | 520.296      |
 | 122022_BEL_CBC_T3_122_PAST | 1.79  | 30                    | 53.7          | 8.592                 | 7.5                        | 46.092            | 82.9656                   | 129.0576     |
-| 122022_BEL_CBC_T3_144_PAST | 45.5  | 15                    | 682.5         | 109.2                 | 3.75                       | 127.95            | 230.31                    | 358.26       |
-| 052022_BEL_CBC_T2_5_PAST   | 48.1  | 15                    | 721.5         | 115.44                | 3.75                       | 134.19            | 241.542                   | 375.732      |
 | 052022_BEL_CBC_T2_9_PAST   | 4.32  | 30                    | 129.6         | 20.736                | 7.5                        | 58.236            | 104.8248                  | 163.0608     |
 | 042024_BEL_CBC_T1_925_PAST | 5.46  | 30                    | 163.8         | 26.208                | 7.5                        | 63.708            | 114.6744                  | 178.3824     |
+qubit stnds 33.52, 17320.37
+
+| sample                     | micro ug/uL | host ug/uL |
+| -------------------------- | ----------- | ---------- |
+| 052022_BEL_CBC_T1_61_PAST  | 3.10        | 0.384      |
+| 052022_BEL_CBC_T3_11_PAST  | 2.57        | 0.289      |
+| 122022_BEL_CBC_T1_150_PAST | 2.13        | 0.209      |
+| 122022_BEL_CBC_T1_152_PAST | 0.334       | 0.062      |
+| 122022_BEL_CBC_T1_155_PAST | 0.8         | 0.470      |
+| 122022_BEL_CBC_T1_158_PAST | 1.03        | 0.137      |
+| 122022_BEL_CBC_T2_100_PAST | 5.01        | 0.718      |
+| 122022_BEL_CBC_T2_83_PAST  | 5.07        | 1.34       |
+| 122022_BEL_CBC_T3_122_PAST | 0.635       | 0.102      |
+| 052022_BEL_CBC_T2_9_PAST   | 1.29        | 0.306      |
+| 042024_BEL_CBC_T1_925_PAST | 1.57        | 0.212      |
