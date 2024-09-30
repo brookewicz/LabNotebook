@@ -116,17 +116,22 @@
 - added to qubit measurement: t1 52 past (extracted dna from green stock box)5.26 ug/uL
 - need to redo t4 34...did it get messed up during extraction or enrichment?? probably enrichment?
 
-###### 9-25 
+###### 9-28
 - Beads prepped 9-25 
 - 9-28 microbiome enrichment of the following samples: 
 	- 925 used to test elution buffer vs te buffer on single sample
 	- stop all at bead cleanup - complete 925 alone first to determine which buffer to use on the rest of the samples?
-- prep ~1 hr, separation and elution ~2.5 hours (while prepping beads), 
+- prep ~1 hr, separation and elution ~2.5 hours (while prepping beads), cleanup ~2.5 hrs 
 	- (ran out of beads...didnt include all cells in sum so total vol was off) 
 	- cleanup - host and micro at same time - 22 total samples. start time 2:40, end 5:20 (incl qubit)
 - host eluted with elution buffer
 - micro eluted with TE buffer 
 	- forgot to split 925 b/w elution and te buffer, so will include in next enrichment to do so 
+- pretty low concentrations: 
+	- does heating/chilling reagents make a difference?
+	- error in bead prep?
+	- low concentrations to begin with?
+		- concentrations starting at 1-3 are the only ones <1 from enrichment 
 
 
 | Sample information         |       | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
@@ -158,3 +163,4 @@ qubit stnds 33.52, 17320.37
 | 122022_BEL_CBC_T3_122_PAST | 0.635       | 0.102      |
 | 052022_BEL_CBC_T2_9_PAST   | 1.29        | 0.306      |
 | 042024_BEL_CBC_T1_925_PAST | 1.57        | 0.212      |
+**entered all as ready to reseq in reseq combined EXCEPT those with micro <1ug/ul & excl 925 for testing**
