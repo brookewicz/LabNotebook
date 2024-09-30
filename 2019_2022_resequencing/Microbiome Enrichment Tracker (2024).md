@@ -124,6 +124,7 @@
 - prep ~1 hr, separation and elution ~2.5 hours (while prepping beads), cleanup ~2.5 hrs 
 	- (ran out of beads...didnt include all cells in sum so total vol was off) 
 	- cleanup - host and micro at same time - 22 total samples. start time 2:40, end 5:20 (incl qubit)
+	- beads prepped for enrichment1 (on mm_calculations sheet)
 - host eluted with elution buffer
 - micro eluted with TE buffer 
 	- forgot to split 925 b/w elution and te buffer, so will include in next enrichment to do so 
