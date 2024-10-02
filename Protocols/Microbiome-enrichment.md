@@ -11,9 +11,9 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 ]]https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=0
 
 #### Materials/Prep
-- Get ice 
-- UV sterilize pipette tips, 1x 1.5 eppendorf, 3x lo bind eppendorf (for samples), 1x 15mL falcon tube (for bind/wash buffer)
-- Thaw Bind/wash buffer
+- **Get ice** 
+- **UV sterilize pipette tips, (1) 1.5 eppendorf, 3x samples lo bind eppendorf (4x if eluting & 5x cleaning host too) , 1x 15mL or 50mL falcon tube (for bind/wash buffer)**
+- **Thaw Bind/wash buffer**
 - NEB Protein A Magnetic Beads 
 - MBD2-Fc protein
 - DNase free water 
@@ -21,10 +21,12 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 - magnetic rack 
 - 1X TE (elution buffer)
 - Proteinase K 
+- Clean NGS bead aliquots 
 
 
 
 ### Prepare beads - Pt1
+~1 hr 
 
 `Begin thawing Bind/wash buffer at beginning of protocol.`
 1. Resuspend NEBNext Protein A Magnetic Beads by gently pipetting the slurry up and down until the suspension is homogeneous. Alternatively, rotate the tube on a rotating mixer gently for 15 minutes at 4°C. Do not vortex.

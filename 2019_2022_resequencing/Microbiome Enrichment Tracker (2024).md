@@ -168,5 +168,33 @@ qubit stnds 33.52, 17320.37
 
 ###### 10-2
 - teaching jade enrichment 
-- testing elution vs te buffer (both will be warmed)
-- duplicates of samples t
+- duplicates of samples to test elution vs te buffer (both will be warmed)
+	- 15 uL of dna into diff tubes from START
+- bead prep 10-2 
+- leaving host beads in penguin fridge - did not elute 
+- micro cleaned - box #27 narwhal 
+- pretty inconclusive te vs e buffer; just keep using elution?
+
+| Sample information                           |                            | Pt2 - step 1          |                 | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
+| -------------------------------------------- | -------------------------- | --------------------- | --------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
+| sample                                       | ng/ul                      | volume of sample (ul) | ng* of sample   | Volume beads (ul) (Z) | Volume wash buffer x5 (ul) | Total volume (ul) | Added beads cleanup (W)   | Total volume |
+| 052022_BEL_CBC_T1_61_PAST                    | 8.01                       | 15                    | 120.15          | 19.224                | 3.75                       | 37.974            | 68.3532                   | 106.3272     |
+| 052022_BEL_CBC_T1_61_PAST                    | 8.01                       | 15                    | 120.15          | 19.224                | 3.75                       | 37.974            | 68.3532                   | 106.3272     |
+| 122022_BEL_CBC_T1_155_PAST                   | 2.48                       | 15                    | 37.2            | 5.952                 | 3.75                       | 24.702            | 44.4636                   | 69.1656      |
+| 122022_BEL_CBC_T1_155_PAST                   | 2.48                       | 15                    | 37.2            | 5.952                 | 3.75                       | 24.702            | 44.4636                   | 69.1656      |
+| 122022_BEL_CBC_T2_100_PAST                   | 1.57                       | 15                    | 23.55           | 3.768                 | 3.75                       | 22.518            | 40.5324                   | 63.0504      |
+| 122022_BEL_CBC_T2_100_PAST                   | 1.57                       | 15                    | 23.55           | 3.768                 | 3.75                       | 22.518            | 40.5324                   | 63.0504      |
+|                                              |                            |                       |                 |                       |                            |                   |                           |              |
+| **MBD2-Fc-bound magnetic beads - Bead Prep** |                            |                       |                 |                       |                            |                   |                           |              |
+| Protein A magnetic beads (Y)                 | 57.888                     | ul                    |                 |                       |                            |                   |                           |              |
+| MBD2-Fc protein (X)                          | 5.7888                     | ul                    |                 |                       |                            |                   |                           |              |
+|                                              | 0.0636768                  | mL                    |                 |                       |                            |                   |                           |              |
+|                                              | **sample**                 | type                  | **micro ug/uL** | **host ug/uL**        |                            |                   |                           |              |
+| (9/11 extract)                               | 052022_BEL_CBC_T1_61_PAST  | e                     | 2.13            |                       |                            |                   |                           |              |
+|                                              | 052022_BEL_CBC_T1_61_PAST  | te                    | 1.73            |                       |                            |                   |                           |              |
+| (9/11 extract)                               | 122022_BEL_CBC_T1_155_PAST | e                     | 0.38            |                       |                            |                   |                           |              |
+|                                              | 122022_BEL_CBC_T1_155_PAST | te                    | 0.528           |                       |                            |                   |                           |              |
+| (9/16 extract)                               | 122022_BEL_CBC_T2_100_PAST | e                     | 0.260           |                       |                            |                   |                           |              |
+|                                              | 122022_BEL_CBC_T2_100_PAST | te                    | 0.267           |                       |                            |                   |                           |              |
+stnds - 33.31, 17410.22
+
