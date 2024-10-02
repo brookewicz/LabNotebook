@@ -165,3 +165,8 @@ qubit stnds 33.52, 17320.37
 | 052022_BEL_CBC_T2_9_PAST   | 1.29        | 0.306      |
 | 042024_BEL_CBC_T1_925_PAST | 1.57        | 0.212      |
 **entered all as ready to reseq in reseq combined EXCEPT those with micro <1ug/ul & excl 925 for testing**
+
+###### 10-2
+- teaching jade enrichment 
+- testing elution vs te buffer (both will be warmed)
+- duplicates of samples t
