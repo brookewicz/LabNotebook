@@ -57,6 +57,7 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 `The MBD2-Fc-bound magnetic beads are stable for up to 7 days at 4°C` 
 
 ### Capture Methylated Host DNA and Enriched Microbial DNA - Pt2
+~1 hr 
 1. Add 30 uL of input DNA and corresponding ==Z μl of **MBD2-Fc-bound magnetic beads**== to new tubes. Resuspend by pipetting up and down.
 	- (Beads from above "Prepare Beads-Pt1" section.) Z uL of beads differs for each sample. If you change the amount of input DNA, Z changes. Check spreadsheet.
 
@@ -77,6 +78,7 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 
 
 ### Optional Protocol for Eluting Captured Host DNA - Pt3
+~ 1 hr 
 *This step elutes the captured host DNA from the MBD2-Fc-bound magnetic beads.*
 1. Prepare 1X Bind/wash Buffer (kept on ice) if not already prepped - 1 mL per sample. 1 part NEBNext Bind/wash Buffer (5X) with 4 parts DNase-free water. 
 2. While the tube with the beads is still in the magnetic rack  (Pt2 - step 4), add 1 ml of 1X Bind/wash Buffer (kept on ice) to wash the beads.
@@ -94,6 +96,7 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 `This eluted sample contains the methylated host DNA. Store this sample at –20°C, or proceed directly to purification via using AMPure XP bead cleanup or ethanol precipitation.` 
  
 ### Agencourt® AMPure® XP Cleanup - Pt4
+~ 1 hr for each (micro, host separately), closer to 2hr with 16 samples
 
 `Complete cleanup separately for host and microbial DNA.`
 

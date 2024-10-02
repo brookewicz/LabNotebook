@@ -171,9 +171,10 @@ qubit stnds 33.52, 17320.37
 - duplicates of samples to test elution vs te buffer (both will be warmed)
 	- 15 uL of dna into diff tubes from START
 - bead prep 10-2 
-- leaving host beads in penguin fridge - did not elute 
+- leaving host beads in penguin fridge while cleaning micro (~3 hrs) 
 - micro cleaned - box #27 narwhal 
 - pretty inconclusive te vs e buffer; just keep using elution?
+- eluted host but did not clean nor qubit measure. put in narwhal freezer box #
 
 | Sample information                           |                            | Pt2 - step 1          |                 | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | -------------------------------------------- | -------------------------- | --------------------- | --------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
