@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md"
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "d528e9a54c5c447d",
   "lastOpenFiles": [
-    "Protocols/Microbiome-enrichment.md",
+    "2019_2022_resequencing/resequence_combined.xlsx",
+    "2019_2022_resequencing/Merge_reseq_meta.ipynb",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+    "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Protocols/Qubit.md",
     "Protocols/DNA Extraction.md",
@@ -194,7 +196,6 @@
     "2019_2022_resequencing/resequence_combined.csv",
     "2019_2022_resequencing/inventory.ipynb",
     "2019_2022_resequencing/ThijsNB.xlsx",
-    "2019_2022_resequencing",
     "DNA Extraction Tracker (2024).md",
     "09-23-CBC_Enrichments/10-04-23 Enrichment and DNA concentrations.md",
     "09-23-CBC_Enrichments/09-29-23 DNA concentrations_ampure_cleaning.md",
