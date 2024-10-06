@@ -201,6 +201,9 @@ stnds - 33.31, 17410.22
 
 ###### 10-6
 - need to check 8/12 extractions with vacuum centrifuge: mcavs t4_11, t1 153, t2 85 
+- host eluted but not cleaned, placed in narwhal box #28 
+- micro cleaning - step 5 repeated before placing on magnetic rack 
+	- t4 3 possibly over dried 
 
 | Sample information                       |            | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | ---------------------------------------- | ---------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
