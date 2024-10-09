@@ -209,6 +209,7 @@ second run:
 - t3 4 accidentally added 7.5 undiluted bw buffer instead of 3.75
 - hosts put in box #28 eluted but not cleaned 
 - micro not cleaned yet, stored in penguin  
+	- cleaning done 10-9
 
 | Sample information                       |                                                     | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | ---------------------------------------- | --------------------------------------------------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
@@ -262,6 +263,8 @@ second run:
 
 ###### 10-9
 - Jade doing enrichment with me supervising 
+- hosts eluted but not cleaned, box #28 
+- enriched & cleaned micro in box #27 
 
 | Sample information                                       |          | Pt2 - step 1          |               | Pt2 - step 1                        |                            |                   | AMPURE cleanup pt4 step 3 |              |     |
 | -------------------------------------------------------- | -------- | --------------------- | ------------- | ----------------------------------- | -------------------------- | ----------------- | ------------------------- | ------------ | --- |
@@ -280,3 +283,11 @@ second run:
 | MBD2-Fc protein (X)                                      | 60.6656  | ul                    |               | vol 5x undiluted buffer needed      | 2                          | mL                |                           |              |     |
 |                                                          | 667.3216 | mL                    |               | vol water needed                    | 8                          | mL                |                           |              |     |
 |                                                          |          |                       |               | amnt 1x buffer to add (step 12) (Y) | 556.656                    | uL                |                           |              |     |
+|                                                          | micro    | host                  |               |                                     |                            |                   |                           |              |     |
+| 062019_BEL_CBC_T2_16_MCAV                                | 1.11     |                       |               |                                     |                            |                   |                           |              |     |
+| 062019_BEL_CBC_T1_20_MCAV                                | 12.5     |                       |               |                                     |                            |                   |                           |              |     |
+| 062019_BEL_CBC_T1_3_MCAV                                 | 12.6     |                       |               |                                     |                            |                   |                           |              |     |
+| 062019_BEL_CBC_T2_5_MCAV                                 | 3.4      |                       |               |                                     |                            |                   |                           |              |     |
+| 062019_BEL_CBC_T3_6_MCAV                                 | 2.56     |                       |               |                                     |                            |                   |                           |              |     |
+| 062019_BEL_CBC_T2_9_MCAV                                 | 6.73     |                       |               |                                     |                            |                   |                           |              |     |
+| 062019_BEL_CBC_T3_11_MCAV                                | 3.04     |                       |               |                                     |                            |                   |                           |              |     |
