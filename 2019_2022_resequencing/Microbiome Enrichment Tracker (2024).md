@@ -208,6 +208,7 @@ stnds - 33.31, 17410.22
 second run:
 - t3 4 accidentally added 7.5 undiluted bw buffer instead of 3.75
 - hosts put in box #28 eluted but not cleaned 
+- micro not cleaned yet, stored in penguin  
 
 | Sample information                       |                                                     | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | ---------------------------------------- | --------------------------------------------------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
@@ -258,3 +259,24 @@ second run:
 | 122022_BEL_CBC_T3_116_PAST | 30.9  | 30                    | 927           | 148.32                | 7.5                        | 185.82            | 334.476                   | 520.296      |
 | 122022_BEL_CBC_T3_144_PAST | 45.5  | 15                    | 682.5         | 109.2                 | 3.75                       | 127.95            | 230.31                    | 358.26       |
 | 052022_BEL_CBC_T2_5_PAST   | 48.1  | 15                    | 721.5         | 115.44                | 3.75                       | 134.19            | 241.542                   | 375.732      |
+
+###### 10-9
+- Jade doing enrichment with me supervising 
+
+| Sample information                                       |          | Pt2 - step 1          |               | Pt2 - step 1                        |                            |                   | AMPURE cleanup pt4 step 3 |              |     |
+| -------------------------------------------------------- | -------- | --------------------- | ------------- | ----------------------------------- | -------------------------- | ----------------- | ------------------------- | ------------ | --- |
+| sample                                                   | ng/ul    | volume of sample (ul) | ng* of sample | Volume beads (ul) (Z)               | Volume wash buffer x5 (ul) | Total volume (ul) | Added beads cleanup (W)   | Total volume |     |
+| 062019_BEL_CBC_T2_16_MCAV                                | 3.19     | 30                    | 95.7          | 15.312                              | 7.5                        | 52.812            | 95.0616                   | 147.8736     |     |
+| 062019_BEL_CBC_T1_20_MCAV                                | 24.5     | 30                    | 735           | 117.6                               | 7.5                        | 155.1             | 279.18                    | 434.28       |     |
+| 062019_BEL_CBC_T1_3_MCAV                                 | 29.6     | 30                    | 888           | 142.08                              | 7.5                        | 179.58            | 323.244                   | 502.824      |     |
+| 062019_BEL_CBC_T2_5_MCAV                                 | 9.48     | 30                    | 284.4         | 45.504                              | 7.5                        | 83.004            | 149.4072                  | 232.4112     |     |
+| 062019_BEL_CBC_T3_6_MCAV                                 | 14.3     | 30                    | 429           | 68.64                               | 7.5                        | 106.14            | 191.052                   | 297.192      |     |
+| 062019_BEL_CBC_T2_9_MCAV                                 | 22.9     | 30                    | 687           | 109.92                              | 7.5                        | 147.42            | 265.356                   | 412.776      |     |
+| 062019_BEL_CBC_T3_11_MCAV                                | 12       | 30                    | 360           | 57.6                                | 7.5                        | 95.1              | 171.18                    | 266.28       |     |
+|                                                          |          |                       |               |                                     |                            |                   |                           |              |     |
+|                                                          |          |                       |               |                                     |                            |                   |                           |              |     |
+| **MBD2-Fc-bound magnetic beads - Bead Prep**             |          |                       |               | **1x Bind/Wash Buffer - Bead Prep** |                            |                   |                           |              |     |
+| Protein A magnetic beads (Y)(added 50 uL to make extra ) | 606.656  | ul                    |               | Final volume 1x bind/wash buffer    | 10                         | mL                |                           |              |     |
+| MBD2-Fc protein (X)                                      | 60.6656  | ul                    |               | vol 5x undiluted buffer needed      | 2                          | mL                |                           |              |     |
+|                                                          | 667.3216 | mL                    |               | vol water needed                    | 8                          | mL                |                           |              |     |
+|                                                          |          |                       |               | amnt 1x buffer to add (step 12) (Y) | 556.656                    | uL                |                           |              |     |
