@@ -204,12 +204,14 @@ stnds - 33.31, 17410.22
 - host eluted but not cleaned, placed in narwhal box #28 
 - micro cleaning - step 5 repeated before placing on magnetic rack 
 	- t4 3 possibly over dried 
+	- cleaned micro added to box #30 
 
 second run:
 - t3 4 accidentally added 7.5 undiluted bw buffer instead of 3.75
 - hosts put in box #28 eluted but not cleaned 
 - micro not cleaned yet, stored in penguin  
 	- cleaning done 10-9
+	- cleaned micro added to box #30 
 
 | Sample information                       |                                                     | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | ---------------------------------------- | --------------------------------------------------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
@@ -235,6 +237,23 @@ second run:
 | Protein A magnetic beads (Y)             | 865.5696                                            | ul                    |               |                       |                            |                   |                           |              |
 | MBD2-Fc protein (X)                      | 86.55696                                            | ul                    |               |                       |                            |                   |                           |              |
 |                                          | 0.95212656                                          | mL                    |               |                       |                            |                   |                           |              |
+|                                          | micro                                               | host                  |               |                       |                            |                   |                           |              |
+| 052022_BEL_CBC_T1_54_MCAV                | 0.173                                               |                       |               |                       |                            |                   |                           |              |
+| 052022_BEL_CBC_T1_62_MCAV                | 0.153                                               |                       |               |                       |                            |                   |                           |              |
+| 052022_BEL_CBC_T2_12_MCAV                | 0.256                                               |                       |               |                       |                            |                   |                           |              |
+| 052022_BEL_CBC_T2_4_MCAV                 | 0.199                                               |                       |               |                       |                            |                   |                           |              |
+| 052022_BEL_CBC_T2_56_MCAV                | 0.106                                               |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T1_151_MCAV               | 0.057                                               |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T2_86_MCAV                | 0.054                                               |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T2_88_MCAV                | 0.220                                               |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T2_92_MCAV                | 0.11                                                |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T2_95_MCAV                | too low                                             |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T3_119_MCAV               | 0.083                                               |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T3_128_MCAV               | 0.47                                                |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T3_142_MCAV               | 0.157                                               |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T3_155_MCAV               | 0.079                                               |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T4_3_MCAV                 | 0.066                                               |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T4_38_MCAV                | 0.914                                               |                       |               |                       |                            |                   |                           |              |
 
 | Sample information         |       | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | -------------------------- | ----- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
@@ -260,6 +279,28 @@ second run:
 | 122022_BEL_CBC_T3_116_PAST | 30.9  | 30                    | 927           | 148.32                | 7.5                        | 185.82            | 334.476                   | 520.296      |
 | 122022_BEL_CBC_T3_144_PAST | 45.5  | 15                    | 682.5         | 109.2                 | 3.75                       | 127.95            | 230.31                    | 358.26       |
 | 052022_BEL_CBC_T2_5_PAST   | 48.1  | 15                    | 721.5         | 115.44                | 3.75                       | 134.19            | 241.542                   | 375.732      |
+|                            | micro | host                  |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T3_4_PAST   | 7.97  |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T3_31_PAST  | 0.254 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T1_12_PAST  | 0.417 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T1_18_PAST  | 0.639 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T1_21_PAST  | 0.69  |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T2_2_PAST   | 1.99  |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T2_20_PAST  | 0.583 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T2_22_PAST  | 0.544 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T2_25_PAST  | 0.699 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T3_10_PAST  | 0.686 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T3_23_PAST  | 0.573 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T3_24_PAST  | 0.915 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T3_25_PAST  | 0.472 |                       |               |                       |                            |                   |                           |              |
+| 062019_BEL_CBC_T3_26_PAST  | 1.38  |                       |               |                       |                            |                   |                           |              |
+| 052022_BEL_CBC_T1_34_PAST  | 0.573 |                       |               |                       |                            |                   |                           |              |
+| 052022_BEL_CBC_T1_53_PAST  | 0.894 |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T2_89_PAST  | 7.23  |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T2_94_PAST  | 9.62  |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T3_116_PAST | 0.373 |                       |               |                       |                            |                   |                           |              |
+| 122022_BEL_CBC_T3_144_PAST | 7.98  |                       |               |                       |                            |                   |                           |              |
+| 052022_BEL_CBC_T2_5_PAST   | 11.5  |                       |               |                       |                            |                   |                           |              |
 
 ###### 10-9
 - Jade doing enrichment with me supervising 

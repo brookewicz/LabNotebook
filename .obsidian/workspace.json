@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md"
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md"
               }
             }
           },
@@ -180,10 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d528e9a54c5c447d",
+  "active": "0fdcee1302214d38",
   "lastOpenFiles": [
-    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "Protocols/Microbiome-enrichment.md",
+    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "2019_2022_resequencing/resequence_combined.xlsx",
     "2019_2022_resequencing/Merge_reseq_meta.ipynb",
