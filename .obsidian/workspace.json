@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "t3_15_",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +90,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b22d15060fef6e8",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md"
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md"
               }
             }
           },
@@ -181,11 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d528e9a54c5c447d",
+  "active": "0fdcee1302214d38",
   "lastOpenFiles": [
+    "Protocols/Microbiome-enrichment.md",
+    "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
-    "Protocols/Microbiome-enrichment.md",
     "09-23-CBC_Enrichments/10-17-23 Micro cleaning.md",
     "09-23-CBC_Enrichments/10-6-23 Enrichment.md",
     "09-23-CBC_Enrichments/10-12-23 Cleaning and Bead Prep.md",
@@ -196,7 +198,6 @@
     "2019_2022_resequencing/Merge_reseq_meta.ipynb",
     "Protocols/Qubit.md",
     "09-23-CBC_Enrichments/10-13-23 Enrichment 1 & 2.md",
-    "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "2019_2022_resequencing/resequence_combined2.csv",
     "2019_2022_resequencing/resequence_combined.xls",
     "conflict-files-obsidian-git.md",
