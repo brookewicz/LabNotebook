@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "mode": "source",
                 "source": false
               }
@@ -184,10 +184,10 @@
   },
   "active": "0fdcee1302214d38",
   "lastOpenFiles": [
-    "Protocols/Microbiome-enrichment.md",
-    "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
+    "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+    "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "09-23-CBC_Enrichments/10-17-23 Micro cleaning.md",
     "09-23-CBC_Enrichments/10-6-23 Enrichment.md",
     "09-23-CBC_Enrichments/10-12-23 Cleaning and Bead Prep.md",
