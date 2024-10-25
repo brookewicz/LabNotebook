@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c5ad67cde0067ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc2024/Multichannel Pipette Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0876df560e0662ab",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "Misc2024/Multichannel Pipette Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "Misc2024/Multichannel Pipette Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md"
+                "file": "Misc2024/Multichannel Pipette Testing.md"
               }
             }
           },
@@ -168,10 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "832e09fb9327d248",
+  "active": "c5ad67cde0067ba2",
   "lastOpenFiles": [
-    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "Protocols/Microbiome-enrichment.md",
+    "Misc2024/Multichannel Pipette Testing.md",
+    "Misc2024",
+    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "09-23-CBC_Enrichments/10-17-23 Micro cleaning.md",
@@ -194,7 +209,6 @@
     "09-23-CBC_Enrichments/10-05-23 Bead Prep.md",
     "2019_2022_resequencing/resequence_plan.ipynb",
     "2019_2022_resequencing/resequence_combined.csv",
-    "2019_2022_resequencing/inventory.ipynb",
     "DNA Extraction Tracker (2024).md",
     "09-23-CBC_Enrichments/10-04-23 Enrichment and DNA concentrations.md",
     "09-23-CBC_Enrichments/09-29-23 DNA concentrations_ampure_cleaning.md",
