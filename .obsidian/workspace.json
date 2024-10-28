@@ -183,6 +183,8 @@
   },
   "active": "c5ad67cde0067ba2",
   "lastOpenFiles": [
+    "2019_2022_resequencing/measure_old_extracts.xlsx",
+    "2019_2022_resequencing/Extraction_Locat_Update.ipynb",
     "Protocols/Microbiome-enrichment.md",
     "Misc2024/Multichannel Pipette Testing.md",
     "Misc2024",
@@ -208,7 +210,6 @@
     "2019_2022_resequencing/~$ThijsNB.xlsx",
     "09-23-CBC_Enrichments/10-05-23 Bead Prep.md",
     "2019_2022_resequencing/resequence_plan.ipynb",
-    "2019_2022_resequencing/resequence_combined.csv",
     "DNA Extraction Tracker (2024).md",
     "09-23-CBC_Enrichments/10-04-23 Enrichment and DNA concentrations.md",
     "09-23-CBC_Enrichments/09-29-23 DNA concentrations_ampure_cleaning.md",
@@ -217,7 +218,6 @@
     "09-23-CBC_Enrichments/09-21-23 enrichment_DNA_concentration.md",
     "09-23-CBC_Enrichments/09-19-23 DNA CONCENTRATIONS.md",
     "09-23-CBC_Enrichments/09-14-23 Prepping beads for mm enrichment 09-14-23.md",
-    "09-23-CBC_Enrichments/09-14-23 DNA concentrations.md",
-    "09-23-CBC_Enrichments/09-13-23 Sync Obsidian Git to Github.md"
+    "09-23-CBC_Enrichments/09-14-23 DNA concentrations.md"
   ]
 }
