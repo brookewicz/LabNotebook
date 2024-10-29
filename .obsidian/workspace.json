@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc2024/Multichannel Pipette Testing.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc2024/Multichannel Pipette Testing.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc2024/Multichannel Pipette Testing.md"
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md"
               }
             }
           },
@@ -181,12 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5ad67cde0067ba2",
+  "active": "832e09fb9327d248",
   "lastOpenFiles": [
-    "2019_2022_resequencing/measure_old_extracts.xlsx",
-    "2019_2022_resequencing/Extraction_Locat_Update.ipynb",
     "Protocols/Microbiome-enrichment.md",
     "Misc2024/Multichannel Pipette Testing.md",
+    "2019_2022_resequencing/measure_old_extracts.xlsx",
+    "2019_2022_resequencing/Extraction_Locat_Update.ipynb",
     "Misc2024",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
@@ -209,7 +208,6 @@
     "2019_2022_resequencing/Notebook_TS_Coral_Metagenomics.pdf",
     "2019_2022_resequencing/~$ThijsNB.xlsx",
     "09-23-CBC_Enrichments/10-05-23 Bead Prep.md",
-    "2019_2022_resequencing/resequence_plan.ipynb",
     "DNA Extraction Tracker (2024).md",
     "09-23-CBC_Enrichments/10-04-23 Enrichment and DNA concentrations.md",
     "09-23-CBC_Enrichments/09-29-23 DNA concentrations_ampure_cleaning.md",
