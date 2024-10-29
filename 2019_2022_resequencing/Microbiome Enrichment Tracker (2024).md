@@ -428,6 +428,7 @@ second run:
 | t1-24     | 21.2  |     |
 ###### 10-22
 - bead prep for this week's enrichments 
+- 10-29 enrichment
 
 | sample                                       | ng/ul     | volume of sample (ul) | ng* of sample | Volume beads (ul) (Z) | Volume wash buffer x5 (ul) | Total volume (ul) | Added beads cleanup (W) | Total volume |
 | -------------------------------------------- | --------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ----------------------- | ------------ |
