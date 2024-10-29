@@ -461,3 +461,4 @@ second run:
 | Protein A magnetic beads (Y)                 | 356.616   | ul                    |               |                       |                            |                   |                         |              |
 | MBD2-Fc protein (X)                          | 35.6616   | ul                    |               |                       |                            |                   |                         |              |
 |                                              | 0.3922776 | mL                    |               |                       |                            |                   |                         |              |
+|                                              |           |                       |               |                       |                            |                   |                         |              |
