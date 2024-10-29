@@ -429,6 +429,8 @@ second run:
 ###### 10-22
 - bead prep for this week's enrichments 
 - 10-29 enrichment
+	- host eluted not cleaned, box 31
+	- micro cleaned, box 30 
 
 | sample                                       | ng/ul     | volume of sample (ul) | ng* of sample | Volume beads (ul) (Z) | Volume wash buffer x5 (ul) | Total volume (ul) | Added beads cleanup (W) | Total volume |
 | -------------------------------------------- | --------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ----------------------- | ------------ |
@@ -462,4 +464,31 @@ second run:
 | Protein A magnetic beads (Y)                 | 356.616   | ul                    |               |                       |                            |                   |                         |              |
 | MBD2-Fc protein (X)                          | 35.6616   | ul                    |               |                       |                            |                   |                         |              |
 |                                              | 0.3922776 | mL                    |               |                       |                            |                   |                         |              |
+|                                              | micro     |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T4_12_PSTR                    | 1.15      |                       |               |                       |                            |                   |                         |              |
+| 052022_BEL_CBC_T1_39_MCAV                    | 4.64      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T3_133_MCAV                   | 2.6       |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T4_14_MCAV                    | 6.56      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T4_5_MCAV                     | 5.5       |                       |               |                       |                            |                   |                         |              |
+| 052022_BEL_CBC_T2_60_PAST                    | 1.13      |                       |               |                       |                            |                   |                         |              |
+| 052022_BEL_CBC_T3_54_PAST                    | 0.542     |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T1_134_PAST                   | 0.68      |                       |               |                       |                            |                   |                         |              |
 |                                              |           |                       |               |                       |                            |                   |                         |              |
+| 052022_BEL_CBC_T1_60_MCAV                    | 4.46      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T1_144_MCAV                   | 1.69      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T3_132_MCAV                   | 6.52      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T3_145_MCAV                   | 3.68      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T4_15_MCAV                    | 1.61      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T4_6_MCAV                     | 15.6      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T1_139_PAST                   | 0.68      |                       |               |                       |                            |                   |                         |              |
+| 122022_BEL_CBC_T3_115_PAST                   | 0.408     |                       |               |                       |                            |                   |                         |              |
+062019 t3-31 past (2024 extract) 1.28
+122022 t2 85 mcav (2024 extract) 0.162
+122022 t4 11 mcav (2024 extract) 0.348
+122022 t1 153 mcav (2024 extract) 0.166
+all put back in box 
+
+pink
+t3 12 past 1.75
+t2 11 past (healthy 2022) 15.0
+(left in penguin to enrich)

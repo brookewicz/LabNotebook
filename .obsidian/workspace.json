@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/Microbiome-enrichment.md"
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md"
               }
             }
           },
@@ -169,11 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0876df560e0662ab",
+  "active": "832e09fb9327d248",
   "lastOpenFiles": [
+    "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "Misc2024/Multichannel Pipette Testing.md",
-    "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/measure_old_extracts.xlsx",
     "2019_2022_resequencing/Extraction_Locat_Update.ipynb",
     "Misc2024",
