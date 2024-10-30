@@ -501,6 +501,9 @@ t2 11 past (healthy 2022) 15.0
 	- added 7uL h20 to t3 31 past (13 uL of 3.18) to make vol of 20uL of 2.07. then took 10uL for enrichment 
 	- added 7.5 undiluted to first half through t3 - 7. added 15uL of water to 'undilute' the excess 5uL 
 - t1 8 & t1 1 may have spilled prior to cleanup 
+- host eluted not cleaned box #31
+- micro cleaned box #27 
+- if starting concentrations were <5ng, put in 25uL of elution buffer instead of 50 (listed with concentrations)
 
 | Sample information                           |           | Pt2 - step 1                            |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | -------------------------------------------- | --------- | --------------------------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
@@ -545,3 +548,32 @@ t2 11 past (healthy 2022) 15.0
 | vol 5x undiluted buffer needed               | 3.4       | mL                                      |               |                       |                            |                   |                           |              |
 | vol water needed                             | 13.6      | mL                                      |               |                       |                            |                   |                           |              |
 | amnt 1x buffer to add (step 12) (Y)          | 632.768   | uL                                      |               |                       |                            |                   |                           |              |
+  
+|                           | amnt EB uL | micro ng/uL |
+| ------------------------- | ---------- | ----------- |
+| 062019_BEL_CBC_T3_1_MCAV  | 50         | 0.852       |
+| 062019_BEL_CBC_T3_15_MCAV | 50         | 1.5         |
+| 062019_BEL_CBC_T1_16_MCAV | 50         | 1.11        |
+| 052022_BEL_CBC_T3_13_MCAV | 25         | 0.854       |
+| 052022_BEL_CBC_T3_19_MCAV | 25         | 0.256       |
+| 052022_BEL_CBC_T2_10_MCAV | 50         | 0.694       |
+| 052022_BEL_CBC_T1_57_MCAV | 50         | 1.19        |
+| 062019_BEL_CBC_T3_7_PAST  | 50         | 1.66        |
+| 062019_BEL_CBC_T1_8_PAST  | 25         | 0.45        |
+| 062019_BEL_CBC_T1_1_PAST  | 25         | 0.214       |
+| 062019_BEL_CBC_T3_25_PAST | 50         | 1.1         |
+| 062019_BEL_CBC_T3_31_PAST | 25         | 0.284       |
+| 062019_BEL_CBC_T3_16_MCAV | 50         | 1.49        |
+| 062019_BEL_CBC_T2_28_MCAV | 25         | 0.216       |
+| 062019_BEL_CBC_T1_4_MCAV  | 50         | 0.548       |
+| 062019_BEL_CBC_T2_29_PAST | 25         | 0.518       |
+Qubit additional 'old' extractions - put in penguin after measuring 
+
+| sample                    | box   | ng/uL |
+| ------------------------- | ----- | ----- |
+| 052022_BEL_CBC_T1_13_MCAV | GREEN | 4.3   |
+| 052022_BEL_CBC_T1_40_MCAV | GREEN | 13.9  |
+| 062019_BEL_CBC_T3_10_PAST | GREEN | 3.72  |
+| 052022_BEL_CBC_T3_8_PAST  | PINK  | 8.96  |
+|                           |       |       |
+& one more enriched sample (enriched in 2024): T3_116_PAST (Box 30): 11.0 (put back in box 30)

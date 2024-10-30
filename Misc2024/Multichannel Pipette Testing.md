@@ -26,9 +26,15 @@ tested 8 channel pipettes
 5. 0.16 g
 ==good to use!==
 
+#### 5-50 uL (test 50 on 200uL tip)
+- E0618435A
+1. 0.38
+2. 0.38
+3. 0.39
+4. 0.39
+5. 0.39
 #### Other pipette options:
 - wasn't able to test because we don't have tips 
-**5-50 uL**
-- E0618435A
+
 **1-10 uL**
 - C0821079A
