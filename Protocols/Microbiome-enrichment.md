@@ -7,8 +7,7 @@ https://www.neb.com/products/e2612-nebnext-microbiome-dna-enrichment-kit#Product
 Protocol:https://www.neb.com/protocols/2013/04/18/protocol-for-use-with-nebnext-microbiome-dna-enrichment-e2612
 
 Reagents expressed in ==**bold**== need a calculation from this document. Use the following spreadsheet to determine your DNA input and reagent input volumes:
-[[
-]]https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=0
+https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit#gid=0
 
 #### Materials/Prep
 - **Get ice** 
@@ -22,8 +21,6 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 - 1X TE (elution buffer)
 - Proteinase K 
 - Clean NGS bead aliquots 
-
-
 
 ### Prepare beads - Pt1
 ~1 hr 
@@ -126,6 +123,7 @@ Reagents expressed in ==**bold**== need a calculation from this document. Use th
 *Caution: Do not over-dry the beads. This may result in lower recovery of DNA. Elute the samples when the beads are still dark brown and glossy looking, but when all visible liquid has evaporated. When the beads turn brown and start to crack, they are too dry.* 
 
 10. Remove the tube from the magnetic stand. Elute the DNA target from the beads by adding 50 μl of 1X TE (Elution buffer) (use 25 μl for each tube if sample was split in two).
+==**STOP**: are there any samples you anticipate will have low concentrations that you should put in 25uL instead?==
 - heat TE buffer to ~60 degree C 
 
 12. Mix well by pipetting up and down 10 times. Incubate for at least 10 minutes at room temperature. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing back on the magnetic stand.
