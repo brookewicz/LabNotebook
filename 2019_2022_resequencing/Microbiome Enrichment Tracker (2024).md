@@ -500,7 +500,7 @@ t2 11 past (healthy 2022) 15.0
 	- added 15uL molecular h20 to t3 19 mcav tube (5uL of )to make total vol 20uL of 4.35ng/uL. then took 10uL for enrichment 
 	- added 7uL h20 to t3 31 past (13 uL of 3.18) to make vol of 20uL of 2.07. then took 10uL for enrichment 
 	- added 7.5 undiluted to first half through t3 - 7. added 15uL of water to 'undilute' the excess 5uL 
-	- 
+- t1 8 & t1 1 may have spilled prior to cleanup 
 
 | Sample information                           |           | Pt2 - step 1                            |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |
 | -------------------------------------------- | --------- | --------------------------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ |
