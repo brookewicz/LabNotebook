@@ -482,11 +482,12 @@ second run:
 | 122022_BEL_CBC_T4_6_MCAV                     | 15.6      |                       |               |                       |                            |                   |                         |              |
 | 122022_BEL_CBC_T1_139_PAST                   | 0.68      |                       |               |                       |                            |                   |                         |              |
 | 122022_BEL_CBC_T3_115_PAST                   | 0.408     |                       |               |                       |                            |                   |                         |              |
+extra qubit measurements:
 062019 t3-31 past (2024 extract) 1.28
 122022 t2 85 mcav (2024 extract) 0.162
 122022 t4 11 mcav (2024 extract) 0.348
 122022 t1 153 mcav (2024 extract) 0.166
-all put back in box 
+all put back in box 26 
 
 pink
 t3 12 past 1.75
