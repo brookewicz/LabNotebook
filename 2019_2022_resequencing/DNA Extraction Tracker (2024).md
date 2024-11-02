@@ -162,8 +162,8 @@
 | 052022_BEL_CBC_T2_11_PAST  | PAST        | 2022     | Healthy           |                                                                                                               | 9_16_2024          | 0.069         |                    |              |
 | 052022_BEL_CBC_T3_10_PAST  | PAST        | 2022     | Healthy           | 176.9                                                                                                         | 9_16_2024          | 3.58          |                    |              |
 | negative control           |             |          |                   |                                                                                                               | 9_16_2024          | too low       |                    |              |
-| 052022_BEL_CBC_T2_62_PAST  | PAST        | 2022     | Diseased_Tissue   | 432.2                                                                                                         | 11_2_2024          |               |                    |              |
-| negative control           |             |          |                   |                                                                                                               | 11_2_2024          |               |                    |              |
+| 052022_BEL_CBC_T2_62_PAST  | PAST        | 2022     | Diseased_Tissue   | 432.2                                                                                                         | 11_2_2024          | 0.522         | UML_NARWHAL_R2_B29 |              |
+| negative control           |             |          |                   |                                                                                                               | 11_2_2024          | too low       |                    |              |
 
 
 ##### Protocol Notes: 
@@ -252,5 +252,14 @@
 	- t1 57 mcav, t2 10 mcav, t3 19 (both), t1 19, t2 11 past  
 
 ###### 11-2-24
-- extract from depleted one sample: 052022_BEL_CBC_T2_62_PAST & neg control 
-- following protocol established 9-16 
+- also qubited 122022_BEL_CBC_T2_95_MCAV (enriched) since last measure was 'too low': 
+- stnds 37.84, calibration issue for standard 2
+	- measuring with weird standards: 
+		- 62: 0.386
+		- neg: too low
+		- 95: too low
+-  new stnds (opened new stnds) 59.86,6383.08
+	- 62 0.522 - put in box 29 
+	- neg: too low- put in box 29 
+	- 95: too low - put back in box 30 
+	- 

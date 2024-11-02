@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DNA Extraction"
+              "title": "Backlinks for DNA Extraction Tracker (2024)"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DNA Extraction"
+              "title": "Outgoing links from DNA Extraction Tracker (2024)"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/DNA Extraction.md"
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DNA Extraction"
+              "title": "Outline of DNA Extraction Tracker (2024)"
             }
           },
           {
@@ -203,10 +203,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0876df560e0662ab",
+  "active": "67504bf73c674017",
   "lastOpenFiles": [
-    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Protocols/DNA Extraction.md",
+    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Misc2024/Multichannel Pipette Testing.md",
     "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
