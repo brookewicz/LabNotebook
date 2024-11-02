@@ -162,6 +162,8 @@
 | 052022_BEL_CBC_T2_11_PAST  | PAST        | 2022     | Healthy           |                                                                                                               | 9_16_2024          | 0.069         |                    |              |
 | 052022_BEL_CBC_T3_10_PAST  | PAST        | 2022     | Healthy           | 176.9                                                                                                         | 9_16_2024          | 3.58          |                    |              |
 | negative control           |             |          |                   |                                                                                                               | 9_16_2024          | too low       |                    |              |
+| 052022_BEL_CBC_T2_62_PAST  | PAST        | 2022     | Diseased_Tissue   | 432.2                                                                                                         | 11_2_2024          |               |                    |              |
+| negative control           |             |          |                   |                                                                                                               | 11_2_2024          |               |                    |              |
 
 
 ##### Protocol Notes: 
@@ -249,4 +251,6 @@
 - orange box:
 	- t1 57 mcav, t2 10 mcav, t3 19 (both), t1 19, t2 11 past  
 
-
+###### 11-2-24
+- extract from depleted one sample: 052022_BEL_CBC_T2_62_PAST & neg control 
+- following protocol established 9-16 
