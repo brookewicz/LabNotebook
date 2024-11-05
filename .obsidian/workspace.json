@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "0876df560e0662ab",
+            "id": "5c4ea5711226cecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "Protocols/Microbiome-enrichment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA Extraction"
-            }
-          },
-          {
-            "id": "67504bf73c674017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNA Extraction Tracker (2024)"
+              "title": "Microbiome-enrichment"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67504bf73c674017",
+  "active": "5c4ea5711226cecd",
   "lastOpenFiles": [
+    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+    "Protocols/Microbiome-enrichment.md",
     "Protocols/DNA Extraction.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Misc2024/Multichannel Pipette Testing.md",
-    "Protocols/Microbiome-enrichment.md",
-    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "2019_2022_resequencing/measure_old_extracts.xlsx",
     "2019_2022_resequencing/Extraction_Locat_Update.ipynb",
     "Misc2024",

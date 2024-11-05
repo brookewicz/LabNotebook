@@ -577,3 +577,8 @@ Qubit additional 'old' extractions - put in penguin after measuring
 | 052022_BEL_CBC_T3_8_PAST  | PINK  | 8.96  |
 |                           |       |       |
 & one more enriched sample (enriched in 2024): T3_116_PAST (Box 30): 11.0 (put back in box 30)
+
+###### 11-5
+- enrichment of second set of samples from bead prep above 
+- sample notes
+	- add 7uL of h20 to t3-1 to make 20uL total (change concentration from 9.23 to 6)
