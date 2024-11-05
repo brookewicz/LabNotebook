@@ -579,9 +579,44 @@ Qubit additional 'old' extractions - put in penguin after measuring
 & one more enriched sample (enriched in 2024): T3_116_PAST (Box 30): 11.0 (put back in box 30)
 
 ###### 11-5
-- enrichment of second set of samples from bead prep above 
+- enrichment of second set of samples from bead prep above (some volume changes):
 - sample notes
 	- add 7uL of h20 to t3-1 to make 20uL total (change concentration from 9.23 to 6)
 - host eluted but not cleaned
 - micro cleaned
 	- t2 23, t2 8, t3 9, t3 1 eluted into 25 instead of 50uL EB
+- enriched micro - box 27 
+- enriched host - box 31
+
+| Samples                   | ng/ul | volume of sample (ul) | ng* of sample | Volume beads (ul) (Z) | Volume wash buffer x5 (ul) | Total volume (ul) | Added beads cleanup (W) | Total volume |
+| ------------------------- | ----- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ----------------------- | ------------ |
+| 062019_BEL_CBC_T3_8_MCAV  | 13.3  | 10                    | 133           | 21.28                 | 2.5                        | 33.78             | 60.80                   | 94.58        |
+| 062019_BEL_CBC_T1_24_MCAV | 21.2  | 10                    | 212           | 33.92                 | 2.5                        | 46.42             | 83.56                   | 129.98       |
+| 062019_BEL_CBC_T3_9_MCAV  | 5.2   | 20                    | 104           | 16.64                 | 5                          | 41.64             | 74.95                   | 116.59       |
+| 062019_BEL_CBC_T3_14_MCAV | 12.6  | 10                    | 126           | 20.16                 | 2.5                        | 32.66             | 58.79                   | 91.45        |
+| 052022_BEL_CBC_T3_1_MCAV  | 6     | 10                    | 60            | 9.6                   | 2.5                        | 22.1              | 39.78                   | 61.88        |
+| 052022_BEL_CBC_T1_1_PAST  | 39.8  | 10                    | 398           | 63.68                 | 2.5                        | 76.18             | 137.12                  | 213.30       |
+| 062019_BEL_CBC_T1_17_MCAV | 4.34  | 30                    | 130.2         | 20.832                | 7.5                        | 58.332            | 105.00                  | 163.33       |
+| 062019_BEL_CBC_T1_22_MCAV | 6.67  | 30                    | 200.1         | 32.016                | 7.5                        | 69.516            | 125.13                  | 194.64       |
+| 062019_BEL_CBC_T1_6_MCAV  | 7.03  | 30                    | 210.9         | 33.744                | 7.5                        | 71.244            | 128.24                  | 199.48       |
+| 062019_BEL_CBC_T1_9_MCAV  | 3.56  | 30                    | 106.8         | 17.088                | 7.5                        | 54.588            | 98.26                   | 152.85       |
+| 062019_BEL_CBC_T2_18_MCAV | 7.26  | 30                    | 217.8         | 34.848                | 7.5                        | 72.348            | 130.23                  | 202.57       |
+| 062019_BEL_CBC_T2_23_MCAV | 3.25  | 30                    | 97.5          | 15.6                  | 7.5                        | 53.1              | 95.58                   | 148.68       |
+| 062019_BEL_CBC_T2_8_MCAV  | 3.43  | 30                    | 102.9         | 16.464                | 7.5                        | 53.964            | 97.14                   | 151.10       |
+
+|                           | amnt EB uL | micro ng/uL |
+| ------------------------- | ---------- | ----------- |
+| 062019_BEL_CBC_T3_8_MCAV  | 50         | 0.196       |
+| 062019_BEL_CBC_T1_24_MCAV | 50         | 0.2         |
+| 062019_BEL_CBC_T3_9_MCAV  | 25         | 0.322       |
+| 062019_BEL_CBC_T3_14_MCAV | 50         | 0.198       |
+| 052022_BEL_CBC_T3_1_MCAV  | 25         | 0.292       |
+| 052022_BEL_CBC_T1_1_PAST  | 50         | 0.912       |
+| 062019_BEL_CBC_T1_17_MCAV | 50         | 0.772       |
+| 062019_BEL_CBC_T1_22_MCAV | 50         | 0.184       |
+| 062019_BEL_CBC_T1_6_MCAV  | 50         | 0.42        |
+| 062019_BEL_CBC_T1_9_MCAV  | 50         | 0.238       |
+| 062019_BEL_CBC_T2_18_MCAV | 50         | 0.356       |
+| 062019_BEL_CBC_T2_23_MCAV | 25         | 0.218       |
+| 062019_BEL_CBC_T2_8_MCAV  | 25         | 0.176       |
+stnds 55.18, 4958.3
