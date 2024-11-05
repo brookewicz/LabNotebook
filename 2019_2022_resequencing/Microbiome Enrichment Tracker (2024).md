@@ -582,3 +582,6 @@ Qubit additional 'old' extractions - put in penguin after measuring
 - enrichment of second set of samples from bead prep above 
 - sample notes
 	- add 7uL of h20 to t3-1 to make 20uL total (change concentration from 9.23 to 6)
+- host eluted but not cleaned
+- micro cleaned
+	- t2 23, t2 8, t3 9, t3 1 eluted into 25 instead of 50uL EB
