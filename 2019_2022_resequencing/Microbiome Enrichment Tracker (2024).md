@@ -578,6 +578,40 @@ Qubit additional 'old' extractions - put in penguin after measuring
 |                           |       |       |
 & one more enriched sample (enriched in 2024): T3_116_PAST (Box 30): 11.0 (put back in box 30)
 
+###### 10-30 Jade enrichment: 
+|                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| microenriched CBC box #27                                                                                                                                         |
+| host CBC box #28 (not cleaned)                                                                                                                                    |
+|                                                                                                                                                                   |
+| Notes:                                                                                                                                                            |
+| in part 2 step 2 I added 2.5µL of 1x bind/wash buffer rather than 2.5µL of 5x bind/wash buffer                                                                    |
+| before proceeding to part 2 step 3 i added 4 more parts of 1x bind wash buffer (10µL) to each sample                                                              |
+| this then changed pt4 step 3 variable W since the volume was different which i accounted for in a change to the formula of "Total volume" column L3:L10 to add 10 |
+| JF october 30 2024                                                                                                                                                |
+
+| Sample information                       |           | Pt2 - step 1          |               | Pt2 - step 1          |                            |                   | AMPURE cleanup pt4 step 3 |              |       |
+| ---------------------------------------- | --------- | --------------------- | ------------- | --------------------- | -------------------------- | ----------------- | ------------------------- | ------------ | ----- |
+| sample                                   | ng/ul     | volume of sample (ul) | ng* of sample | Volume beads (ul) (Z) | Volume wash buffer x5 (ul) | Total volume (ul) | Added beads cleanup (W)   | Total volume | QUBIT |
+| 052022_BEL_CBC_T1_12_MCAV                | 7.52      | 10                    | 75.2          | 12.032                | 2.5                        | 34.532            | 62.1576                   | 96.6896      | 0.176 |
+| 052022_BEL_CBC_T3_48_MCAV                | 25.2      | 10                    | 252           | 40.32                 | 2.5                        | 62.82             | 113.076                   | 175.896      | 3.07  |
+| 052022_BEL_CBC_T3_40_MCAV                | 23        | 10                    | 230           | 36.8                  | 2.5                        | 59.3              | 106.74                    | 166.04       | 3.92  |
+| 052022_BEL_CBC_T3_50_MCAV                | 4.26      | 10                    | 42.6          | 6.816                 | 2.5                        | 29.316            | 52.7688                   | 82.0848      | 0.102 |
+| 052022_BEL_CBC_T1_70_MCAV                | 48.8      | 10                    | 488           | 78.08                 | 2.5                        | 100.58            | 181.044                   | 281.624      | 3.79  |
+| 052022_BEL_CBC_T3_49_MCAV                | 32        | 10                    | 320           | 51.2                  | 2.5                        | 73.7              | 132.66                    | 206.36       | 2.13  |
+| 052022_BEL_CBC_T3_51_MCAV                | 18.6      | 10                    | 186           | 29.76                 | 2.5                        | 52.26             | 94.068                    | 146.328      | 1.95  |
+| 052022_BEL_CBC_T1_52_PAST                | 8.1       | 10                    | 81            | 12.96                 | 2.5                        | 35.46             | 63.828                    | 99.288       | 0.19  |
+|                                          |           |                       |               |                       |                            |                   |                           |              |       |
+|                                          |           |                       |               |                       |                            |                   |                           |              |       |
+| MBD2-Fc-bound magnetic beads - Bead Prep |           |                       |               |                       |                            |                   |                           |              |       |
+| Protein A magnetic beads (Y)             | 267.968   | ul                    |               |                       |                            |                   |                           |              |       |
+| MBD2-Fc protein (X)                      | 26.7968   | ul                    |               |                       |                            |                   |                           |              |       |
+|                                          | 0.2947648 | mL                    |               |                       |                            |                   |                           |              |       |
+| 1x Bind/Wash Buffer - Bead Prep          |           |                       |               |                       |                            |                   |                           |              |       |
+| Final volume 1x bind/wash buffer         | 12        | mL                    |               |                       |                            |                   |                           |              |       |
+| vol 5x undiluted buffer needed           | 2.4       | mL                    |               |                       |                            |                   |                           |              |       |
+| vol water needed                         | 9.6       | mL                    |               |                       |                            |                   |                           |              |       |
+| amnt 1x buffer to add (step 12) (Y)      | 267.968   | uL                    |               |                       |                            |                   |                           |              |       |
 ###### 11-5
 - enrichment of second set of samples from bead prep above (some volume changes):
 - sample notes
