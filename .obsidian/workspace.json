@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e0aee34b020e2e54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "5c4ea5711226cecd",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Microbiome-enrichment"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "832e09fb9327d248",
+  "active": "e0aee34b020e2e54",
   "lastOpenFiles": [
     "Protocols/Microbiome-enrichment.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
