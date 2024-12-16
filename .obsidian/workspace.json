@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA Extraction"
+              "title": "DNA Extraction Tracker (2024)"
             }
           },
           {
@@ -202,9 +202,9 @@
   },
   "active": "832e09fb9327d248",
   "lastOpenFiles": [
+    "Protocols/DNA Extraction.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "Protocols/Microbiome-enrichment.md",
-    "Protocols/DNA Extraction.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Misc2024/Multichannel Pipette Testing.md",
     "2019_2022_resequencing/measure_old_extracts.xlsx",
