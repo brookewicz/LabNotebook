@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checking extracted (2022) DNA concentrations"
+              "title": "Microbiome Enrichment Tracker (2024)"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "832e09fb9327d248",
   "lastOpenFiles": [
-    "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+    "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Protocols/Microbiome-enrichment.md",
     "Protocols/DNA Extraction.md",
