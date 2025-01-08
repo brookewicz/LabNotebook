@@ -35,8 +35,7 @@
               "title": "Microbiome Enrichment Tracker (2024)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d03d0b5000175eca",
+  "active": "832e09fb9327d248",
   "lastOpenFiles": [
-    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "Protocols/Microbiome-enrichment.md",
     "Protocols/DNA Extraction.md",
