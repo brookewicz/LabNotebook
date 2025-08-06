@@ -3,6 +3,9 @@
 - micro enriched (& cleaned) narwhal box #27
 - host enriched (& cleaned) narwhal box #28 
 ##### Protocol Notes and Dates: 
+
+8-6-25 
+- Found error with sample codes. Thij's extraction of 052022_t3_25_PAST was sequenced as 062019 - changes have been made in metagenomics tracker and enrichment and extraction tracker in this lab notebook, so all dates are correct now 
 ###### 8-2-24
 - forgot to use low-bind tubes in extractions [[DNA Extraction Tracker (2024)]], but switching to them now
 - spilled micro T4 21 micro )): 
@@ -518,7 +521,7 @@ t2 11 past (healthy 2022) 15.0
 | 062019_BEL_CBC_T3_7_PAST                     | 7.28      | 20                                      | 145.6         | 23.296                | 5                          | 48.296            | 86.9328                   | 135.2288     |
 | 062019_BEL_CBC_T1_8_PAST                     | 3.92      | 20                                      | 78.4          | 12.544                | 5                          | 37.544            | 67.5792                   | 105.1232     |
 | 062019_BEL_CBC_T1_1_PAST                     | 2.38      | 20                                      | 47.6          | 7.616                 | 5                          | 32.616            | 58.7088                   | 91.3248      |
-| 062019_BEL_CBC_T3_25_PAST                    | 8.52      | 20                                      | 170.4         | 27.264                | 5                          | 52.264            | 94.0752                   | 146.3392     |
+| 052022_BEL_CBC_T3_25_PAST                    | 8.52      | 20                                      | 170.4         | 27.264                | 5                          | 52.264            | 94.0752                   | 146.3392     |
 | 062019_BEL_CBC_T3_31_PAST                    | 3.18      | 20                                      | 63.6          | 10.176                | 5                          | 35.176            | 63.3168                   | 98.4928      |
 | 062019_BEL_CBC_T3_16_MCAV                    | 13.6      | 10                                      | 136           | 21.76                 | 2.5                        | 34.26             | 61.668                    | 95.928       |
 | 062019_BEL_CBC_T2_28_MCAV                    | 3.3       | 20                                      | 66            | 10.56                 | 5                          | 35.56             | 64.008                    | 99.568       |
@@ -561,7 +564,7 @@ t2 11 past (healthy 2022) 15.0
 | 062019_BEL_CBC_T3_7_PAST  | 50         | 1.66        |
 | 062019_BEL_CBC_T1_8_PAST  | 25         | 0.45        |
 | 062019_BEL_CBC_T1_1_PAST  | 25         | 0.214       |
-| 062019_BEL_CBC_T3_25_PAST | 50         | 1.1         |
+| 052022_BEL_CBC_T3_25_PAST | 50         | 1.1         |
 | 062019_BEL_CBC_T3_31_PAST | 25         | 0.284       |
 | 062019_BEL_CBC_T3_16_MCAV | 50         | 1.49        |
 | 062019_BEL_CBC_T2_28_MCAV | 25         | 0.216       |
