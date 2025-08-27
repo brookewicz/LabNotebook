@@ -262,4 +262,6 @@
 	- 62 0.522 - put in box 29 
 	- neg: too low- put in box 29 
 	- 95: too low - put back in box 30 
-	- 
+
+8-6-25 
+- Found error with sample codes. Thij's extraction of 052022_t3_25_PAST was sequenced as 062019 - changes have been made in metagenomics tracker and enrichment and extraction tracker in this lab notebook, so all dates are correct now 

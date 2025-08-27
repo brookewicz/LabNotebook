@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
+                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checking extracted (2022) DNA concentrations"
-            }
-          },
-          {
-            "id": "d03d0b5000175eca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Microbiome Enrichment Tracker (2024)"
+              "title": "DNA Extraction Tracker (2024)"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "t3_25_past",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,9 +177,10 @@
   },
   "active": "832e09fb9327d248",
   "lastOpenFiles": [
-    "Protocols/DNA Extraction.md",
     "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
+    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
+    "Protocols/DNA Extraction.md",
     "Nutrients/plate_results/testrun.xlsx",
     "Nutrients/plate_results/test_apr25_2025_edited.txt",
     "Nutrients/plate_results/test_apr25_2025.txt",
@@ -205,7 +191,6 @@
     "Nutrients/no3_calculations/no3_calc.ipynb",
     "Nutrients/no3_calculations/no3_calc-test2.ipynb",
     "Nutrients/no3_calculations/no3_4_25_2025.ipynb",
-    "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "Protocols/Microbiome-enrichment.md",
     "Misc2024/Multichannel Pipette Testing.md",
     "09-23-CBC_Enrichments/10-17-23 Micro cleaning.md",
