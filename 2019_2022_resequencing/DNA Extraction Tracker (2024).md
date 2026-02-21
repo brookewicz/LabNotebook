@@ -165,7 +165,8 @@
 | 052022_BEL_CBC_T2_62_PAST  | PAST        | 2022     | Diseased_Tissue   | 432.2                                                                                                         | 11_2_2024          | 0.522         | UML_NARWHAL_R2_B29 |              |
 | negative control           |             |          |                   |                                                                                                               | 11_2_2024          | too low       |                    |              |
 
-
+##### Sample ID Notes:
+- 052022_BEL_CBC_T1_63_OFAV was changed to OANN at some point - might not be updated everywhere in this notebook though 
 ##### Protocol Notes: 
 ###### 7-3-24
 - for weighing, kept tissue samples on ice while not using, but did not keep on ice while actively pulling tissue out. handled open tubes around the flame. tried to cut pieces in tissue tube but used weigh paper underneath to catch anything. How should we be doing this? how can we standardize this better? 
