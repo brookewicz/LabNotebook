@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA Extraction Tracker (2024)"
+              "title": "README"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "832e09fb9327d248",
   "lastOpenFiles": [
+    "Nutrients/DO/jun2024/BB_DO.png",
+    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "Nutrients/nitrate_2024/plate_results/testrun.xlsx",
     "Nutrients/nitrate_2024/plate_results/test_apr25_2025_edited.txt",
     "Nutrients/nitrate_2024/plate_results/test_apr25_2025.txt",
@@ -188,13 +190,10 @@
     "Nutrients/nitrate_2024/plate_results/nitrate5_19plates_edited.csv",
     "Nutrients/nitrate_2024/plate_results/nitrate5_19plates.txt",
     "Nutrients/nitrate_2024/plate_results/Nitrate_Test_4_11_25_BKS_edited.txt",
-    "Nutrients/nitrate_2024/plate_results/Nitrate_Test_4_11_25_BKS.txt",
     "Nutrients/DO/jun2024/SR30N_DO.png",
     "Nutrients/DO/jun2024/LAGOON_DO.png",
     "Nutrients/DO/jun2024/CBC30N_DO.png",
-    "Nutrients/DO/jun2024/BB_DO.png",
     "Untitled.md",
-    "2019_2022_resequencing/DNA Extraction Tracker (2024).md",
     "2019_2022_resequencing/Checking extracted (2022) DNA concentrations.md",
     "2019_2022_resequencing/Microbiome Enrichment Tracker (2024).md",
     "Protocols/DNA Extraction.md",
